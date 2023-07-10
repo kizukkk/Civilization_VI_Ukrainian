@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_GRAPHICS">
+			<Text>
+				Графіка
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_EXP2_GRAPHICS">
+			<Text>
+				Gathering Storm графіка
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_AI">
+			<Text>
+				ШІ
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_EXP2_AI">
+			<Text>
+				Gathering Storm ШІ
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_GRAPHICS_TT">
+			<Text>
+				Вимірювання продуктивності графіки на комп'ютері.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_EXP2_GRAPHICS_TT">
+			<Text>
+				Важкий бенчмарк для вимірювання графічної продуктивності комп'ютера.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_AI_TT">
+			<Text>
+				Вимірювання продуктивності ШІ та обробки на комп’ютері.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_EXP2_AI_TT">
+			<Text>
+				Важкий бенчмарк для вимірювання продуктивності ШІ та обробки на комп’ютері.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_AI_TT_ERROR">
+			<Text>
+				[COLOR_RED]Для виконання цього тесту потрібно ввімкнути Aztec Civilization Pack.[ENDCOLOR]
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_EXP2_AI_TT_ERROR">
+			<Text>
+				[COLOR_RED]Для виконання цього тесту має бути ввімкнено розширення Gathering Storm.[ENDCOLOR]
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_EXP2_GRAPHICS_TT_ERROR">
+			<Text>
+				[COLOR_RED]Для виконання цього тесту має бути ввімкнено розширення Gathering Storm.[ENDCOLOR]
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_TIME">
+			<Text>
+				Час:
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_TURN">
+			<Text>
+				Хід:
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_AVG_TURN_TIME">
+			<Text>
+				Середній час ходу:
+			</Text>
+		</Replace>
+		<LocalizedText>
+		</LocalizedText>
+	</LocalizedText>
+</GameData>
