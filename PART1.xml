@@ -2527,7 +2527,6 @@
 				Гравці, що перебувають у стані миру, роблять свої ходи одночасно. Гравці в стані війни ходять послідовно.
 			</Text>
 		</Replace>
-		<!-- TODO: Continue editing the machine translation below -->
 		<Replace Language="uk_UA" Tag="LOC_MAP_WORLD_AGE_DESCRIPTION">
 			<Text>
 				Змінює висоту карти (пагорби та гори).
@@ -2553,59 +2552,62 @@
 				Карта з випадковими пагорбами, горами та вулканами.
 			</Text>
 		</Replace>
+
+		<!-- TODO: Continue editing the machine translation below -->
+
 		<Replace Language="uk_UA" Tag="LOC_MAP_TEMPERATURE_DESCRIPTION">
 			<Text>
-				Регулює місцевість карти.
+				Налаштовує рельєф мапи.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_TEMPERATURE_HOT_DESCRIPTION">
 			<Text>
-				Карта з більшою пустелею та меншою тундрою та снігом.
+				Карта з більшою кількістю пустель і меншою кількістю тундри та снігу.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_TEMPERATURE_STANDARD_DESCRIPTION">
 			<Text>
-				Карта із звичайним кліматом, схожим земні.
+				Карта з звичайним рельєфом, схожим на рельєф Землі.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_TEMPERATURE_COLD_DESCRIPTION">
 			<Text>
-				Карта з більшою тундрою та снігом та меншою пустелею.
+				Карта з більшою кількістю тундр та снігу і меншою кількістю пустель
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_TEMPERATURE_RANDOM_DESCRIPTION">
 			<Text>
-				Карта з випадковими зонами температури місцевості.
+				Карта з випадковими кліматичними зонами.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_RAINFALL_DESCRIPTION">
 			<Text>
-				Змінює кількість функцій, присутніх на карті.
+				Регулює кількість об'єктів, присутніх на карті.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_RAINFALL_ARID_DESCRIPTION">
 			<Text>
-				Карта з меншою кількістю лісів, тропічних лісів та болота.
+				Карта з меншою кількістю лісів, тропіків та боліт.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_RAINFALL_STANDARD_DESCRIPTION">
 			<Text>
-				Карта із середньою кількістю лісів, тропічних лісів та болота.
+				Карта із середньою кількістю лісів, тропіків та боліт.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_RAINFALL_WET_DESCRIPTION">
 			<Text>
-				Карта з більшою кількістю лісів, тропічних лісів та Марша.
+				Карта з більшою кількістю лісів, тропіків та боліт.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_RAINFALL_RANDOM_DESCRIPTION">
 			<Text>
-				Карта з випадковою кількістю функцій.
+				Карта з меншою кількістю об'єктів.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_SEA_LEVEL_DESCRIPTION">
 			<Text>
-				Змінює кількість води на карті.
+				Регулює кількість води на карті.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_SEA_LEVEL_LOW_DESCRIPTION">
@@ -2635,7 +2637,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_RESOURCES_SPARSE_DESCRIPTION">
 			<Text>
-				Карта з меншими ресурсами.
+				Карта з обмеженими ресурсами.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_RESOURCES_STANDARD_DESCRIPTION">
@@ -2655,32 +2657,32 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_START_POSITION_DESCRIPTION">
 			<Text>
-				Змінює значення вихідного положення.
+				Зсув позиції початку.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
 			<Text>
-				Усі гравці мають однаково хороші стартові місця.
+				Всі гравці мають однаково хороші стартові місця.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_START_POSITION_STANDARD_DESCRIPTION">
 			<Text>
-				Стандартні вихідні позиції.
+				Стандартні початкові позиції.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_START_POSITION_LEGENDARY_DESCRIPTION">
 			<Text>
-				Усі гравці мають чудові, але не обов'язково рівні старти.
+				Всі гравці мають чудові, але не обов'язково рівні початкові умови.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_START_POSITION_MIRRORED_DESCRIPTION">
 			<Text>
-				Усі гравці починають з точно такого ж положення у своєму квадранті MAP.
+				Всі гравці починають з однакової позиції в межах свого квадранту карти.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_GAME_START_ERA">
 			<Text>
-				Стартова Ера
+				Початкова Ера
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_KICK_VOTE">
@@ -2698,9 +2700,13 @@
 				Карта
 			</Text>
 		</Replace>
+
+		
+
+		<!-- Tutorial Select Screen-->
 		<Replace Language="uk_UA" Tag="LOC_SETUP_TUTORIAL_TITLE">
 			<Text>
-				Ласкаво просимо до цивілізації
+				Ласкаво просимо до Civilization
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_TUTORIAL_DESCRIPTION">
@@ -2715,22 +2721,24 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_TUTORIAL_LEADER_2">
 			<Text>
-				Ґільґамеш із Шумерської імперії править величезними землями і є шанованим завойовником.
+				Ґільґамеш із Шумерської імперії править величезними землями і є визначним завойовником.
 			</Text>
 		</Replace>
+
+		<!-- Loading Screen / Dawn of man -->
 		<Replace Language="uk_UA" Tag="LOC_LOADING_DOMAIN_LAND">
 			<Text>
-				Унікальна земельна одиниця
+				Унікальна будівля
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_DOMAIN_SEA">
 			<Text>
-				Унікальний військово -морський блок
+				Унікальний морський юніт
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_DOMAIN_AIR">
 			<Text>
-				Унікальний повітряний блок
+				Унікальний повітряний юніт
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_PLEASE_WAIT">
@@ -2740,7 +2748,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_DISTRICT_BUILDING">
 			<Text>
-				{1_districtName}
+				{1_DistrictName} Районна будівля
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_UNIQUE_BUILDING">
@@ -2760,7 +2768,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_JOIN_THE_WORLD_STAGE">
 			<Text>
-				Виходить на світову арену
+				Приєднується до світової арени
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_FEATURES_ABILITIES">
@@ -2785,39 +2793,43 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_BARBAROSSA">
 			<Text>
-				Героїчний Фредерік, король німців, ваше завдання - створити незалежні держави, які оточують вас в імперію.Ви благословенні бути чудовим воєнним лідером - використовуйте ці навички, щоб залучити ці міста під вашим коливанням, щоб вони могли перетворитися на комерційні та промислові електростанції.Напевно, тоді барди співатимуть могутнього Фредеріка з червоною бородою, великим священним римським імператором.
+				Героїчний Фрідріх, король німців, ваше завдання - об'єднати незалежні держави, що вас оточують, в імперію. Вам пощастило бути великим полководцем - використовуйте ці навички, щоб підпорядкувати собі ці міста і перетворити їх на торгові та промислові центри. Впевнений, що тоді барди будуть оспівувати могутнього рудобородого Фрідріха, великого імператора Священної Римської імперії.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_CATHERINE_DE_MEDICI">
 			<Text>
-				Це припадає на вас, Кетрін де Медічі, щоб використовувати свої дари знань та мистецтв, щоб об'єднати своїх людей.Ретельно проходьте через ці неспокійні часи, королева мати Франції.Ви побудуєте чудові чудеса, малюючи відвідувачів з усіх куточків землі.З вашою пишною усвідомленням усього, як побаченим, так і тим, хто прихований у тіні, ваша імперія, безумовно, витримає випробування часом.
+				Вам, Катерино де Медічі, належить використати священні знання і мистецтво, щоб об'єднати свій народ. Обережно керуйте у ці неспокійні часи, французька Королево-матір. Ви будете творити великі чудеса, залучаючи відвідувачів з усіх куточків землі. З вашою гострою обізнаністю про все, як видиме, так і приховане в тіні, ваша імперія неодмінно витримає випробування часом.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_CLEOPATRA">
 			<Text>
-				Будуть ті, хто вас недооцінює, але ви хитрі і сповнені хитрощів, королева Клеопатра.Ваш чарівність встановить незнищувальні альянси з найсильнішими лідерами світу.Тримайте своїх друзів поруч, і ви опинитесь недоторканими, зі славою Єгипту, що грунтується на перемогу над світом.
+				Будуть ті, хто вас недооцінює, але ви прониклива і повна хитрощів, цариця Клеопатра. Ваш шарм створить непорушні союзи з найсильнішими лідерами цього світу. Тримайте своїх союзників поруч з собою, і ви станете недосяжною ворогові, а про слава Єгипту почує весь світ.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_GANDHI">
 			<Text>
-				Будьте добрими, Ганді Бапу, і ви опинитесь в оточенні справжніх друзів.Зберігайте індійського народу в безпеці, охороняючи їх чудовими воїнами слонів.Ваша віра направить вас до миру та гармонії.Тримайте свій розум відкритим і будьте тією зміною, яку ви хочете побачити у світі.
+				Будьте милостивими, Магатма Ґанді, і ви опинитеся в оточенні вірних союзників. Захистіть індійський народ, охороняючи його неперевершеними воїнами-слонами. Ваша віра приведе вас до миру і гармонії. Тримайте свій розум відкритим і будьте тією зміною, яку ви хочете бачити у світі.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
 			<Text>
-				Дуже багато спирається на ваші плечі, король Гільгамеш.Ваш власний народ та багато людей світу дивляться на вас як на лідера.Але ви більше, ніж просто людина, і вага світу ніколи не призведе до того, що ви коливаєтесь.Заохочуйте людей Шумера влаштувати родючі землі вздовж річок, і не забудьте обережно вибрати своїх союзників - бо там буде багато змагатися за шматок вашої сили.Вийдіть, бо час розпочати свою епічну казку.
+				Багато чого випало на ваші плечі, царю Ґільґамеше. Власний народ і багато народів світу спостерігає за вами як за великим лідером. Але ви більше, ніж просто людина, і світовий тиск ніколи не змусить вас похитнутися. Заохочуйте народ Шумери заселяти родючі землі вздовж річок і ретельно обирайте собі союзників - адже багато хто змагатиметься за частину вашої сили. Вирушайте, бо настав час розпочати вашу епічну оповідь.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_GORGO">
 			<Text>
-				Горго, королева Спарти;Слава тобі та твоїх вірних армій Хопліта!Греція заповідує благословення від Ареса, які приносить кожна перемога.І ваш народ аплодує вашому продуманому управлінню та культурним дивом.Стояйте гордим, за спадщину Греції та ваших досягнень, поколіннями знову і знову будуть розповідатись.
+				Ґорго, царице Спарти, слава вам і вашою вірною армією гоплітів! Греція насолоджується благословенням Ареса, яке приносить кожна перемога. Народ аплодує вашій мудрій політиці та культурним дивам. Пишайтеся, бо про спадщину Греції та про ваші досягнення будуть розповідати знову і знову поколіннями.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
 			<Text>
-				Усі чоловіки бояться наближення ваших кораблів, короля Норвегії, Грому Півночі.Ваші довгі човни домінують над хвилями, завжди готові розкрити свої берсеркерні армії на нічого не підозрюючим берегом.Нехай Одін благословить ваше царство і нехай Скальдс заспіває казки про перемоги ваших могутніх воїнів.
+				Всі бояться наближення ваших кораблів, королю Норвегії Гаральду Суворий. Ваші драккари панують над хвилями, завжди готові випустити свою армії берсеркерів на ворога, який нічого не підозрює. Нехай Одін благословить ваше королівство, а скальди величатимуть перемоги ваших могутніх воїнів.
 			</Text>
 		</Replace>
+
+		<!-- TODO: Continue editing the machine translation below -->
+
+
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_HOJO">
 			<Text>
 				Велика хвиля буддизму слідкує за вами, Шиккен з Японії, Hojo Tokimune.Ваші люди по-справжньому розуміють, що це практикувати рівновагу, і навіть ваш найкращий самурай буде добре вивчений і духовно влучний.Будьте сильними, обійміть божественний вітер, і ви досягнете просвітлення.
@@ -2920,22 +2932,22 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TUTORIAL_DISABLE">
 			<Text>
-				Вимкнути радник.
+				Вимкнути радника.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TUTORIAL_NEW_TO_STRATEGY">
 			<Text>
-				Нове для повороту стратегії.
+				Новенький у покрокових стратегіях.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TUTORIAL_NEW_TO_CIV">
 			<Text>
-				Новий у цивілізації
+				Новий в серії Civilization
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
 			<Text>
-				Нова в цивілізації VI
+				Нова в Civilization VI
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_NO_DUPLICATE_CIVILIZATIONS_NAME">
@@ -3115,7 +3127,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_COPYRIGHT_ACCEPT">
 			<Text>
-				Продовжувати
+				Далі
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_VICTORY_DEFAULT_NAME">
@@ -3130,17 +3142,17 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DEFEATED_SUBHEADER">
 			<Text>
-				Поразливий
+				Поразка
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_ELIMINATED_SUBHEADER">
 			<Text>
-				Усунутий
+				Ліквідовано
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_VICTORY_SCORE_SUBHEADER">
 			<Text>
-				Перемога за очками
+				Перемога за рейтингом
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_VICTORY_SCIENCE_SUBHEADER">
@@ -3165,12 +3177,12 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_VICTORY_SCENARIO_SUBHEADER">
 			<Text>
-				Перемога: {1_scenarioname}
+				Перемога: {1_ScenarioName}
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_VICTORY_SCENARIO_VICTORY_TYPE_SUBHEADER">
 			<Text>
-				{1_scenariovictoryType}
+				{1_ScenarioVictoryType}
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_VICTORY_GAME_WINNER_SUBHEADER">
@@ -3390,7 +3402,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CHOOSE_TEAM_ICON">
 			<Text>
-				Виберіть ікону команди
+				Виберіть пінтограму команди
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
@@ -3400,7 +3412,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_GAME_START_ERROR_DESC">
 			<Text>
-				Була помилка, починаючи гру. [NEWLINE] [NEWLINE] Ми рекомендуємо відключити будь -які моди та спробувати ще раз.
+				Виникла помилка під час початку гри.[NEWLINE][NEWLINE]Ми рекомендуємо вимкнути всі моди і спробувати ще раз.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_GAME_START_ERROR_CODE">
@@ -3410,47 +3422,47 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_GAME_START_VIEW_MODS">
 			<Text>
-				Керуйте модами
+				Керуванням модами
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_GAME_START_ERROR_TITLE">
 			<Text>
-				Початкова гра, починаючи
+				Помилка початку гри
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_GAME_START_ERROR_UNKNOWN_VERSION">
 			<Text>
-				Зберегти версію несумісну.
+				Збережена версія несумісна.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_GAME_START_ERROR_MOD_CONTENT">
 			<Text>
-				Один або кілька мод не змогли завантажити вміст.
+				Один або декілька модулів не змогли завантажити вміст.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_GAME_START_ERROR_MOD_CONFIG">
 			<Text>
-				Один або кілька мод не вдалося налаштувати вміст або записи бази даних.
+				Один або декілька модулів не змогли завантажити вміст або записати до бази даних.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_GAME_START_ERROR_MOD_OWNERSHIP">
 			<Text>
-				Один або кілька мод не придбано.
+				Не придбано один або декілька модифікацій.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_GAME_START_ERROR_SCRIPT_PROCESSING">
 			<Text>
-				Один або кілька сценаріїв запуску мають помилку.Див. Lua.log
+				Один або декілька скриптів запуску містять помилку. Див. Lua.log
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CLOUD_SAVES_REQUIRE_LINKED_ACCOUNT">
 			<Text>
-				Збереження хмари вимагає пов’язаного облікового запису 2K.
+				Хмарне збереження вимагає прив'язування облікового запису 2K.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CLOUD_SAVES_SERVICE_NOT_CONNECTED">
 			<Text>
-				Служби хмарного збереження недоступні.
+				Служба хмарного збереження недоступні.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PAUSEMENU_INFO_OVERVIEW_TOOLTIP">
@@ -3465,39 +3477,42 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PAUSEMENU_INFO_MAP_SEED">
 			<Text>
-				КАРТАЛЬ
+				Сід карти: {1_MapSeed}
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PAUSEMENU_INFO_GAME_SEED">
 			<Text>
-				Гра насіння: {1_gameseed}
+				Сід гри: {1_GameSeed}
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PAUSEMENU_INFO_MOUSE_COPY_TOOLTIP">
 			<Text>
-				Клацніть правою кнопкою миші, щоб скопіювати інформацію.
+				Натисніть ПКМ, щоб скопіювати інформацію.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PAUSEMENU_INFO_TOUCH_COPY_TOOLTIP">
 			<Text>
-				Тримайте 5 секунд, щоб скопіювати інформацію.
+				Утримуйте 5 секунд, щоб скопіювати інформацію.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MOD_SCOUT_CAT_TITLE">
 			<Text>
-				Скаутський кіт
+				Кіт-скаут
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MOD_SCOUT_CAT_TEASER">
 			<Text>
-				Замінює собаку скаута на клоу котів.
+				Замінює собаку-скаута на зграю котів.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MOD_SCOUT_CAT_DESCRIPTION">
 			<Text>
-				Іноді гравець любить "розвідувати" собаку настільки, що вони не витримують, щоб бачити розвідника так сильно працює в дикій природі.Тож очевидним рішенням є відправлення клоу котів, щоб розвідник міг відпочити назад у селі.Або, якщо ви величезний шанувальник котів, то цей DLC просто виправляє неправильне.
+				Іноді гравець так сильно любить собаку "Скаута", що йому нестерпно бачити, як Скаут так важко працює в дикій природі. Тому очевидним рішенням буде відправити зграю котів, щоб Скаут міг розслабитися в селі. Або, якщо ви великий шанувальник котячих, то це DLC те що треба.
 			</Text>
 		</Replace>
+
+		<!-- Leader Pools -->
+
 		<Replace Language="uk_UA" Tag="LOC_LEADER_POOL_1_NAME">
 			<Text>
 				Перший набір лідерів
@@ -3555,7 +3570,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LEADER_POOL_TOO_FEW_WARNING">
 			<Text>
-				Один з лідерів пулу не має достатньо лідерів для кожного гравця, який вибраний у цьому басейні.Якщо ви продовжите, деяким з цих гравців будуть призначені лідери за межами цього пулу.Це нормально?
+				В одному з наборів не вистачає лідерів для кожного гравця, який обрав цей набір. Якщо ви продовжите, деяким з цих гравців будуть призначені лідери не з цього набору. Так й повинно бути?
 			</Text>
 		</Replace>
 	</LocalizedText>
@@ -3632,6 +3647,7 @@
 			</Text>
 		</Replace>
 	</LocalizedText>
+
 	<!-- UI_Options -->
 	<LocalizedText>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TITLE">
@@ -3641,7 +3657,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_TEXT">
 			<Text>
-				Це поверне всі налаштування до початкових значень.[NEWLINE] [NEWLINE] [COLOR_RED] Деякі зміни можуть не вступити в дію, поки ви не перезапустите програму. [ENDCOLOR] [NEWLINE] [NEWLINE] Скинути налаштування?
+				Це поверне всі налаштування до початкових значень.[NEWLINE] [NEWLINE] [COLOR_RED] Деякі зміни можуть не вступити в дію, поки ви не перезапустите програму.[ENDCOLOR][NEWLINE][NEWLINE]Скинути налаштування?
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_CHANGES_REQUIRE_APP_RESTART">
@@ -3656,12 +3672,12 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_RESOLUTION_OK">
 			<Text>
-				Ви хочете дотримуватися поточних налаштувань роздільної здатності?
+				Ви хочете зберегти поточні налаштування розширення екрану?
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_OK">
 			<Text>
-				Так
+				Гаразд
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_YES">
@@ -3721,22 +3737,22 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TOD_REAL_LIFE">
 			<Text>
-				Матч за місцевим часом
+				Матч за реальним часом
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TOD_X_TURNS">
 			<Text>
-				Кожен {1_num} обертається
+				Кожен {1_num} хід
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TOD_10_TURNS">
 			<Text>
-				Кожні 10 поворотів
+				Кожні 10 ходів
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TOD_ERA_PROGRESSION">
 			<Text>
-				У міру просування ERA
+				З розвитком епохи
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_NEVER">
@@ -3776,7 +3792,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TUTORIAL_NEWBIE">
 			<Text>
-				Нове для повороту стратегії
+				Новенький у покрокових стратегіях
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TIME_OF_DAY_TEXT">
@@ -3796,17 +3812,17 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TICK_INTERVAL_30_FPS">
 			<Text>
-				30 кадрів в секунду
+				30 FPS
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TICK_INTERVAL_20_FPS">
 			<Text>
-				20 кадрів в секунду
+				20 FPS
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TICK_INTERVAL_60_FPS">
 			<Text>
-				60 кадрів в секунду
+				60 FPS
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_WINDOW_MODE_WINDOWED">
@@ -3911,7 +3927,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_EQAA_FULL">
 			<Text>
-				EQAA Повна
+				EQAA Full
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_LOW_MEMORY_OPTIMIZED">
@@ -4996,32 +5012,32 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP">
 			<Text>
-				Підбадьорювати
+				Вгору
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN">
 			<Text>
-				Квапитися
+				Вниз
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT">
 			<Text>
-				Пан зліва
+				Вліво
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT">
 			<Text>
-				Сковорода праворуч
+				Вправо
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ZOOMIN">
 			<Text>
-				Збільшувати
+				Приблизити
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ZOOMOUT">
 			<Text>
-				Зменшення
+				Віддалити
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY">
@@ -5046,17 +5062,17 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_ENDTURN_HELP">
 			<Text>
-				Закінчує чергу гравця, якщо це можливо.
+				Завершує хід гравця, якщо це можливо.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEGRID_HELP">
 			<Text>
-				Перемикає обкладинку сітки по місцевості.
+				Перемикає накладання сітки на рельєф місцевості.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PAUSEMENU_HELP">
 			<Text>
-				Виносить меню в грі.
+				Відображає ігрове меню.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKSAVE_HELP">
@@ -5066,7 +5082,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_QUICKLOAD_HELP">
 			<Text>
-				Завантажує найновіший швидкий збереження, якщо існує.
+				Завантажує останнє швидке збереження, якщо таке є.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT_HELP">
@@ -5081,47 +5097,47 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD_HELP">
 			<Text>
-				Перемикає видимість піктограм виходу.
+				Перемикає видимість пінтограм ресурсів.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP_HELP">
 			<Text>
-				Каструльно перегляньте карту
+				Розгортає мапу вгорі
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANDOWN_HELP">
 			<Text>
-				Каструльно видно карту вниз
+				Розгортає мапу внизу
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANLEFT_HELP">
 			<Text>
-				Каструльно видно карту, що залишилася
+				Розгортає мапу ліворуч
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANRIGHT_HELP">
 			<Text>
-				Каструльно видно карту правильно
+				Розгортає мапу праворуч
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY_HELP">
 			<Text>
-				Перемикається на наступне місто.
+				Переходить до наступного міста.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY_HELP">
 			<Text>
-				Перехід до попереднього міста.
+				Переходить до попереднього міста.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES_HELP">
 			<Text>
-				Перемикає видимість ікон ресурсів.
+				Перемикає видимість пінтограм ресурсів.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW_HELP">
 			<Text>
-				Перемикає гру між стандартними та стратегічними (2D) переглядами.
+				Перемикає гру між стандартними та стратегічними (2D) режимом.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_ONLINE">
@@ -5181,7 +5197,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_LOYALTY">
 			<Text>
-				Лояльність
+				Репутація
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_EMPIRE">
@@ -5221,82 +5237,85 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_RELIGION_HELP">
 			<Text>
-				Перемикає об'єктив релігії.
+				Перемикає шар релігій.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_CONTINENT_HELP">
 			<Text>
-				Перемикає лінзу континенту.
+				Перемикає шар континентів.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL_HELP">
 			<Text>
-				Перемикає апеляційний об'єктив.
+				Перемикає шар Привабливісті.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER_HELP">
 			<Text>
-				Перемикає об'єктив поселенця.
+				Перемикає шар поселень.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_GOVERNMENT_HELP">
 			<Text>
-				Перемикає урядовий об'єктив.
+				Перемикає шар урядів.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_POLITICAL_HELP">
 			<Text>
-				Перемикає політичний об'єктив.
+				Перемикає шар політики.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_TOURISM_HELP">
 			<Text>
-				Перемикає туристичний об'єктив.
+				Перемикає шар туризму.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_LOYALTY_HELP">
 			<Text>
-				Перемикає об'єктив лояльності.
+				Перемикає шар репутації.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_EMPIRE_HELP">
 			<Text>
-				Перемикає об'єктив Імперії.
+				Перемикає шар імперій.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_MOVE_CURSOR_HELP">
 			<Text>
-				Емулює рух курсору за допомогою аналогових паличок.
+				Імітує рух курсору за допомогою аналогових стіків.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LEFT_CLICK_CURSOR_HELP">
 			<Text>
-				Емітуйте ліворуч, натиснувши курсор.
+				Емуляція натискання ЛКМ.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_CAMERA_PAN_UP_HELP">
 			<Text>
-				Пан ігрової камери вгору.
+				Пересування ігрової камери вгору.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_CAMERA_PAN_DOWN_HELP">
 			<Text>
-				Пан ігрової камери вниз.
+				Пересування ігрової камери вниз.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_CAMERA_PAN_LEFT_HELP">
 			<Text>
-				Пан ігрової камери залишилася.
+				Пересування ігрової камери ліворуч.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_CAMERA_PAN_RIGHT_HELP">
 			<Text>
-				Пан ігрової камери правильно.
+				Пересування ігрової камери праворуч.
 			</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_FOCUS_NEXT">
+
+
+		<!-- Console Actions -->
+		<!-- <Replace Language="uk_UA" Tag="LOC_OPTIONS_FOCUS_NEXT">
 			<Text>
-				Фокус далі
+				Наступний фокус
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_FOCUS_NEXT_HELP">
@@ -5463,1092 +5482,15 @@
 			<Text>
 				Виберіть пункт меню праворуч від поточного вибору.
 			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_UNDERSCORE">
+		</Replace>	 -->
+		<!-- End Console Actions -->
+		
+		<Replace Language="uk_UA" Tag="LOC_OPTIONS_SUBTITLES">
 			<Text>
-				_
+				Субтитри у роликах:
 			</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_A">
-			<Text>
-				A
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_B">
-			<Text>
-				B
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_C">
-			<Text>
-				C
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_D">
-			<Text>
-				D
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_E">
-			<Text>
-				E
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F">
-			<Text>
-				F
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_G">
-			<Text>
-				G
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_H">
-			<Text>
-				H
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_I">
-			<Text>
-				I
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_J">
-			<Text>
-				J
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_K">
-			<Text>
-				K
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_L">
-			<Text>
-				L
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_M">
-			<Text>
-				M
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_N">
-			<Text>
-				N
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_O">
-			<Text>
-				O
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_P">
-			<Text>
-				P
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_Q">
-			<Text>
-				Q
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_R">
-			<Text>
-				R
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_S">
-			<Text>
-				S
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_T">
-			<Text>
-				T
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_U">
-			<Text>
-				U
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_V">
-			<Text>
-				V
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_W">
-			<Text>
-				W
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_X">
-			<Text>
-				X
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_Y">
-			<Text>
-				Y
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_Z">
-			<Text>
-				Z
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_0">
-			<Text>
-				0
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_1">
-			<Text>
-				1
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_2">
-			<Text>
-				2
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_3">
-			<Text>
-				3
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_4">
-			<Text>
-				4
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_5">
-			<Text>
-				5
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_6">
-			<Text>
-				6
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_7">
-			<Text>
-				7
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_8">
-			<Text>
-				8
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_9">
-			<Text>
-				9
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_0">
-			<Text>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_UNDERSCORE">
-					<Text>
-						_
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_A">
-					<Text>
-						A
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_B">
-					<Text>
-						B
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_C">
-					<Text>
-						C
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_D">
-					<Text>
-						D
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_E">
-					<Text>
-						E
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F">
-					<Text>
-						F
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_G">
-					<Text>
-						G
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_H">
-					<Text>
-						H
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_I">
-					<Text>
-						I
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_J">
-					<Text>
-						J
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_K">
-					<Text>
-						K
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_L">
-					<Text>
-						L
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_M">
-					<Text>
-						M
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_N">
-					<Text>
-						N
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_O">
-					<Text>
-						O
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_P">
-					<Text>
-						P
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_Q">
-					<Text>
-						Q
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_R">
-					<Text>
-						R
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_S">
-					<Text>
-						S
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_T">
-					<Text>
-						T
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_U">
-					<Text>
-						U
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_V">
-					<Text>
-						V
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_W">
-					<Text>
-						W
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_X">
-					<Text>
-						X
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_Y">
-					<Text>
-						Y
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_Z">
-					<Text>
-						Z
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_0">
-					<Text>
-						0
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_1">
-					<Text>
-						1
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_2">
-					<Text>
-						2
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_3">
-					<Text>
-						3
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_4">
-					<Text>
-						4
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_5">
-					<Text>
-						5
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_6">
-					<Text>
-						6
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_7">
-					<Text>
-						7
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_8">
-					<Text>
-						8
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_9">
-					<Text>
-						9
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_0">
-					<Text>
-						0 (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_1">
-					<Text>
-						1 (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_2">
-					<Text>
-						2 (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_3">
-					<Text>
-						3 (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_4">
-					<Text>
-						4 (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_5">
-					<Text>
-						5 (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_6">
-					<Text>
-						6 (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_7">
-					<Text>
-						7 (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_8">
-					<Text>
-						8 (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_9">
-					<Text>
-						9 (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_MULTIPLY">
-					<Text>
-						* (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_PLUS">
-					<Text>
-						+ (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_MINUS">
-					<Text>
-						- (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_DECIMAL">
-					<Text>
-						. (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_DIVIDE">
-					<Text>
-						/ (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NP_CENTER">
-					<Text>
-						Center (Number Pad)
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F1">
-					<Text>
-						F1
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F2">
-					<Text>
-						F2
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F3">
-					<Text>
-						F3
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F4">
-					<Text>
-						F4
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F5">
-					<Text>
-						F5
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F6">
-					<Text>
-						F6
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F7">
-					<Text>
-						F7
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F8">
-					<Text>
-						F8
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F9">
-					<Text>
-						F9
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F10">
-					<Text>
-						F10
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F11">
-					<Text>
-						F11
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F12">
-					<Text>
-						F12
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F13">
-					<Text>
-						F13
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F14">
-					<Text>
-						F14
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F15">
-					<Text>
-						F15
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F16">
-					<Text>
-						F16
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F17">
-					<Text>
-						F17
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F18">
-					<Text>
-						F18
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F19">
-					<Text>
-						F19
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F20">
-					<Text>
-						F20
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F21">
-					<Text>
-						F21
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F22">
-					<Text>
-						F22
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F23">
-					<Text>
-						F23
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_F24">
-					<Text>
-						F24
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_INSERT">
-					<Text>
-						Insert
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_HOME">
-					<Text>
-						Home
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_PAGEUP">
-					<Text>
-						Page Up
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_DELETE">
-					<Text>
-						Delete
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_END">
-					<Text>
-						End
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_PAGEDOWN">
-					<Text>
-						Page Down
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_LEFT">
-					<Text>
-						Left Arrow
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_UP">
-					<Text>
-						Up Arrow
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_RIGHT">
-					<Text>
-						Right Arrow
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_DOWN">
-					<Text>
-						Down Arrow
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_SEMICOLON">
-					<Text>
-						;
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_PLUS">
-					<Text>
-						=
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_COMMA">
-					<Text>
-						,
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_MINUS">
-					<Text>
-						-
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_PERIOD">
-					<Text>
-						.
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_SLASH">
-					<Text>
-						/
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_TILDE">
-					<Text>
-						~
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_LBRACKET">
-					<Text>
-						[
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_BACKSLASH">
-					<Text>
-						\
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_RBRACKET">
-					<Text>
-						]
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_QUOTE">
-					<Text>
-						"
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_PRINTSCREEN">
-					<Text>
-						Print Scrn
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_PAUSE">
-					<Text>
-						Pause
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_SPACE">
-					<Text>
-						Space
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_TAB">
-					<Text>
-						Tab
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_RETURN">
-					<Text>
-						Return
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_ESCAPE">
-					<Text>
-						Esc
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_BACKSPACE">
-					<Text>
-						Backspace
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_CANCEL">
-					<Text>
-						Cancel
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_SHIFT">
-					<Text>
-						Shift
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_CONTROL">
-					<Text>
-						Control
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_ALT">
-					<Text>
-						Alt
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_LSHIFT">
-					<Text>
-						Left Shift
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_LCONTROL">
-					<Text>
-						Left Control
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_LALT">
-					<Text>
-						Left Alt
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_RSHIFT">
-					<Text>
-						Right Shift
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_RCONTROL">
-					<Text>
-						Right Control
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_RALT">
-					<Text>
-						Right Alt
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_LBUTTON">
-					<Text>
-						Left Mouse Button
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_RBUTTON">
-					<Text>
-						Right Mouse Button
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_MBUTTON">
-					<Text>
-						Middle Mouse Button
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_CAPSLOCK">
-					<Text>
-						Caps Lock
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NUMLOCK">
-					<Text>
-						Num Lock
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_SCROLLLOCK">
-					<Text>
-						Scroll Lock
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_LWIN">
-					<Text>
-						Left Win
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_RWIN">
-					<Text>
-						Right Win
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_APPS">
-					<Text>
-						Apps
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_MOUSE_L">
-					<Text>
-						Left Mouse
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_MOUSE_R">
-					<Text>
-						Right Mouse
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_MOUSE_M">
-					<Text>
-						Middle Mouse
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_MOUSE_X">
-					<Text>
-						Mouse {1_ButtonIndex}
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_MOUSE_X1">
-					<Text>
-						Mouse X1
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_MOUSE_X2">
-					<Text>
-						Mouse X2
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_A">
-					<Text>
-						Pad A
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_B">
-					<Text>
-						Pad B
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_X">
-					<Text>
-						Pad X
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_Y">
-					<Text>
-						Pad Y
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_RSHOULDER">
-					<Text>
-						Pad RB
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_LSHOULDER">
-					<Text>
-						Pad LB
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_LTRIGGER">
-					<Text>
-						Pad LT
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_LTRIGGER_CLICK">
-					<Text>
-						Pad LT Click
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_RTRIGGER">
-					<Text>
-						Pad RT
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_RTRIGGER_CLICK">
-					<Text>
-						Pad RT Click
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_DPAD_UP">
-					<Text>
-						Pad Dpad Up
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_DPAD_DOWN">
-					<Text>
-						Pad Dpad Down
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_DPAD_LEFT">
-					<Text>
-						Pad Dpad Left
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_DPAD_RIGHT">
-					<Text>
-						Pad Dpad Right
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_UP">
-					<Text>
-						Pad Right Dpad Up
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_DOWN">
-					<Text>
-						Pad Right Dpad Down
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_LEFT">
-					<Text>
-						Pad Right Dpad Left
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_RIGHT_DPAD_RIGHT">
-					<Text>
-						Pad Right Dpad Right
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_START">
-					<Text>
-						Pad Start
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_BACK">
-					<Text>
-						Pad Back
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_LTHUMB_PRESS">
-					<Text>
-						Pad LStick Press
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_RTHUMB_PRESS">
-					<Text>
-						Pad RStick Press
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_LTHUMB_AXIS">
-					<Text>
-						Pad Left Stick
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_RTHUMB_AXIS">
-					<Text>
-						Pad Right Stick
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_LEFT_GRIP">
-					<Text>
-						Pad Left Grip
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_RIGHT_GRIP">
-					<Text>
-						Pad Right Grip
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_LEFT_TOUCHPAD_TOUCH">
-					<Text>
-						Left Touchpad Touch
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_LEFT_TOUCHPAD_SWIPE">
-					<Text>
-						Left Touchpad Swipe
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_LEFT_TOUCHPAD_CLICK">
-					<Text>
-						Left Touchpad Click
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_MIDDLE_TOUCHPAD_TOUCH">
-					<Text>
-						Middle Touchpad Touch
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_MIDDLE_TOUCHPAD_SWIPE">
-					<Text>
-						Middle Touchpad Swipe
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_MIDDLE_TOUCHPAD_CLICK">
-					<Text>
-						Middle Touchpad Click
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_RIGHT_TOUCHPAD_TOUCH">
-					<Text>
-						Right Touchpad Touch
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_RIGHT_TOUCHPAD_SWIPE">
-					<Text>
-						Right Touchpad Swipe
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_RIGHT_TOUCHPAD_CLICK">
-					<Text>
-						Right Touchpad Click
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_GYRO_MOVE">
-					<Text>
-						Pad Gyro Move
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_GYRO_PITCH">
-					<Text>
-						Pad Gyro Pitch
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_GYRO_YAW">
-					<Text>
-						Pad Gyro Yaw
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_GYRO_ROLL">
-					<Text>
-						Pad Gyro Roll
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_VOLUME_MUTE">
-					<Text>
-						Mute
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_VOLUME_DOWN">
-					<Text>
-						Vol. Down
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_VOLUME_UP">
-					<Text>
-						Vol. Up
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_MEDIA_NEXT_TRACK">
-					<Text>
-						Next Track
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_MEDIA_PREV_TRACK">
-					<Text>
-						Prev Track
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_MEDIA_STOP">
-					<Text>
-						Stop
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_MEDIA_PLAY_PAUSE">
-					<Text>
-						Play / Pause
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_PAD_TOOLTIP_REFRESH">
-					<Text>
-						Tooltip Refresh
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_KEY_NUM_KEYS">
-					<Text>
-						Num Keys
-					</Text>
-				</Replace>
-				<Replace Language="uk_UA" Tag="LOC_OPTIONS_SUBTITLES">
-					<Text>
-						Субтитри у роликах:
-					</Text>
-				</Replace>
-			</Text>
-		</Replace>
-
+			
 		<!-- FrontEnd_PlayByCloud -->
 
 		<Replace Language="uk_UA" Tag="LOC_PLAY_MULTIPLAYER_HAVE_CLOUD_NOTIFY">
