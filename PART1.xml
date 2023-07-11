@@ -2728,7 +2728,7 @@
 		<!-- Loading Screen / Dawn of man -->
 		<Replace Language="uk_UA" Tag="LOC_LOADING_DOMAIN_LAND">
 			<Text>
-				Унікальна будівля
+				Унікальна земельна юніт
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_DOMAIN_SEA">
@@ -2937,17 +2937,17 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TUTORIAL_NEW_TO_STRATEGY">
 			<Text>
-				Новенький у покрокових стратегіях.
+				Новенький в покрокових стратегіях.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TUTORIAL_NEW_TO_CIV">
 			<Text>
-				Новий в серії Civilization
+				Новенький в Civilization
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TUTORIAL_NEW_TO_CIV_6">
 			<Text>
-				Нова в Civilization VI
+				Новенький в Civilization VI
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_NO_DUPLICATE_CIVILIZATIONS_NAME">
@@ -3402,7 +3402,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CHOOSE_TEAM_ICON">
 			<Text>
-				Виберіть пінтограму команди
+				Виберіть піктограму команди
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MESSAGE_OF_THE_DAY_HEADING">
@@ -3477,7 +3477,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PAUSEMENU_INFO_MAP_SEED">
 			<Text>
-				Сід карти: {1_MapSeed}
+				Сід генерації: {1_MapSeed}
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PAUSEMENU_INFO_GAME_SEED">
@@ -3772,27 +3772,27 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TUTORIAL_NEW_TO_XP2">
 			<Text>
-				Новенький у Civilization VI - Gathering Storm
+				Новенький в Civilization VI - Gathering Storm
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TUTORIAL_NEW_TO_XP1">
 			<Text>
-				Новенький у Civilization VI - Rasi and Fall
+				Новенький в Civilization VI - Rasi and Fall
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_CIVILIZATION">
 			<Text>
-				Новенький у Civilization VI
+				Новенький в Civilization VI
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TUTORIAL_FAMILIAR_STRATEGY">
 			<Text>
-				Новенький у серії Civilization
+				Новенький в Civilization
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TUTORIAL_NEWBIE">
 			<Text>
-				Новенький у покрокових стратегіях
+				Новенький в покрокових стратегіях
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TIME_OF_DAY_TEXT">
@@ -4642,7 +4642,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_WORLDCLIMATE_HELP">
 			<Text>
-				Перемикає видимість світового кліматичного екрану
+				Перемикає вікно світового клімату
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_POWER">
@@ -4652,37 +4652,37 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_POWER_HELP">
 			<Text>
-				Перемикає лінзу живлення.
+				Перемикає шар влади.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_GOVERNORS">
 			<Text>
-				Перемикання губернаторів
+				Губернатори
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_GOVERNORS_HELP">
 			<Text>
-				Вікно губернаторів
+				Перемикає панель губернаторів
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_TIMELINE">
 			<Text>
-				Вікно часової шкали
+				Часова шкала
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_TIMELINE_HELP">
 			<Text>
-				Перемикає видимість екрану історичної часової шкали
+				Перемикає видимість панелі історичної часової шкали
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_ERA_PROGRESS">
 			<Text>
-				Перемикання прогресу епохи
+				Прогрес епохи
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_ERA_PROGRESS_HELP">
 			<Text>
-				Перемикає видимість панелі прогресу ERA
+				Перемикає видимість панелі прогресу епохи
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_CAPITALCITY">
@@ -4692,7 +4692,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_CAPITALCITY_HELP">
 			<Text>
-				Перехід до столиці
+				Вибирає столицю
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_UI_XP1">
@@ -4707,52 +4707,52 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_TECH">
 			<Text>
-				Вікно "Науковий інститут"
+				Панель "Науковий інститут"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS">
 			<Text>
-				Вікно "Цивільний інститут"
+				Панель "Цивільний інститут"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_GOV">
 			<Text>
-				Вікно "Уряд"
+				Панель "Уряд"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION">
 			<Text>
-				Вікно "Релігії"
+				Панель "Релігії"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE">
 			<Text>
-				Вікно "Видатні особи"
+				Панель "Видатні особи"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS">
 			<Text>
-				Вікно "Видатні роботи"
+				Панель "Видатні роботи"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS">
 			<Text>
-				Вікно "Рейтинг"
+				Панель "Рейтинг"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES">
 			<Text>
-				Віно "Міста-держави"
+				Панель "Міста-держави"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE">
 			<Text>
-				Вікно "Шпигунство"
+				Панель "Шпигунство"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES">
 			<Text>
-				Вікно "Торгові шляхи"
+				Панель "Торгові маршрути"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA">
@@ -4777,57 +4777,57 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_TECH_HELP">
 			<Text>
-				Вмикає вікно "Науковий інститут"
+				Вмикає панель "Науковий інститут"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_CIVICS_HELP">
 			<Text>
-				Вмикає вікно "Цивільний інститут"
+				Вмикає панель "Цивільний інститут"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_GOV_HELP">
 			<Text>
-				Вмикає вікно "Уряд"
+				Вмикає панель "Уряд"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_RELIGION_HELP">
 			<Text>
-				Вмикає вікно "Релігії"
+				Вмикає панель "Релігії"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_GPEOPLE_HELP">
 			<Text>
-				Вмикає вікно "Видатні особи"
+				Вмикає панель "Видатні особи"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_GWORKS_HELP">
 			<Text>
-				Вмикає вікно "Видатні робити"
+				Вмикає панель "Видатні робити"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_RANKINGS_HELP">
 			<Text>
-				Вмикає вікно "Рейтинг"
+				Вмикає панель "Рейтинг"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_CITYSTATES_HELP">
 			<Text>
-				Вмикає вікно "Міста-держави"
+				Вмикає панель "Міста-держави"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_ESPIONAGE_HELP">
 			<Text>
-				Вмикає вікно "Шпигунство"
+				Вмикає панель "Шпигунство"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_TRADEROUTES_HELP">
 			<Text>
-				Вмикає вікно "Торгові маршрути"
+				Вмикає панель "Торгові маршрути"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_CIVILOPEDIA_HELP">
 			<Text>
-				Вмикає вікно "Підручник"
+				Вмикає панель "Підручник"
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UI_CIVBACK_HELP">
@@ -4852,7 +4852,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY">
 			<Text>
-				До знайденого міста
+				Заснувати місто
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO">
@@ -4897,12 +4897,12 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP">
 			<Text>
-				Очікувати
+				Заснути
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT">
 			<Text>
-				Патрулювати
+				Очікування
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_ALL_AUTOSAVES">
@@ -4912,22 +4912,22 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_FOUNDCITY_HELP">
 			<Text>
-				Виконує знайдену дію міста, якщо вибраний підрозділ є поселенцем.
+				Дозволяє заснувати місто, якщо обраний юніт є поселенцем.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_MOVETO_HELP">
 			<Text>
-				Виконує перехід до дії за допомогою вибраного блоку.
+				Наказує слідувати вибраному юніту до певного місця.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY_HELP">
 			<Text>
-				Укріплює вибрану одиницю.
+				Зміцнює вибраного юніта.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_FORTIFY_HEAL_HELP">
 			<Text>
-				Зміщує вибраний пристрій, поки він не буде повністю зцілений.
+				Зміцнює вибраного юніта до повного зцілення.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_DELETE_HELP">
@@ -4937,32 +4937,32 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_ATTACK_HELP">
 			<Text>
-				Виконує атакую з обраним підрозділом.
+				Здійснює атаку вибраним юнітом.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_RANGED_HELP">
 			<Text>
-				Виконує діапазон атаки з обраним підрозділом.
+				Здійснює дальну атаку вибраним юнітом.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_AUTOEXP_HELP">
 			<Text>
-				Вмикає автоматичне вивчення на вибраному блоці.
+				Здійснює автоматичну розвідку вибраним юнітом.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_SKIPTURN_HELP">
 			<Text>
-				Вибраний блок пропускає поточний поворот.
+				Вибраний юніт пропускає поточний хід.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_SLEEP_HELP">
 			<Text>
-				Виконує дію сну за допомогою вибраного блоку.
+				Переводить вибраного юніта у режим сну.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_UNIT_ALERT_HELP">
 			<Text>
-				Виконує дію сповіщення за допомогою вибраного блоку.
+				Дає команду очікування вибраному юніту.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_GLOBAL">
@@ -5052,7 +5052,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES">
 			<Text>
-				Піктограми ресурсів
+				Перемикання доходів
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW">
@@ -5087,17 +5087,17 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTUNIT_HELP">
 			<Text>
-				Перейти на наступного вільного юніта.
+				Вибирає наступного вільного юніта.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVUNIT_HELP">
 			<Text>
-				Перейти на попереднього вільного юніта.
+				Вибирає попереднього вільного юніта.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLEYIELD_HELP">
 			<Text>
-				Перемикає видимість пінтограм ресурсів.
+				Перемикає видимість піктограм доходів.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PANUP_HELP">
@@ -5122,17 +5122,17 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_NEXTCITY_HELP">
 			<Text>
-				Переходить до наступного міста.
+				Вибирає наступне місто.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_PREVCITY_HELP">
 			<Text>
-				Переходить до попереднього міста.
+				Вибирає попереднє місто.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLERESOURCES_HELP">
 			<Text>
-				Перемикає видимість пінтограм ресурсів.
+				Перемикає видимість піктограм ресурсів.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_GLOBAL_TOGGLE2DVIEW_HELP">
@@ -5152,7 +5152,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_ONLINE_PAUSE_HELP">
 			<Text>
-				Призупиняє онлайн -гру.
+				Призупиняє гру.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_CATEGORY_LENSES">
@@ -5247,7 +5247,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_APPEAL_HELP">
 			<Text>
-				Перемикає шар Привабливісті.
+				Перемикає шар привабливісті.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_HOTKEY_LENSES_SETTLER_HELP">
@@ -5292,22 +5292,22 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_CAMERA_PAN_UP_HELP">
 			<Text>
-				Пересування ігрової камери вгору.
+				Переміщує ігрову камеру вгору.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_CAMERA_PAN_DOWN_HELP">
 			<Text>
-				Пересування ігрової камери вниз.
+				Переміщує ігрову камеру вниз.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_CAMERA_PAN_LEFT_HELP">
 			<Text>
-				Пересування ігрової камери ліворуч.
+				Переміщує ігрову камеру ліворуч.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_CAMERA_PAN_RIGHT_HELP">
 			<Text>
-				Пересування ігрової камери праворуч.
+				Переміщує ігрову камеру праворуч.
 			</Text>
 		</Replace>
 
@@ -5484,7 +5484,7 @@
 			</Text>
 		</Replace>	 -->
 		<!-- End Console Actions -->
-		
+
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_SUBTITLES">
 			<Text>
 				Субтитри у роликах:
