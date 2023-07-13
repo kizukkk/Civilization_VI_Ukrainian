@@ -764,7 +764,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MULTIPLAYER_CREATE_GAME">
 			<Text>
-				Створити гру
+				Створення гри
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MULTIPLAYER_CONFIRM_SETTINGS">
@@ -1779,7 +1779,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_CHOOSE_SCENARIO">
 			<Text>
-				Вибрати сценарій
+				Вибір сценарію
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_SCENARIOS">
@@ -1894,7 +1894,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_MAP_CREATE_GAME_SELECT_MAP">
 			<Text>
-				Вибрати карту
+				Вибір карти
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_MAP_SELECT_MAP">
@@ -2810,7 +2810,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_GILGAMESH">
 			<Text>
-				Багато чого випало на ваші плечі, царю Ґільґамеше. Власний народ і багато народів світу спостерігає за вами як за великим лідером. Але ви більше, ніж просто людина, і світовий тиск ніколи не змусить вас похитнутися. Заохочуйте народ Шумери заселяти родючі землі вздовж річок і ретельно обирайте собі союзників - адже багато хто змагатиметься за частину вашої сили. Вирушайте, бо настав час розпочати вашу епічну оповідь.
+				Багато чого випало на ваші плечі, царю Ґільґамеш. Власний народ і багато народів світу спостерігає за вами як за великим лідером. Але ви більше, ніж просто людина, і світовий тиск ніколи не змусить вас похитнутися. Заохочуйте народ Шумерів заселяти родючі землі вздовж річок і ретельно обирайте собі союзників - адже багато хто змагатиметься за частину вашої сили. Вирушайте, бо настав час розпочати вашу епічну оповідь.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_GORGO">
@@ -3059,7 +3059,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_CREATE_GAME_TT">
 			<Text>
-				Створення нової гру з власними налаштуваннями.
+				Створення нової гри з власними налаштуваннями.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_SCENARIOS_TT">
