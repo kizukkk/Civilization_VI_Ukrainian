@@ -1794,7 +1794,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_CIVILIZATION">
 			<Text>
-				Вибрати цивілізацію
+				Цивілізація
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_DIFFICULTY">
