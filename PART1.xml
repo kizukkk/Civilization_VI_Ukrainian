@@ -1579,7 +1579,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MP_PLAYER_CONNECTED_SUMMARY">
 			<Text>
-				[COLOR:ConnectionStatus_Connected]Підключено[ENDCOLOR]]
+				[COLOR:ConnectionStatus_Connected]Підключено[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MP_PLAYER_NOTCONNECTED">
@@ -1589,7 +1589,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MP_PLAYER_NOTCONNECTED_SUMMARY">
 			<Text>
-				[COLOR:ConnectionStatus_Offline]Не в мережі [ENDCOLOR]
+				[COLOR:ConnectionStatus_Offline]Не в мережі[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MP_PLAYER_CONNECTING">
@@ -1599,7 +1599,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MP_PLAYER_CONNECTING_SUMMARY">
 			<Text>
-				[COLOR:ConnectionStatus_Connecting]Приєднується [ENDCOLOR]
+				[COLOR:ConnectionStatus_Connecting]Приєднується[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MP_PLAYER_NOT_MOD_READY">
@@ -1609,7 +1609,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MP_PLAYER_NOT_MOD_READY_SUMMARY">
 			<Text>
-				[COLOR:ConnectionStatus_NotModReady]Відсутні модифікації [ENDCOLOR]
+				[COLOR:ConnectionStatus_NotModReady]Відсутні модифікації[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MP_PLAYER_RESYNCING">
@@ -1619,7 +1619,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MP_PLAYER_RESYNCING_SUMMARY">
 			<Text>
-				[COLOR:ConnectionStatus_Resyncing]Перезавантаження [ENDCOLOR]
+				[COLOR:ConnectionStatus_Resyncing]Перезавантаження[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TIME_MILLISECONDS">
@@ -1669,47 +1669,47 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PRESENCE_IN_SHELL">
 			<Text>
-				[COLOR:ConnectionStatus_Connected]Головному меню [ENDCOLOR]
+				[COLOR:ConnectionStatus_Connected]Головному меню[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PRESENCE_HOSTING_GAME">
 			<Text>
-				[COLOR:ConnectionStatus_Connected]Хостить гру [ENDCOLOR]
+				[COLOR:ConnectionStatus_Connected]Хостить гру[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PRESENCE_IN_STAGING_ROOM">
 			<Text>
-				[COLOR:ConnectionStatus_Connected]Кімнаті очікування [ENDCOLOR]
+				[COLOR:ConnectionStatus_Connected]Кімнаті очікування[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PRESENCE_IN_GAME_SP">
 			<Text>
-				[COLOR:ConnectionStatus_Connected]Гра наодинці [ENDCOLOR]
+				[COLOR:ConnectionStatus_Connected]Гра наодинці[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PRESENCE_IN_GAME_ONLINE">
 			<Text>
-				[COLOR:ConnectionStatus_Connected]Мультиплеєр (онлайн) [ENDCOLOR]
+				[COLOR:ConnectionStatus_Connected]Мультиплеєр (онлайн)[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PRESENCE_IN_GAME_LAN">
 			<Text>
-				[COLOR:ConnectionStatus_Connected]Мультиплеєр (LAN) [ENDCOLOR]
+				[COLOR:ConnectionStatus_Connected]Мультиплеєр (LAN)[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PRESENCE_IN_GAME_HOTSEAT">
 			<Text>
-				[COLOR:ConnectionStatus_Connected]Мультиплеєр (Hot Seat) [ENDCOLOR]
+				[COLOR:ConnectionStatus_Connected]Мультиплеєр (Hot Seat)[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PRESENCE_IN_GAME_PLAYBYCLOUD">
 			<Text>
-				[COLOR:ConnectionStatus_Connected]Мультиплеєр (Гра в хмарі) [ENDCOLOR]
+				[COLOR:ConnectionStatus_Connected]Мультиплеєр (Гра в хмарі)[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PRESENCE_INVITED_ONLINE">
 			<Text>
-				[COLOR:ConnectionStatus_Connected]Запрошено [ENDCOLOR]
+				[COLOR:ConnectionStatus_Connected]Запрошено[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PRESENCE_INVITED_OFFLINE">
@@ -1719,7 +1719,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PRESENCE_WORLD_BUILDER">
 			<Text>
-				[COLOR:ConnectionStatus_Connected]Створення світу [ENDCOLOR]
+				[COLOR:ConnectionStatus_Connected]Створення світу[ENDCOLOR]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MP_PLAYER_CONNECTED_CHAT">
@@ -1774,7 +1774,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_CHOOSE_RULESET">
 			<Text>
-				Вибрати набір правил
+				Правила
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_CHOOSE_SCENARIO">
@@ -1799,22 +1799,22 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_DIFFICULTY">
 			<Text>
-				Вибрати складність гри
+				Складність гри
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_SPEED">
 			<Text>
-				Вибрати швидкість гри
+				Швидкість гри
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_MAP_TYPE">
 			<Text>
-				Вибрати тип карти
+				Тип карти
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_MAP_SIZE">
 			<Text>
-				Вибрати розмір карти
+				Розмір карти
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_MODE_SELECT">
@@ -2552,12 +2552,9 @@
 				Карта з випадковими пагорбами, горами та вулканами.
 			</Text>
 		</Replace>
-
-		<!-- TODO: Continue editing the machine translation below -->
-
 		<Replace Language="uk_UA" Tag="LOC_MAP_TEMPERATURE_DESCRIPTION">
 			<Text>
-				Налаштовує рельєф мапи.
+				Налаштування рельєф карти.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_TEMPERATURE_HOT_DESCRIPTION">
@@ -2657,12 +2654,12 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_START_POSITION_DESCRIPTION">
 			<Text>
-				Зсув позиції початку.
+				Переміщення початкової позиції.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_START_POSITION_BALANCED_DESCRIPTION">
 			<Text>
-				Всі гравці мають однаково хороші стартові місця.
+				Всі гравці мають однаково хороші стартові позиції.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAP_START_POSITION_STANDARD_DESCRIPTION">
@@ -2682,7 +2679,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_GAME_START_ERA">
 			<Text>
-				Початкова Ера
+				Початкова ера
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_KICK_VOTE">
@@ -2700,8 +2697,6 @@
 				Карта
 			</Text>
 		</Replace>
-
-		
 
 		<!-- Tutorial Select Screen-->
 		<Replace Language="uk_UA" Tag="LOC_SETUP_TUTORIAL_TITLE">
@@ -2728,7 +2723,7 @@
 		<!-- Loading Screen / Dawn of man -->
 		<Replace Language="uk_UA" Tag="LOC_LOADING_DOMAIN_LAND">
 			<Text>
-				Унікальна земельна юніт
+				Унікальний наземний юніт
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_DOMAIN_SEA">
@@ -2786,6 +2781,8 @@
 				Продовжити гру
 			</Text>
 		</Replace>
+
+		<!-- Опис лідерів на екрані завантаження -->
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_DEFAULT">
 			<Text>
 				Ви повинні привести своїх людей до слави, будуючи цивілізацію, яка витримає випробування часом.
@@ -2818,118 +2815,118 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_GORGO">
 			<Text>
-				Ґорго, царице Спарти, слава вам і вашою вірною армією гоплітів! Греція насолоджується благословенням Ареса, яке приносить кожна перемога. Народ аплодує вашій мудрій політиці та культурним дивам. Пишайтеся, бо про спадщину Греції та про ваші досягнення будуть розповідати знову і знову поколіннями.
+				Ґорго, царице Спарти, слава вам і вашій вірній армії гоплітів! Греція насолоджується благословенням Ареса, яке приносить кожна перемога. Народ аплодує вашій мудрій політиці та культурним дивам. Пишайтеся, бо про спадщину Греції та про ваші досягнення будуть розповідати знову і знову поколіннями.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_HARDRADA">
 			<Text>
-				Всі бояться наближення ваших кораблів, королю Норвегії Гаральду Суворий. Ваші драккари панують над хвилями, завжди готові випустити свою армії берсеркерів на ворога, який нічого не підозрює. Нехай Одін благословить ваше королівство, а скальди величатимуть перемоги ваших могутніх воїнів.
+				Вороги тремнять перед вашими короблями, королю Норвегії Гаральду Суворий. Ваші драккари панують над хвилями, завжди готові випустити свою армії берсеркерів на ворога, який нічого не підозрює. Нехай Одін благословить ваше королівство, а скальди величатимуть перемоги ваших могутніх воїнів.
 			</Text>
 		</Replace>
-
-		<!-- TODO: Continue editing the machine translation below -->
-
-
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_HOJO">
 			<Text>
-				Велика хвиля буддизму слідкує за вами, Шиккен з Японії, Hojo Tokimune.Ваші люди по-справжньому розуміють, що це практикувати рівновагу, і навіть ваш найкращий самурай буде добре вивчений і духовно влучний.Будьте сильними, обійміть божественний вітер, і ви досягнете просвітлення.
+				Ваш шлях прокладений славетним вченням будизму, Шіккен Японії, Ходжьо Токімуне. Ваш народ по-справжньому розуміє, що означає досягти балансу, і кожен з ваших найкращих самураїв міцний тілом і духом. Будьте непорушними, прийміть божественні вітри, і ви досягнете просвітлення.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_MVEMBA">
 			<Text>
-				Мати Земля має для вас багато подарунків, цар Мвемба - Нзінга.Ваші люди знають густі ліси та тропічні ліси як свої будинки, і легко ковзають по них.Чудовими також є подарунки, які надходять з мандрівників далеких земель.Будьте відкриті, бо натхнення відкритого світу дозволить нашим людям створювати мистецтво з силою та величністю.
+				Матінко-земля багата дарами до вас, королю Мвемба а Нзінга. Ваш народ відає густі ліси та тропічні сади, як власні домівки. Мандрівники з далеких країв одарюють вас великими дарами. Будьте відкритими, бо натхнення світу дозволить вашому народові творити величні дива.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_PEDRO">
 			<Text>
-				Ваші люди дивляться на вас, імператор Педро II, щоб вести Бразилію на світову сцену.Використовуйте свою репутацію як покровитель художників, вчених та інженерів, щоб залучити найбільший розум до нашого родючого будинку.Бо саме в пишних тропічних лісах, наповнений життям, твої люди процвітають.Дивіться їх у карнавалі, коли вони танцюють Самбу на святкуванні ваших великих подвигів, Pedro The Manganimous.
+				Ваш народ сподівається, що ви, імператор Педро Другий, відкриєте Бразилію світові цьому. Використовуйте свою репутацію покровителя митців, науковців та інженерів, щоб привабити найкращі уми до ваших благодатних земель. Адже саме в пишних тропічних садах, в яких пульсує життя, процвітає ваш народ. Погляньте на них, як вони витанцьовують самбу під час карновалу, на честь ваших великих подвигів, Педро Великодушний.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_PERICLES">
 			<Text>
-				Ваше оволодіння розмовним словом-це подарунок великої цінності, сріблястого перикула, лідера греків.Через це ви можете залучити відданість лізі штатів, оточуючи себе своєю славою.Встановіть культурні місця вздовж скелястих берегів Греції, щоб об'єднати своїх людей за сильним управлінням.Якщо все піде добре, сирени співатимуть епохи Перикла!
+				Ваше майстерне володіння словом - це великий дар, Промовистий Перікл, вождю греків. Через слово ви можете завоювати прихильність цілих коаліцій, оточивши себе їхньою славою. Створюйте культурні пам'ятки вздовж скелястих берегів Греції, щоб об'єднати свій народ навколо сильного правління. Якщо доля буде милостива над вами, сирени оспівуватимуть про епоху Перікла!
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_PETER_GREAT">
 			<Text>
-				Прийміть холодний вітер Батьківщини, цар Петра.Ваше захоплення наукою та культурою - це подарунок, і ви дізнаєтесь багато від своїх грандіозних посольств до чужорідних земель.Згідно з вашим правлінням, Росія, безумовно, процвітатиме і поширюється, поглинаючи все, що лежить навколо неї, можливо, створюючи найбільшу земельну імперію, яку бачили на цій землі.
+				Огорніть холодні вітри Родіни, царю Пьотр Перший. Ваше захоплення наукою і культурою - це дар, ви багато чого довідаєтесь з своїх великих посольств на чужих землях. Під вашим правлінням росія неодмінно розквітне і поглине все довколо себе, як солому пожар. Ви створите найбільшу сухопутну імперію, яку коли-небудь бачив цей світ.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_PHILIP_II">
 			<Text>
-				Вся Іспанія готова відповісти на ваші молитви, побожний короля Філіпа II.З вашого палацу в Ель -Ескоріалі ви можете надіслати своїх послідовників: місіонерів, апостолів та привезень, готових вдарити по морях, щоб поширити добрий слово про вашу найсвятішу імперію.Нехай скарби, які вони розкриють, підживлюють ваші пошуки, щоб об'єднати світ під однією вірою та однією імперією, що робить вас справді найбільш католицьким царем.
+				Вся Іспанія готова відповісти на ваші молитви, благочестивий королю Філіп Другий. З вашого палацу в Ель-Ескоріалі ви можете направляти своїх послідовників: місіонерів, апостолів і конкістадорів, готових вирушити за моря, щоб поширювати добре слово про вашу найсвятішу імперію. Нехай чудеса, які вони відкриють, підживлюють ваше прагнення об'єднати під єдиною вірою й імперією, роблячи вас королем католіцизму.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_QIN">
 			<Text>
-				У ваших людей лежить ваша найбільша сила, імператор Цінь Ши Хуанг.З усього світу інші прийдуть дивитися на великі стіни та високі чудеса вашого об'єднаного Китаю.Нехай руки ваших чоловіків ніколи не пухирять, оскільки вони наполегливо і швидко працюють, щоб підняти найбільш вражаючі структури, які світ коли -небудь знає.Захистіть їх добре, і ви назавжди будете увічнені.
+				Найбільша сила - вірний народ, імператоре Цінь Ши Хуан-ді. З усього світу люди приїжджатимуть, щоб осягнути масштаби великих стін та неймовірних чудес єдиного Китаю. Нехай руки ваших людей не знатимуть відпочинку від важкої роботи, щоб звести найбільш вражаючі споруди, які коли-небудь знав світ. Добре захищайте їх, і ви будете закарбовані у пам'яті назавжди.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_SALADIN">
 			<Text>
-				Шлюб науки та релігії - це делікатне врівноважування, але той, який ви освоїли, Саладін.Ваші пошуки знань є благородними, і ваші люди глибоко поважають вас.Але вам не потрібно поспішати в невідоме.Враховуючи час, відповіді на найбільш дивовижні питання життя знайдуть шлях до Аравії.
+				Єднання науки і релігії - це постійне балансування, але вам це вдалося, Салах ед Дін. Ваше прагнення до знань благородне, і ваш народ глибоко поважає вас. Але вам немає необхідності поспішати в невідоме. З плином часу туман невідомого спаде з таємниць життя саме у стін Арабії.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_TOMYRIS">
 			<Text>
-				Усі люди тремтять від страху та поваги до вас, великої королеви воїна Томіриса.Бо саме з задньої частини вашого жеребця ви будете дивитись і вести скіфійський народ.Чудові епоси будуть розповісти про коней -воїнів, які їдуть з степу, і на передовій кожної битви - вони знайдуть вас.Їдьте далі, люта королева, і нехай ваші друзі будуть правдивими так само, як ваші вороги.
+				Всі люди тремтітимуть від страху і поваги перед вами, велика завойовниця царице Томіріс. Верхом на жеребці ви будете спостерігати за скіфським народом і вести його за собою. Про кінноту, що спішиться степом, будуть складати великі балади. Рушайте, невгамовна царице, і нехай ваші союзники будуть міцними, а вороги - крихкими.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_TRAJAN">
 			<Text>
-				Покиньте свою сітку, О, Траян, імператор Могутнього Риму.Ваші легіони стоять на готовності до маршруту та встановлення найбільшої імперії, яку світ коли -небудь бачив.Якщо ви по -справжньому зможете змусити всі дороги вести до Риму, ваша буде імперією великих багатств та розкошів.Напевно, тоді наші громадяни проголошать вас як свого найкращого правителя, Оптимуса Принчепса.
+				Розширяйте свій вплив, о Траяне, імператоре могутнього Риму. Ваші легіони чекають наказу, щоб вирушити в похід і збудувати найбільшу імперію, яку коли-небудь бачив світ. Якщо вам дійсно вдасться зробити так, щоб усі дороги вели до Риму, то це буде імперія великих багатств і розкошів. І тоді ваші громадяни проголосять вас своїм Видатним Правителем.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_T_ROOSEVELT">
 			<Text>
-				І тому на ваших широких плечах, Теодор Рузвельт, звинувачувати та вести своїх людей у їхній великій пригоді.Використовуйте свої військові, щоб дати народам вашої батьківщини квадратну угоду, яку вони так відчайдушно заслуговують.Напевно, ви піднімете Америку в прожектор і залучаєте відвідувачів з усіх океанів, щоб побачити ваші землі.Хуліган для вас, пане президент.
+				Саме на вашу долю, Теодоре Рузвельт, лягає відповідальність за те, щоб повести свій народ назустріч великим звершенням. Прокладіть вашим військом шлях, який приведе ваш народ до найкращої угоди. Без сумніву, ви піднімете Америку в центр уваги і привабите відвідувачів з-за океану, щоб побачити ваші землі. Вболіватиму за вас, пане Президенте.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_VICTORIA">
 			<Text>
-				Ваша Величність Королева Вікторія Англії, витягне своє охоплення за межі ваших кордонів і через обличчя земної кулі.Не турбуйтеся про можливість поразки за ваші лояльні червоні покриви та переважний темно -морський флот, безумовно, несуть день.Завдяки спокійним і стійким дотиком ви можете принести всі землі під гойдалкою Англії, створивши справжню британську Pax.
+				Ваша Величносте, королево Англії Вікторіє, поширюйте свою владу за межі своїх володінь. Не турбуйтеся про можливість поразки, адже ваші вірні червоні мундири та потужний флот неодмінно здобудуть перемогу. Спокійною і впевненою рукою ви зможете підкорити всі землі Англії, встановивши справжній Британський мир.
 			</Text>
 		</Replace>
+
+		<!-- Опис епох -->
 		<Replace Language="uk_UA" Tag="LOC_ERA_ANCIENT_DESCRIPTION">
 			<Text>
-				Від перших ворушків життя під водою… до великих звірів кам'яного віку… до людини, яка зробила свої перші вертикальні кроки, ви зайшли далеко.Тепер починається ваш найбільший квест: з цієї ранньої колиски цивілізації до зірок.
+				Від першого життя під водою... до великих звірів кам'яного віку... до людини, яка робить перші кроки, це був довгий шлях. Тепер починається ваша найбільша подорож: від ранньої колиски цивілізації до зірок.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_ERA_CLASSICAL_DESCRIPTION">
 			<Text>
-				З скромних початків ви показали неабияке зростання.Залиште свою бронзу для заліза і правити з конем і мечем.Небо вище починає розкривати свої таємниці, колекцію неба, яка піднімає наші серця і направляє нас до іноземних берегів.
+				З ваших перших кроків ви показали неймовірний ріст. Залиште свою бронзу на користь заліза та правьте за допомогою коня і меча. Небо над вами перестає бути недосяжною таємницєю, небесна колиска, що підносить ваші серця і веде вас до чужих берегів.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_ERA_MEDIEVAL_DESCRIPTION">
 			<Text>
-				Ви побудували великі міста з каменю і бачили, як ранні імперії піднімаються і падають.Незабаром ви будете стояти під високими вершинами замків разом зі своїми галантними лицарями.Саме тут буде написана історія вашого народу.Так само, як молодий учень вчиться носити меч, так ви зростаєте, щоб зрозуміти своє місце в цьому світі.
+				Ви будували великі міста з каменю і бачили, як зароджувались і згасали ранні імперії. Незабаром ви станете під високими вершинами замків поряд зі своїми доблесними лицарями. Саме там буде написана історія вашого народу. Так само, як молодий учень вчиться тримати меча, ви зрозумієте своє місце в цьому світі.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_ERA_RENAISSANCE_DESCRIPTION">
 			<Text>
-				Нові сили викликають, від бочки мушкетів до квітів вогню в небі.Навіть тихі слова на щойно друкованих сторінках мають великі зміни всередині.Світ, колись такий величезний і загадковий, став меншим і знайомим.Тим не менш, завжди є питання, на які слід відповісти, віри, які слід перевірити, та національні ідентичності, які слід сформувати.
+				Нові сили плекають до себе, від стволів мушкетів до квітів вогню у небі. Навіть незначні слова на щойно надрукованих сторінках несуть у собі великі зміни. Світ, колись такий великий і таємничий, став меншим і знайомішим. Однак завжди є питання, на які потрібно знайти відповіді, віру, яку потрібно випробувати, та національні ідентичності, які потрібно формувати.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_ERA_INDUSTRIAL_DESCRIPTION">
 			<Text>
-				Постійний гул техніки, гострий запах диму, зору, затьмарений попелом і сажом - це ознаки зміни часу.Приманка наукового та культурного прогресу - це двигун, що рухає ваше царство вперед.Тепер ваше завдання - підтримувати делікатний баланс між Землею та людиною, між миром і війною.
+				Нескінечний гул машин, ядучий сморід диму, погляд затуманений попелом і сажею - це вісник нових часів. Піднесення наукового та культурного прогресу - це двигун, що веде вас вперед. Тепер ваше завдання полягає в тому, щоб зберегти крихку рівновагу між землею і людиною, між миром і війною.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_ERA_MODERN_DESCRIPTION">
 			<Text>
-				На початку легенди про літаючих чоловіків зросли.І сьогодні ви перебуваєте на межі перетворення цих легенд у реальність.За допомогою польоту та нових форм спілкування ви можете створити невеликий та інтимний світ.Але якою ціною?Наші конкуруючі ідеї, як керувати та як жити, загрожують принести конфлікт у глобальному масштабі.Ви повинні вибрати свій власний шлях через цей підйом ідеологічного ораторського мистецтва.
+				На самому початку легенди про літаючих людей розносились вітрами. І сьогодні ви готові перетворити легенди на реальність. Завдяки польоту і новим формам комунікації ви можете зменшити відстані цього світу. Але якою ціною? Наші суперечливі уявлення про те, як керувати державою і як жити, загрожують привести до конфліктів глобального рівня. Вам потрібно обрати свій власний шлях серед цього ідеологічного шуму.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_ERA_ATOMIC_DESCRIPTION">
 			<Text>
-				Нові кордони відкриття розширюють наше розуміння - від крихітного атома до величності космосу.Таємничі переноситься, ніж будь -коли, щоб розкрити їх найглибші таємниці, крім того, що ми можемо легко побачити.Ви виберете, як використовувати ці знання, і відштовхуєте найбільшу темряву, з якою ми ще стикалися.
+				Нові грандіозні відкриття розширюють наше розуміння, від маленького атома до величі космосу. Таємниці, на розриття яких ми так довго чекали, зараз як ніколи близькі до свого розкриття. Саме ви оберете, як використовувати ці знання і освітити найбільшу темряву, з якою ми ще не стикалися.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_ERA_INFORMATION_DESCRIPTION">
 			<Text>
-				Світ інформації лежить у долоні, а мережі для миттєвого спілкування охоплюють земну кулю.І все ж єдине бачення нашого майбутнього ніколи не було побудовано.Ми конкуруємо в технологіях, культурі та політиці.У нас смертельна зброя, яка могла б знищити нашу планету.Ведучі нас уважно, але сміливо, і побудуйте глобальну спільноту, яка може стояти на довгі роки.
+				У ваших руках світ інформації, а мережі миттєвої комунікації охоплюють всю планету. Проте єдиного бачення вашого майбутнього так і не було створено. Ви змагаємося в технологіях, культурі та політиці. Ви маєте смертельну зброю, яка може знищити нашу планету. Ведіть нас обережно, але сміливо, і побудуйте глобальну спільноту, яка зможе існувати на протязі багатьох років.
 			</Text>
 		</Replace>
+
+		<!-- Вибір режиму радника -->
 		<Replace Language="uk_UA" Tag="LOC_TUTORIAL_DISABLE">
 			<Text>
 				Вимкнути радника.
@@ -2950,6 +2947,9 @@
 				Новенький в Civilization VI
 			</Text>
 		</Replace>
+
+
+		<!-- Налаштування гри -->
 		<Replace Language="uk_UA" Tag="LOC_NO_DUPLICATE_CIVILIZATIONS_NAME">
 			<Text>
 				Ніяких дублікатів цивілізацій
@@ -3032,14 +3032,16 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAX_TURNS_NAME">
 			<Text>
-				Макс поворотів:
+				Максимум ходів:
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAX_TURNS_DESCRIPTION">
 			<Text>
-				Гра закінчиться після того, як минула кількість поворотів.
+				Гра закінчиться після того, як досягнуто максимальної к-сті ходів.
 			</Text>
 		</Replace>
+
+		<!-- Опис пунктів в головному меню -->
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_RESUME_GAME_TT">
 			<Text>
 				Відновити останню гру, яку ви грали.
@@ -3047,17 +3049,17 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_LOAD_GAME_TT">
 			<Text>
-				Завантажте раніше збережену гру.
+				Завантажити раніше збережену гру.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_PLAY_NOW_TT">
 			<Text>
-				Грайте на карті невеликих континентів із випадковими лідерами.
+				Гра на карті невеликих континентів із випадковими лідерами.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_CREATE_GAME_TT">
 			<Text>
-				Створіть нову гру з власними налаштуваннями.
+				Створення нової гру з власними налаштуваннями.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_SCENARIOS_TT">
@@ -3072,7 +3074,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_MULTIPLAYER_TT">
 			<Text>
-				Тут можна налаштувати або приєднатись до Інтернету, мережі та гарячих сидінь.
+				Тут можна налаштувати або приєднатись до мережевої, локальної та "Hot Seat" гри.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_GAME_OPTIONS_TT">
@@ -3082,7 +3084,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_MODS_TT">
 			<Text>
-				Спеціальні творіння шанувальниками для розширення та розширення цивілізації VI.
+				Користувацький вміст від фанатів для розширення та поглиблення Civilization VI.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_TUTORIAL_TT">
@@ -3092,7 +3094,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_BENCHMARK_TT">
 			<Text>
-				Чи впорається ваше обладнання?
+				Як добре працює ваше обладнання?
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_WORLDBUILDER_TT">
@@ -3102,12 +3104,12 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_CREDITS_TT">
 			<Text>
-				Кожен, хто зробив внесок у цивілізацію VI.
+				Кожен, хто зробив внесок у Civilization VI.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAINMENU_EXIT_GAME_TT">
 			<Text>
-				Вийдіть з гри повністю.
+				Повністю вийти з гри.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAIN_MENU_HALL_OF_FAME">
@@ -3117,7 +3119,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAIN_MENU_HALL_OF_FAME_TT">
 			<Text>
-				Чи витримує ваша статегія випробування часом?
+				Чи витримає ваша статегія випробування часом?
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_COPYRIGHT_TEXT">
@@ -3217,7 +3219,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_VICTORY_SCORE_TT">
 			<Text>
-				Хоча ви не змогли досягти великої перемоги, ви візьмете те, що зможете отримати. Ця перемога спрацьовує, коли закінчується час, а інших переможців немає.
+				Хоча вам не вдалося здобути велику перемогу, ви приймаєте те, що є. Цю перемогу оголошується, коли час вичерпується, і немає інших переможців.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_VICTORY_SCIENCE_TT">
@@ -3277,32 +3279,32 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAIN_MENU_DEMO_PURCHASE">
 			<Text>
-				Купити це зараз
+				Придбати
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAIN_MENU_DEMO_PURCHASE_TT">
 			<Text>
-				Відкрийте Steam Store, щоб придбати цивілізацію SID Meier VI
+				Відкрити Крамницю Steam, щоб придбати Sid Meier's Civilization VI
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DEMO_COMPLETE_CONTENT">
 			<Text>
-				Вітаємо!Ви зробили перші кроки до побудови цивілізації, щоб витримати випробування часом.Чи будете ви продовжувати тестувати себе проти найбільших лідерів історії?Чи може культура ваших людей процвітати?Ваша наука просвітить?Ваша віра надихає?Ваші військові домінують? [NEWLINE] [NEWLINE] Як ви будете вести в цивілізації Сіда Мейєра VI?Продовжуйте подорож зараз. [NEWLINE] [NEWLINE] Build.Завойовувати.Надихнути.
+				Вітаємо! Ви зробили перші кроки у будівництві цивілізації, яка встоїть викликами часом. Ви будете продовжувати випробовувати себе проти найвеличніших лідерів історії? Чи зможе ваша культура процвітати? Ваша наука просвітлювати? Ваша віра надихати? Ваше військо панувати?[NEWLINE][NEWLINE]Як ви будете проводити керівництво в Sid Meier’s Civilization VI? Продовжуйте подорож прямо зараз.[NEWLINE][NEWLINE]Будуйте. Завойовуйте. Надихайте.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DEMO_COMPLETE_MAIN_MENU">
 			<Text>
-				Заняття в історію
+				Перетворитись на історію
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DEMO_COMPLETE_BUY">
 			<Text>
-				Досягти величі
+				Досягти нових величин
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_ARX_VICTORY_PROGRESS">
 			<Text>
-				{1_civname} Перемога перемоги
+				{1_CivName} рівень перемоги
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_ARX_TOP_5">
@@ -3312,82 +3314,84 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_ARX_GOSSIP_LOG">
 			<Text>
-				Журнал пліток
+				Журнал подій
 			</Text>
 		</Replace>
+
+		<!-- File Errors -->
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_VERSION_MISMATCH">
 			<Text>
-				Зберегти не можна завантажити в цій версії гри.
+				У цій версії гри не можна завантажити збереження.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_OPEN">
 			<Text>
-				Неможливо відкрити збереження.
+				Не вдається відкрити збереження.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_WRITE">
 			<Text>
-				Неможливо написати збереження.
+				Не вдається зберегти гру.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_READ">
 			<Text>
-				Неможливо прочитати збереження.
+				Не вдається завантажити збереження.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_FAILED_TO_REMOVE">
 			<Text>
-				Неможливо зняти збереження.
+				Не вдається видалити збереження.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_NOT_SAVE_GAME">
 			<Text>
-				Файл не є грою збереження.
+				Файл не є збереженням гри.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_CORRUPT_SAVE">
 			<Text>
-				Зберегти гру корумповано.
+				Збереження пошкоджено.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_UNEXPECTED_END_OF_FILE">
 			<Text>
-				Збережіть завантаження несподівано закінчилося.
+				Несподіване переривання завантаження збереження.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_RESTORING_STATE">
 			<Text>
-				Неможливо відновити стан гри.
+				Не вдається відновити стан гри.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_PATH_NOT_FOUND">
 			<Text>
-				Неможливо знайти шлях до збереження.
+				Не вдається знайти шлях до збереження.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_INVALID_DEVICE">
 			<Text>
-				Пристрій збереження недійсного.
+				Помилка збереження на пристрої.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_FILE_LIST">
 			<Text>
-				Неможливо отримати список збереження з пристрою.
+				Не вдається отримати список збережень з пристрою.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_MOD">
 			<Text>
-				Один або кілька необхідних мод для збереження не встановлюються.
+				Один або кілька необхідних модів для збереження не встановлено.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_DLC">
 			<Text>
-				Один або кілька необхідних пакетів DLC для збереження не встановлені.
+				Один або кілька необхідних DLC для збереження не встановлено.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SERIALIZATION_ERROR_MISSING_REQUIRED_EXPANSION">
 			<Text>
-				Один або кілька необхідних пакетів розширення для збереження не встановлені.
+				Один або кілька необхідних пакетів розширення для збереження не встановлено.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TEAM_NAME_SELECT_TITLE">
@@ -3432,7 +3436,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_GAME_START_ERROR_UNKNOWN_VERSION">
 			<Text>
-				Збережена версія несумісна.
+				Версія збереження несумісна.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_GAME_START_ERROR_MOD_CONTENT">
@@ -3540,7 +3544,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LEADER_POOL_PRESETS">
 			<Text>
-				Пресети:
+				Набір:
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LEADER_PICK_PRESET_ALL">
@@ -3560,12 +3564,12 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_RANDOM_LEADER_POOL_1">
 			<Text>
-				Випадковий лідер (пул 1)
+				Випадковий лідер (набір 1)
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_RANDOM_LEADER_POOL_2">
 			<Text>
-				Випадковий лідер (пул 2)
+				Випадковий лідер (набір 2)
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LEADER_POOL_TOO_FEW_WARNING">
@@ -3574,6 +3578,7 @@
 			</Text>
 		</Replace>
 	</LocalizedText>
+
 	<!-- BencmarkText -->
 	<LocalizedText>
 		<Replace Language="uk_UA" Tag="LOC_BENCHMARK_GRAPHICS">
@@ -3652,7 +3657,7 @@
 	<LocalizedText>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_TITLE">
 			<Text>
-				Варіанти
+				Налаштування
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_RESET_OPTIONS_POPUP_TEXT">
@@ -4357,7 +4362,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_LEADER_QUALITY_TOOLTIP">
 			<Text>
-				Змінуєї візуальну якость лідерів. [NEWLINE] [NEWLINE] Відключення [COLOR_Civ6DarkRed] підвищує продуктивність [ENDCOLOR], найнижче значення [COLOR_Blue] зменшує використання пам'яті [ENDCOLOR].
+				Змінуєї якість відображення лідерів. [NEWLINE] [NEWLINE] Вищі значення [COLOR_Civ6DarkRed] підвищують продуктивність [ENDCOLOR], нижчі значення [COLOR_Blue] зменшує використання пам'яті [ENDCOLOR].
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_OPTIONS_LEADER_MOTIONBLUR_TEXT">
@@ -5310,6 +5315,11 @@
 				Переміщує ігрову камеру праворуч.
 			</Text>
 		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_OPTIONS_SUBTITLES">
+			<Text>
+				Субтитри у роликах:
+			</Text>
+		</Replace>
 
 
 		<!-- Console Actions -->
@@ -5484,12 +5494,6 @@
 			</Text>
 		</Replace>	 -->
 		<!-- End Console Actions -->
-
-		<Replace Language="uk_UA" Tag="LOC_OPTIONS_SUBTITLES">
-			<Text>
-				Субтитри у роликах:
-			</Text>
-		</Replace>
 			
 		<!-- FrontEnd_PlayByCloud -->
 
@@ -5655,7 +5659,7 @@
 	</Replace>
 	<Replace Language="uk_UA" Tag="LOC_LOBBY_GAME_YOUR_TURN_TOOLTIP">
 		<Text>
-			Ваш ход в цій грі.
+			Ваш хід в цій грі.
 		</Text>
 	</Replace>
 	<Replace Language="uk_UA" Tag="LOC_LOBBY_GAME_GAME_READY_TOOLTIP">
@@ -5830,7 +5834,7 @@
 	</Replace>
 	<Replace Language="uk_UA" Tag="LOC_MULTIPLAYER_QUITING_GAME_FAIL_ACCEPT">
 		<Text>
-			Ok
+			Добре
 		</Text>
 	</Replace>
 	<Replace Language="uk_UA" Tag="LOC_STAGING_ROOM_JOIN_CODE">
