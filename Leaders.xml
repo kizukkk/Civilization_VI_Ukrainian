@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+
+		<!-- Канада -->
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_CANADA_NAME">
+			<Text>
+				Канада
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_CANADA_ADJECTIVE">
+			<Text>
+				Канадський
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_CANADA_DESCRIPTION">
+			<Text>
+				Канадська імперія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_LAURIER_NAME">
+			<Text>
+				Вільфред Лор'є
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_ICE_HOCKEY_RINK_NAME">
+			<Text>
+				Хокейний каток
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_ICE_HOCKEY_RINK_DESCRIPTION">
+			<Text>
+				Батраки можуть будувати унікальний для Канади Хокейний каток.[NEWLINE]+1 [ICON_AMENITIES] Задоволення. +1 [ICON_CULTURE] Культури для кожного тайла Тундри, Тундрових пагорбів, Снігу та Снігових пагорбів. Генерує [ICON_Tourism] Туризм за рахунок Культури, коли розблоковано Льотні випробвування. +2 [ICON_FOOD] Їжі та [ICON_PRODUCTION] Виробництво, коли розблоковано Професійний спорт. +4 [ICON_CULTURE] Культури, якщо поряд Стадіон. Будується лише на Тундрі, Тундрових пагорбах, Снігу та Снігових пагорбах. +2 Привабливісті за один на місто.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_FACES_OF_PEACE_NAME">
+			<Text>
+				Чотири обличчя миру
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_FACES_OF_PEACE_DESCRIPTION">
+			<Text>
+				Не може оголошувати звичайні та раптові війни містам-державам. Також раптові війни не можуть бути оголошені Канаді. За кожні 100 [ICON_TOURISM] Туризму за хід ви отримуєте 1 [ICON_Favor] Політичне очко	 за хід. Отримайте +100% [ICON_Favor] Політичних очок за успішне завершення Інциденту або Змагання.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_LAST_BEST_WEST_NAME">
+			<Text>
+				Остання ідеальна земля  
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_LAST_BEST_WEST_DESCRIPTION">
+			<Text>
+				Дозволяє будувати Ферми в Тундрі. Після розблокування Базового будівництва Ферми можна будувати на Тундрових пагорбах. У Снігу, Тундрі, Снігових пагорбах і Тундрових пагорбах усі шахти дають +2 [ICON_PRODUCTION] Виробництва, Пилорами дають +2 [ICON_PRODUCTION] Виробництва, Табори дають +2 [ICON_FOOD] їжі, Ферми дають +2 [ICON_FOOD] їжі, а рівень накопичення Стратегічних ресурсів збільшується на 100%. Зменшується вартість придбання тайлів згаданих типів на 50%.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_CANADA_MOUNTIE_NAME">
+			<Text>
+				Кінна поліція
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_CANADA_MOUNTIE_DESCRIPTION">
+			<Text>
+				Унікальний юніт Канади Сучасної епохи. Може побудувати 2 Національні парки. +5 [ICON_Strength] Атаки, коли в межах 2 тайлів від Національного парку. Додаткові +5 [ICON_Strength] Атаки, коли в межах 2 тайлів від Національного парку, яким ви володієте. [NEWLINE][NEWLINE]
+			</Text>
+		</Replace>
+
+		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
+		<!--Англія-->
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_NAME">
+			<Text>
+				Майстерня світу
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION">
+			<Text>
+				Міни заліза та вугілля накопичують ще 2 ресурси на чергу.+100% [icon_production] Виробництво для військових інженерів.Військові інженери отримують +2 збори.Будинки, які забезпечують додаткові врожаї, коли [icon_power] отримує отримання +4 цього виходу.+20% [icon_production] Виробництво до будівель промислової зони.Будівлі гавані збільшують стратегічні ресурси запасів на +10 (на стандартній швидкості).
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
+			<Text>
+				Кожен раз, коли ви знайшли своє перше місто на континенті, крім вашого домашнього континенту, отримуйте безкоштовний блок ближнього бою та потужність торговельного маршруту [icon_traderoute].Побудова будь -якого Королівського військово -морського флоту надає вам копію найсильнішої військово -морської одиниці, яку ви можете побудувати.Отримайте унікальну одиницю Redcoat, коли досліджується військова наука.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_ITERU_EXPANSION2_DESCRIPTION">
+			<Text>
+				+15% [icon_production] Виробництво до районів та чудес, якщо розміщено поруч із річкою.Не отримує шкоди від повеней.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_ELEANOR_NAME">
+			<Text>
+				Eleanor of Aquitaine (Англія)
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_ELEANOR_FRANCE_NAME">
+			<Text>
+				Eleanor of Aquitaine (Франція)
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ELEANOR_LOYALTY_NAME">
+			<Text>
+				Суд любові
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ELEANOR_LOYALTY_DESCRIPTION">
+			<Text>
+				Чудові роботи в містах Елеонори причина -1 лояльність на чергу в іноземних містах у межах 9 плиток.Місто, яке залишає ще одну цивілізацію через втрату лояльності і в даний час отримує найбільш лояльність за чергу від цивілізації Елеонори пропускає безкоштовний крок міста, щоб приєднатися до цієї цивілізації.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_EXPANSION2_DESCRIPTION">
+			<Text>
+				Здійснюючи посвячення на початку золотого віку або героїчного віку, отримуйте звичайний віковий бонус до покращення балів ERA на додаток до іншого бонусу.+50% [icon_production] Виробництво до оборонних будівель.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_HUNGARY_NAME">
+			<Text>
+				Угорщина
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_HUNGARY_ADJECTIVE">
+			<Text>
+				Угорський
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_HUNGARY_DESCRIPTION">
+			<Text>
+				Угорська імперія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_MATTHIAS_CORVINUS_NAME">
+			<Text>
+				Маттіас Корвінус
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_THERMAL_BATH_NAME">
+			<Text>
+				Термічна ванна
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_THERMAL_BATH_DESCRIPTION">
+			<Text>
+				Будівля, унікальна для Угорщини.+2 [ICON_AMENITIES] Зручності та +2 [icon_production] Виробництво поширюється на кожен центр міста в межах 6 плиток.Ці бонуси застосовуються один раз до міста, і кілька примірників цієї будівлі в межах 6 плиток від центру міста не забезпечують додаткових бонусів. [NEWLINE] [NEWLINE] Це місто отримує +3 [icon_tourism] туризм та +2 додаткові [ICON_AMENITIES] зручностіЯкщо в кордонах цього міста є щонайменше одна геотермальна тріщина.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_NAME">
+			<Text>
+				Перлина Дунаю
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_DESCRIPTION">
+			<Text>
+				+50% [icon_production] Виробництво до районів та будівель, побудованих через річку від центру міста.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RAVEN_KING_NAME">
+			<Text>
+				Ворон король
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RAVEN_KING_DESCRIPTION">
+			<Text>
+				Залишиті одиниці набувають здатності, надаючи їм +2 [icon_movement] руху та +5 [icon_strength] бойову міцність.Це коштує на 75% менше [icon_gold] золото та ресурси для оновлення підрозділів.Якщо ви стягуєте війська з міста-держави, отримують 2 посланців [icon_envoy] з цим містом.Отримайте унікальну одиницю чорної армії, коли досліджується технологія замків.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_HUNGARY_BLACK_ARMY_NAME">
+			<Text>
+				Чорна армія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_HUNGARY_BLACK_ARMY_DESCRIPTION">
+			<Text>
+				Угорська унікальна середньовічна епоха, яка замінює курс.+3 [icon_strength] бойова міцність для кожної сусідньої стягуваної одиниці.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_HUNGARY_HUSZAR_NAME">
+			<Text>
+				Хузар
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_HUNGARY_HUSZAR_DESCRIPTION">
+			<Text>
+				Угорська унікальна промислова епоха, яка замінює кінноту.+3 [icon_strength] бойова міцність для кожного активного альянсу.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INCA_NAME">
+			<Text>
+				Інків
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INCA_ADJECTIVE">
+			<Text>
+				Інків
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INCA_DESCRIPTION">
+			<Text>
+				Імперія Інка
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GREAT_MOUNTAINS_NAME">
+			<Text>
+				Mit'a
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GREAT_MOUNTAINS_DESCRIPTION">
+			<Text>
+				Громадяни можуть працювати з гірськими плитками.Гірські плитки забезпечують виробництво +2 [icon_production] та додаткове +1 [icon_production], коли гра досягає промислової епохи.+1 [icon_food] Їжа до гірських плиток для кожної сусідньої ферми тераси.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_PACHACUTI_NAME">
+			<Text>
+				Пачакути
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_TERRACE_FARM_NAME">
+			<Text>
+				Тераська ферма
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_TERRACE_FARM_DESCRIPTION">
+			<Text>
+				Розблокує здатність будівельника будувати ферму тераси, унікальну для інків. [NEWLINE] [NEWLINE] +1 [icon_food] їжа.Забезпечує +1 [icon_housing] житло.+1 [icon_food] їжа для кожної сусідньої гірської плитки.ГОЛОВНІ +2 [icon_production] Виробництво для кожного сусіднього району акведука.Отримати +1 [icon_production] Виробництво, якщо примикати до прісної води, а не району акведука.Додаткова [icon_food] їжа, коли ви просуваєтесь через громадянські та технологічні дерево для суміжності з іншими фермами тераси.Можна розмістити на пагорбах, пагорбах та пустельних пагорбах.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_INCA_WARAKAQ_NAME">
+			<Text>
+				Warak'aq
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_INCA_WARAKAQ_DESCRIPTION">
+			<Text>
+				Incan унікальний середньовічний епоховий блок, який замінює сутичку.Більш сильніший у бою, ніж сутичка, і +1 додаткова атака на чергу.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_PACHACUTI_QHAPAQ_NAN_NAME">
+			<Text>
+				Qhapaq ñan
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_PACHACUTI_QHAPAQ_NAN_DESCRIPTION">
+			<Text>
+				Внутрішні [icon_traderoute] Торгові маршрути отримують +1 [icon_food] їжу для кожної гірської плитки в місті походження.Отримайте QHAPAQ ñan, коли виявляється громадянська іноземна торгівля.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MOUNTAIN_ROAD_NAME">
+			<Text>
+				Qhapaq ñan
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MOUNTAIN_ROAD_DESCRIPTION">
+			<Text>
+				Розблокує здатність будівельника побудувати Qhapaq ñan, унікальний для Пачакуті. [NEWLINE] [NEWLINE] виступає як портал руху на гірському діапазоні, що дозволяє одиницям переходити в нього та вийти з іншого порталу за вартістю 2 руху [icon_movement].[Icon_traderoute] Торгові маршрути, що подорожують через нього, можуть помножити золото [icon_gold], яке вони отримують з районів у своєму пункті призначення.Можна побудувати лише на сусідній гірській плитці.Не може бути розігнано або видалено.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MALI_NAME">
+			<Text>
+				Малі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MALI_ADJECTIVE">
+			<Text>
+				Маліанський
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MALI_DESCRIPTION">
+			<Text>
+				Малі Імперія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MALI_GOLD_DESERT_NAME">
+			<Text>
+				Пісні Джелі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MALI_GOLD_DESERT_DESCRIPTION">
+			<Text>
+				Центри міста отримують +1 [icon_faith] Віра та +1 [icon_food] їжа для кожної сусідньої пустелі та пустельних пагорбів.Міни отримують -1 [icon_production] виробництво та +4 [icon_gold] золото.Може придбати будівлі комерційного центру з [icon_faith] вірою.-30% [icon_production] Виробництво до побудови будівель або навчальних одиниць.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_MANSA_MUSA_NAME">
+			<Text>
+				Манса Муса
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SAHEL_MERCHANTS_NAME">
+			<Text>
+				Сахельні продавці
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SAHEL_MERCHANTS_DESCRIPTION">
+			<Text>
+				Міжнародні [icon_traderoute] Торгові маршрути отримують +1 [icon_gold] золото для кожної плоскої пустельної плитки в місті походження.Отримати +1 [icon_traderoute] Торгова потужність кожного разу, коли ви вступаєте в золотий вік.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_SUGUBA_NAME">
+			<Text>
+				Сугуба
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_SUGUBA_DESCRIPTION">
+			<Text>
+				Район, унікальний для Малі, що спеціалізується на фінансах та торгівлі, що замінює комерційний центр.Одиниці, будівлі та райони на 20% дешевше придбати з [icon_gold] Gold та [icon_faith] вірою в цьому місті. [NEWLINE] [NEWLINE] +2 [icon_gold] золотий бонус для кожного сусіднього святого місця.+2 [icon_gold] Золотий бонус з плитки, що містить край річки.+1 [icon_gold] золотий бонус на кожні дві сусідні районні плитки.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_MALI_MANDEKALU_CAVALRY_NAME">
+			<Text>
+				Кавалерія Мандекалу
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_MALI_MANDEKALU_CAVALRY_DESCRIPTION">
+			<Text>
+				Малі Унікальний середньовічний епоховий блок, який замінює лицаря.Підрозділи торговців застраховані від розграбування, якщо вони знаходяться в межах 4 плитки від кінноти Мандекалу та на сухопутній плитці.Бойові перемоги забезпечують [icon_gold] золото, що дорівнює 100% від бази бази цієї одиниці [icon_strength] бойової міцності (на стандартній швидкості).
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAORI_NAME">
+			<Text>
+				Маорі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAORI_ADJECTIVE">
+			<Text>
+				Маорі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAORI_DESCRIPTION">
+			<Text>
+				Імперія Маорі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MAORI_MANA_NAME">
+			<Text>
+				Мана
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MAORI_MANA_DESCRIPTION">
+			<Text>
+				Почніть гру з розблокуючих та можливих океанських плиток технологій вітрильного спорту та суднобудівних технологій.Починаючи одиниці посилення +2 [icon_movement].Невидознені ліси та тропічні ліси - це +1 [icon_production] виробництво.Додаткове +1 [icon_production] Виробництво з меркантилізму та +2 [icon_production] виробництво від збереження.Рибальські човни забезпечують +1 [icon_food] їжу та культурну бомбу до сусідньої плитки.Ресурси не можуть бути зібрані.[Icon_greatwriter] Великих письменників неможливо заробити.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_KUPE_NAME">
+			<Text>
+				Купу
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KUPES_VOYAGE_NAME">
+			<Text>
+				Подорож Купе
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KUPES_VOYAGE_DESCRIPTION">
+			<Text>
+				Почніть гру в океанській плитці.Отримайте безкоштовного будівельника та +1 [icon_citizen] населення, коли влаштовує своє перше місто.Палац отримує +3 [icon_housing] житло та +1 [ICON_AMENITIES] приємність.+2.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_MARAE_NAME">
+			<Text>
+				Мая
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_MARAE_DESCRIPTION">
+			<Text>
+				Будівля, унікальна для Маорі.+1 [ICON_CULTURE] Культура та [icon_faith] Віра всім плитці цього міста з прохідною рисою або природним дивом.Після дослідження польоту отримують +1 [icon_tourism] туризм для всіх плиток цього міста з функцією чи природним дивом.Не коштує технічного обслуговування.Не має великих робочих слотів.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_MAORI_TOA_NAME">
+			<Text>
+				Тоа
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_MAORI_TOA_DESCRIPTION">
+			<Text>
+				Маорі Унікальний блок класичної епохи.Суміжні ворожі одиниці отримують -5 [icon_strength] бойову міцність.Може побудувати унікальне вдосконалення PA.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MAORI_PA_NAME">
+			<Text>
+				Паз
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MAORI_PA_DESCRIPTION">
+			<Text>
+				Розблокує можливість TOA побудувати Па, унікальну для Маорі. [NEWLINE] [NEWLINE] Окупаційна одиниця отримує +4 [icon_strength] сили захисту та автоматично отримує 2 повороти фортифікації.Підрозділ Маорі, що займає Па, заживає, навіть якщо вони просто рухалися або напали.Потрібно побудувати на пагорбній плитці.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_EXPANSION2_DESCRIPTION">
+			<Text>
+				Основні бонус за сусідство за кампуси, театральні квадрати та промислові зони, якщо поруч з річкою.Культурна бомба сусідніх плиток при завершенні гавані.+50% [icon_production] Виробництво до району греблі та будівлі затоплення.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_OTTOMAN_NAME">
+			<Text>
+				Османи
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_OTTOMAN_ADJECTIVE">
+			<Text>
+				Османський
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_OTTOMAN_DESCRIPTION">
+			<Text>
+				Османська імперія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GREAT_TURKISH_BOMBARD_NAME">
+			<Text>
+				Велика турецька бомбард
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GREAT_TURKISH_BOMBARD_DESCRIPTION">
+			<Text>
+				+50% [icon_production] Виробництво до обложних одиниць.Усі облоги отримують +5 [icon_strength] бойові сили проти оборонних оборонів.Заводні міста не втрачають [icon_citizen] населення.Міста, не засновані османами, які отримують +1 [ICON_AMENITIES] приємності та +4 лояльності за поворот.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_SULEIMAN_NAME">
+			<Text>
+				Сулейман
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_GRAND_BAZAAR_NAME">
+			<Text>
+				Великий базар
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_GRAND_BAZAAR_DESCRIPTION">
+			<Text>
+				Будівля, унікальна для османів.Накопичуйте 1 додатковий стратегічний ресурс для кожного різного типу стратегічного ресурсу, яке це місто покращило.Отримайте 1 [ICON_AMENITIES] Придатності для кожного розкішного ресурсу, яке це місто покращилося.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_OTTOMAN_BARBARY_CORSAIR_NAME">
+			<Text>
+				Барбарі Корсар
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_OTTOMAN_BARBARY_CORSAIR_DESCRIPTION">
+			<Text>
+				Османська унікальна середньовічна епоха Військово -морська одиниця, яка замінює приватника.Це не коштує руху [icon_movement] до прибережного рейду.Можна побачити лише інші військово -морські рейдери, якщо не примикають до нього.Виявляє військово -морські рейдери в межах зору.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_SULEIMAN_JANISSARY_NAME">
+			<Text>
+				Яніссар
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_SULEIMAN_JANISSARY_DESCRIPTION">
+			<Text>
+				Османський унікальний блок епохи Відродження, який замінює мушкетман.Починається з безкоштовної акції.Сильніший і дешевший, ніж мушкетман.Для підготовки яніссара місто повинно мати населення щонайменше 2. Якщо місто засноване османами і тренує янинісар, воно втрачає населення.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SULEIMAN_GOVERNOR_NAME">
+			<Text>
+				Великий віз.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SULEIMAN_GOVERNOR_DESCRIPTION">
+			<Text>
+				Ексклюзивний унікальний губернатор з військовими та дипломатичними здібностями.Отримайте унікальну одиницю яніссарі та назву губернатора [icon_governor], коли досліджується технологія пороху.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_PHOENICIA_NAME">
+			<Text>
+				Фінікія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_PHOENICIA_ADJECTIVE">
+			<Text>
+				Фінікік
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_PHOENICIA_DESCRIPTION">
+			<Text>
+				Фінікська імперія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MEDITERRANEAN_COLONIES_NAME">
+			<Text>
+				Середземноморські колонії
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MEDITERRANEAN_COLONIES_DESCRIPTION">
+			<Text>
+				Почніть гру з технології написання [icon_techboosted] eureka.Прибережні міста, засновані Фінікією, і розташовані на тому ж континенті, що і фінікик [icon_capital] капітал, є 100% лояльними.Поселенці отримують +2 [icon_movement] та +2 діапазон прицілу під час вирушення.Переселенці ігнорують додаткові [icon_movement] витрати на рух від вирушення та висадки.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_DIDO_NAME">
+			<Text>
+				Дідо
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_FOUNDER_CARTHAGE_NAME">
+			<Text>
+				Засновник Карфаген
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_FOUNDER_CARTHAGE_DESCRIPTION">
+			<Text>
+				Може перенести свій оригінальний капітал [icon_capital] в будь -яке місто з котом, який вони заснували, завершивши унікальний проект у цьому місті.+1 [icon_traderoute] Торгова маршрут для кожної урядової будівлі площі та урядового району Плаза.+50% [icon_production] Виробництво до районів міста з урядом Плаза.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_COTHON_NAME">
+			<Text>
+				Коттон
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_COTHON_DESCRIPTION">
+			<Text>
+				Район, унікальний для Фінікії для військово -морської діяльності у вашому місті.Замінює гаваньський район і дешевше будувати.Повинно бути побудовано на узбережжі або озерному місцевості, що прилягає до землі. [NEWLINE] [NEWLINE]+50% [icon_production] Виробництво для військово -морських одиниць та поселенців у цьому місті.Усі поранені військово -морські одиниці в кордонах цього міста заживають +100 к.с. кожен поворот.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_PHOENICIA_BIREME_NAME">
+			<Text>
+				Бірема
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_PHOENICIA_BIREME_DESCRIPTION">
+			<Text>
+				Фінікійський унікальний підрозділ стародавньої епохи, який замінює галеру.Збільшення [icon_strength] бойової міцності та руху [icon_movement].Одиниці торговців застраховані від розграбування, якщо вони знаходяться в межах 4 плиток від бірім і на водній плитці.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_EXPANSION2_DESCRIPTION">
+			<Text>
+				Отримує бонуси за переконання в місті від кожної релігії, яка має принаймні 1 послідовник.Міста отримують корисність [ICON_AMENITIES] для кожної релігії з принаймні 1 послідовником.Місіонери мають +2 поширення.+100% релігійний тиск з ваших торгових маршрутів [icon_traderoute].
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_STEPWELL_EXPANSION2_DESCRIPTION">
+			<Text>
+				Розблокує здатність будівельника побудувати Stepwell, унікальну для Індії. [NEWLINE] [NEWLINE] +1 [icon_food] їжа та +1 [icon_housing] житло.+1 [icon_faith] Віра, якщо примикає до району Святого Сайту.+1 [icon_food] їжа, якщо примикає до ферми.Додаткове [icon_housing] житло, [icon_faith] віра та [icon_food] їжа, коли ви просуваєтесь через технологію та дерево громадян.Запобігає [icon_food] втрати їжі під час посухи.Неможливо побудувати на пагорбах або примикати до іншого кастелла.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_EXPANSION2_DESCRIPTION">
+			<Text>
+				Земляні одиниці отримують +5 [icon_strength] бойова міцність у сухопутних плитках, що примикають до узбережжя;Військово -морські одиниці отримують +5 [icon_strength] бойову міцність у мілководній плитці.Половина часу будує табір, Священну ділянку та театральні площі.Одиниці не отримують шкоди від ураганів.Цивілізації, які воюють з Японією, отримують +100% ушкодження від ураганів на японській території.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_EXPANSION2_DESCRIPTION">
+			<Text>
+				+5 [icon_faith] Віра та +1 [icon_favor] Дипломатична прихильність на чергу для кожної цивілізації (включаючи Індію), які вони зустріли, що заснувала релігію і наразі не воює.Протилежні цивілізації отримують подвійне втому війни за боротьбу проти Ганді.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_ELECTRONICS_FACTORY_EXPANSION2_DESCRIPTION">
+			<Text>
+				Будівля, унікальна для Японії.Забезпечує +4 [ICON_CULTURE] культуру цьому місту після дослідження технології електроенергії.Його бонус за виробництво [icon_production] поширюється на всі міські центри в межах 6 плиток, які ще не мають бонусу від цього типу будівлі.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_EXPANSION2_DESCRIPTION">
+			<Text>
+				Будуючи давні та класичні чудеса, ви можете витратити плату за будівельника, щоб закінчити 15% від первісної вартості дива.Будівельники отримують додаткову плату.Канали розблоковані за допомогою технології кладки.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_BATH_EXPANSION2_DESCRIPTION">
+			<Text>
+				Район, унікальний для Риму для зростання міста.Замінює район Акведука і дешевше будувати. [NEWLINE] [NEWLINE] Він забезпечує цьому місту джерелом прісної води з сусідньої річки, озера, оазису чи гори.Міста, які ще не мають існуючої прісної води, отримують до 6 [icon_housing] житла.Міста, які вже мають існуючу прісну воду, замість цього отримають +2 [icon_housing] житло.Якщо побудований поруч із геотермальною тріщинами +1 [ICON_AMENITIES].У всіх випадках ванна забезпечує додатковий бонус +2 [icon_housing] житла та +1 [ICON_AMENITIES] приємності.Запобігає [icon_food] втрати їжі під час посухи.Потрібно побудувати поруч із центром міста.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_BATH_EXPANSION2_ALT_DESCRIPTION">
+			<Text>
+				Район, унікальний для Риму для зростання міста.Замінює район Акведука і дешевше будувати. [NEWLINE] [NEWLINE] Він забезпечує цьому місту джерелом прісної води з сусідньої річки, озера, оазису чи гори.Міста, які ще не мають існуючої прісної води, отримують до 6 [icon_housing] житла.Міста, які вже мають існуючу прісну воду, замість цього отримають +2 [icon_housing] житло.Якщо побудований поруч із геотермальною тріщинами +1 [ICON_AMENITIES].У всіх випадках ванна забезпечує додатковий бонус +2 [icon_housing] житла та +1 [ICON_AMENITIES] приємності.Запобігає [icon_food] втрати їжі під час посухи.Потрібно побудувати поруч із центром міста.Військові інженери можуть витратити заряд на завершення 20% виробництва ванни.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_EXPANSION2_DESCRIPTION">
+			<Text>
+				Додаткова територія на засновниках міст.+1 [icon_faith] Віра та +1 [icon_production] Виробництво з Тундри.Одиниці не отримують пошкоджень від хуртовин.Цивілізації, які воюють з Росією, отримують +100% одиничних збитків від хуртовин на російській території.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SWEDEN_NAME">
+			<Text>
+				Швеція
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SWEDEN_ADJECTIVE">
+			<Text>
+				Шведський
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SWEDEN_DESCRIPTION">
+			<Text>
+				Шведська імперія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_NOBEL_PRIZE_NAME">
+			<Text>
+				Нобелівська премія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_NOBEL_PRIZE_DESCRIPTION">
+			<Text>
+				Швеція отримує 50 [icon_faver] дипломатичну послугу, коли заробляє чудову людину (на стандартній швидкості).Швеція отримує +1 [icon_greatengineer] Чудовий інженерний пункт з фабрик та +1 [icon_greatscientist] Великий вчений з університетів.Швеція в грі додає три унікальні змагання Всесвітнього конгресу, починаючи з промислової епохи.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_KRISTINA_NAME">
+			<Text>
+				Крістіна
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KRISTINA_AUTO_THEME_NAME">
+			<Text>
+				Мінерва Півночі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KRISTINA_AUTO_THEME_DESCRIPTION">
+			<Text>
+				Будинки з щонайменше трьома чудовими робочими слотами та чудесами з принаймні двома чудовими робочими слотами автоматично тематичні, коли вони заповнюють усі свої слоти.Вона може побудувати бібліотеку королеви на урядовому майданчику.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_OPEN_AIR_MUSEUM_NAME">
+			<Text>
+				Музей під відкритим небом
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_OPEN_AIR_MUSEUM_DESCRIPTION">
+			<Text>
+				Розблокує здатність будівельника будувати музей під відкритим небом, унікальний для Швеції. [NEWLINE] [NEWLINE] забезпечує +2 лояльність за чергу в цьому місті.+2 [ICON_CULTURE] Культура та +2 [icon_tourism] Туризм для кожного типу місцевості (сніг, тундра, пустеля, рівнини або пасовища), в яких засновано щонайменше одне шведське місто.Один на місто.Плитки з музеями під відкритим небом не можна замінити.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_QUEENS_BIBLIOTHEQUE_NAME">
+			<Text>
+				Бібліотека королеви
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_QUEENS_BIBLIOTHEQUE_DESCRIPTION">
+			<Text>
+				Будівля, унікальна для Швеції.Ця будівля забезпечує 2 слоти [icon_greatwork_writing] написання, [icon_greatwork_music] музики та будь -якого типу [icon_greatwork_landscape] мистецтва. [NEWLINE] нагороди +1 [icon_governor] заголовок губернатора.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_SWEDEN_CAROLEAN_NAME">
+			<Text>
+				Колієр
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_SWEDEN_CAROLEAN_DESCRIPTION">
+			<Text>
+				Шведський унікальний блок епохи Відродження, який замінює щуку та постріл.Швидше, ніж щука і постріл.+3 [icon_strength] бойова міцність на невикористаний рух [icon_movement].
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ERA_FUTURE_NAME">
+			<Text>
+				Майбутня епоха
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ERA_FUTURE_DESCRIPTION">
+			<Text>
+				Світ містить диво поза сновидіннями стародавніх пророків, а жах і страшніші, ніж будь -який апокаліпсис.Машини шукають сенс та нові матеріали, що впливають на мрії.Вибори, зроблені давно, несуть серйозні наслідки в цьому віці та вимагають рішучих відповідей.Ідіть зараз і досягніть свого бачення майбутнього цивілізації.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_VICTORY_SCIENCE_TT_XP2">
+			<Text>
+				Будьте першим, хто завершив експедицію екзопланету в іншу зіркову систему, щоб виграти перемогу в науці.Ця перемога прямолінійна, але може бути важко досягти, перш ніж закінчиться час.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_EXPANSION2_NAME">
+			<Text>
+				Копакабана
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_EXPANSION2_DESCRIPTION">
+			<Text>
+				Район, унікальний для Бразилії.Замінює район аквапарку та забезпечує +2 [ICON_AMENITIES] зручності.Також розблокує проект Carnival, який надає додаткову +1 [ICON_AMENITIES], коли він проводиться, і різноманітні [icon_greatperson] великих очок після завершення.Неможливо побудувати в місті з вуличним карнавалом.Не може бути побудований на рифі.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION2_DESCRIPTION">
+			<Text>
+				Район, унікальний для Бразилії.Замінює розважальний комплексний район і забезпечує +2 [ICON_AMENITIES] зручності.Також розблокує проект Carnival, який надає додаткову +1 [ICON_AMENITIES], коли він проводиться, і різноманітні [icon_greatperson] великих очок після завершення.Неможливо побудувати в місті з Копакабаною.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_GREAT_WALL_EXPANSION2_DESCRIPTION">
+			<Text>
+				Розблокує здатність будівельника побудувати велику стіну, унікальну для Китаю. [NEWLINE] [NEWLINE] +2 [icon_gold] золото.Забезпечує збільшення захисту [icon_strength].Бонус за [icon_gold] золото, якщо поруч з іншими сегментами.Додаткова [ICON_CULTURE] Культура та [icon_tourism] Туризм, коли ви просуваєтесь через дерево технології для сусідніх сегментів.Потрібно побудувати в лінії вздовж кордонів вашої імперії.Можна пограбувати (ніколи не знищити) лише за допомогою стихійних лих.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION2_DESCRIPTION">
+			<Text>
+				[Icon_techboosted] eurekas та [icon_civicboosted] натхнення надають 50% громадянських та технологій замість 40%.Під час завершення дива отримуйте випадкове [icon_techboosted] eureka та [icon_civicboosted] натхнення з епохи дива, якщо вони є.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION2_DESCRIPTION">
+			<Text>
+				Ваші [icon_traderoute] торгові маршрути для інших цивілізацій забезпечують +4 [icon_gold] золото для Єгипту.Інші цивілізації '[icon_traderoute] Торгові маршрути до Єгипту забезпечують +2 [icon_food] їжу для них та +2 [icon_gold] золото для Єгипту.Торгівля з союзниками заробляє вдвічі більше балів бонусного альянсу.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_SPHINX_EXPANSION2_DESCRIPTION">
+			<Text>
+				Розблокує здатність будівельника побудувати сфінкс, унікальний для Єгипту. [NEWLINE] [NEWLINE] +1 [icon_faith] віра та +1 [ICON_CULTURE] культура.+2 звернення.+2 [icon_faith] Віра, якщо поруч із дивом.+1 [ICON_CULTURE] Культура, якщо побудована на заплавах.Додаткова [ICON_CULTURE] Культура після відкриття природної історії.Забезпечує [icon_tourism] туризм після дослідження польоту.Неможливо побудувати поруч з іншим сфінксом.Не можна будувати на снігових або снігових пагорбах.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_EXPANSION2_DESCRIPTION">
+			<Text>
+				Єгипетська унікальна стародавня епоха, що становила підрозділ.4 Рух [icon_movement], коли починається з відкритої місцевості.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION2_DESCRIPTION">
+			<Text>
+				Район, унікальний для Англії для військово -морської діяльності у вашому місті.Замінює гаваньський район.Також видаляє покарання руху [icon_movement] за вирушення та висадки до цієї плитки та з нього.Повинен бути побудований на узбережжі або озерному місцевості, що примикає до землі. [NEWLINE] [NEWLINE] +1 [icon_movement] Рух для всіх військово -морських одиниць, побудованих у доккарді [NEWLINE] +2 [icon_gold] золота та +4 лояльності за чергу, коли будується на aіноземний континент.Не може бути побудований на рифі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_CHATEAU_EXPANSION2_DESCRIPTION">
+			<Text>
+				Розблокує здатність будівельника будувати замок, унікальну для Франції. [NEWLINE] [NEWLINE] +2 [ICON_CULTURE] культура та +1 [icon_gold] золото.+1 звернення.+1 [ICON_CULTURE] культура для кожного сусіднього дива (стає +2 після дослідження польоту).+2 [icon_gold] золото, якщо на плитці, що містить край річки.Забезпечує [icon_tourism] туризм з культури [ICON_CULTURE] після дослідження польоту.Потрібно розміщувати поруч із бонусним або розкішним ресурсом.Не може бути побудований поруч з іншим замком.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION2_DESCRIPTION">
+			<Text>
+				Коли воює з загальним ворогом, вони та їхні союзники діляться нагородами з грабежами та діляться бойовим досвідом, якщо в межах 5 плиток.Їх альянси отримують очки альянсу за те, що воюють із загальним ворогом.+5 [icon_strength] Бойова сила проти одиниць гравців, які воюють з вами та вашим союзником.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_ORDU_EXPANSION2_DESCRIPTION">
+			<Text>
+				Будівля, унікальна для Монголії.Надає здатність, яка дає +1 [icon_movement] рух до важкої та легкої кінноти, навченої в цьому місті.+25% бойового досвіду для всіх підрозділів класу кавалерії та облоги, які навчаються в цьому місті. [NEWLINE] стратегічні запасні ресурси збільшилися +10 (на стандартній швидкості). [NEWLINE] [NEWLINE] може не бути побудований у районі табору, який вже має aКазарми.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_EXPANSION2_DESCRIPTION">
+			<Text>
+				Дозволяє прибережні рейдування для всіх військово -морських одиниць ближнього бою та +50% [icon_production] виробництва до всіх військово -морських підрозділів.Отримайте [icon_science] Наука від графства та прибережних рейдових мін, крім GOLD [icon_gold].Розміщення або прибережні рейдерські кар'єри, пасовища, плантації та табори забезпечують культуру [ICON_CULTURE] на додаток до віри [icon_faith].Отримайте унікальний підрозділ вікінгів з вітрилом.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION2_DESCRIPTION">
+			<Text>
+				Можуть утворювати флоти та армади з меркантилізмом, а не націоналізмом та мобілізацією.[Icon_traderoute] Торгові маршрути отримують +3 [icon_gold] золото, +2 [icon_faith] віра та +1 [icon_production] виробництво.[Icon_traderoute] Торгові маршрути між декількома континентами отримують потрійні ці цифри.Міста, які не на континенті вашого первісного капіталу, отримують +25% [icon_production] виробництва до районів та будівельника, коли вона заснована.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_EXPANSION2_DESCRIPTION">
+			<Text>
+				Інквізитори можуть усунути єресі один додатковий час.Інквізитори усувають 100% наявності інших релігій.Бойові та релігійні одиниці мають бонус +5 [icon_strength] бойову силу проти гравців, що слідують за іншими релігіями.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MISSION_EXPANSION2_DESCRIPTION">
+			<Text>
+				Розблокує здатність будівельника будувати місію, унікальну для Іспанії. [NEWLINE] [NEWLINE] +2 [icon_faith] віра.+2 [icon_faith] віра, +1 [icon_production] виробництво та +1 [icon_food] їжа, якщо на іншому континенті, ніж ваш капітал [icon_capital].+1 [icon_science] Наука для кожного сусіднього кампусу та району святого місця.Додаткова [icon_science] Наука колись культурна спадщина буде виявлена.+2 Лояльність за чергу для міст з вдосконаленням місії, що прилягає до центру міста, а не на вашому первісному континенті капіталу [icon_capital].
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_HANSA_EXPANSION2_DESCRIPTION">
+			<Text>
+				Район, унікальний для Німеччини для промислової діяльності.Замінює район промислової зони та дешевше будувати. [NEWLINE] [NEWLINE]+ 2 [icon_production] виробничий бонус для кожного сусіднього комерційного центру, акведука, каналу та греблі.+1 [icon_production] бонус за виробництво для кожного сусіднього ресурсу.+1 [icon_production] бонус за виробництво на кожні дві сусідні районні плитки.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_GOLF_COURSE_XP2_DESCRIPTION">
+			<Text>
+				Розблокує можливість будівельника будувати поле для гольфу, унікальне для Шотландії. [NEWLINE] [NEWLINE] +2 [ICON_AMENITIES] зручності та +2 [icon_gold] золото.+1 [ICON_CULTURE] Культура, якщо примикає до району міста та +1 [ICON_CULTURE] культури, якщо примикає до розважального комплексу.Додатковий [icon_tourism] Туризм та [icon_housing] житло, коли ви просуваєтесь через дерево громадян та технологій.Не можна розмістити на пустельних або пустельних пагорбах.Один на місто.Плитки з полями для гольфу не можуть бути замінені.+1 звернення.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_ACROPOLIS_EXPANSION2_DESCRIPTION">
+			<Text>
+				Район, унікальний для Греції для культурних майданчиків.Замінює район театральної площі та дешевше будувати.Нагороди 1 [icon_envoy] посланник після завершення. [NEWLINE] [NEWLINE] +1 [ICON_CULTURE] бонус культури для кожного сусіднього району та додаткового бонусу культури +1 [ICON_CULTURE] для сусіднього центру міста.+2 [ICON_CULTURE] бонус культури за кожен сусідній диво, розважальний комплекс та аквапарк.Можна побудувати лише на пагорбах.
+			</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
