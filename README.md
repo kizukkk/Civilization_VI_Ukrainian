@@ -16,3 +16,19 @@ TODO Локалізація:
 - Невеликі меню завантаження гри та швидкого старту;
 
 ## Приклад (не є кінцевим результатом)
+<table>
+<tbody>
+  <tr>
+    <td><img src="https://github.com/kizukkk/Civilization_VI_Ukrainian/blob/docs/demo/mainMenu.png"></td>
+  </tr>
+</tbody>
+</table>
+<table>
+  <tbody>
+  <tr>
+    <td><img src="https://github.com/kizukkk/Civilization_VI_Ukrainian/blob/docs/demo/optionsGraphics.png"></td>
+    <td><img src="https://github.com/kizukkk/Civilization_VI_Ukrainian/blob/docs/demo/gameCreate.png"></td>
+    <td><img src="https://github.com/kizukkk/Civilization_VI_Ukrainian/blob/docs/demo/multiplayerGameCreate.png"></td>
+  </tr>
+</tbody>
+</table>
