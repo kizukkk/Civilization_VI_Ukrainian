@@ -1,6 +1,260 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-		
+	
+		<!-- Рівні складності -->
+		<Row Tag="LOC_DIFFICULTY_SETTLER_NAME">
+			<Text>
+				Settler
+			</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_CHIEFTAIN_NAME">
+			<Text>
+				Chieftain
+			</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_WARLORD_NAME">
+			<Text>
+				Warlord
+			</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_PRINCE_NAME">
+			<Text>
+				Prince
+			</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_KING_NAME">
+			<Text>
+				King
+			</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_EMPEROR_NAME">
+			<Text>
+				Emperor
+			</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_IMMORTAL_NAME">
+			<Text>
+				Immortal
+			</Text>
+		</Row>
+		<Row Tag="LOC_DIFFICULTY_DEITY_NAME">
+			<Text>
+				Deity
+			</Text>
+		</Row>
+
+		<!-- Режим гри -->
+		<Row Tag="LOC_EXPANSION2_MOD_TITLE">
+			<Text>
+				Expansion: Gathering Storm
+			</Text>
+		</Row>
+		<Row Tag="LOC_EXPANSION2_MOD_TEASER">
+			<Text>
+				An Expansion pack with World Congress, environmental effects and disasters, power, new civilizations and leaders, and much, much more!
+			</Text>
+		</Row>
+		<Row Tag="LOC_EXPANSION2_MOD_DESCRIPTION">
+			<Text>
+				This is a game using the Gathering Storm Expansion, which includes the World Congress, environmental effects and disasters, power, and more. Can you deal with the unpredictability of a changing world to make a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<Row Tag="LOC_EXPANSION1_MOD_TITLE">
+			<Text>
+				Expansion: Rise and Fall
+			</Text>
+		</Row>
+		<Row Tag="LOC_EXPANSION1_MOD_TEASER">
+			<Text>
+				An Expansion pack with Great Ages, Loyalty, Governors, Emergencies, new civilizations and leaders and much, much more!
+			</Text>
+		</Row>
+		<Row Tag="LOC_EXPANSION1_MOD_DESCRIPTION">
+			<Text>
+				This is a game using the Rise and Fall Expansion, which includes Great Ages, Loyalty, Governors, and Emergencies. Can you lead your people into a Golden Age of prosperity? Or will your empire face the challenges of a Dark Age?
+			</Text>
+		</Row>
+
+		<!-- Black Death Scenario -->
+		<Row Tag="LOC_BLACKDEATH_MOD_TITLE">
+			<Text>
+				Scenario: The Black Death
+			</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_TOOLTIP">
+			<Text>
+				Can you guide your nation through the terrible plague? 4 players, 85 turns.
+			</Text>
+		</Row>
+		<Row Tag="LOC_BLACKDEATH_SCENARIO_DESCRIPTION">
+			<Text>
+				In this scenario you must guide a Medieval civilization through the infamous Black Death, keeping their cultural and scientific efforts alive as their population falls and faith collapses. The plague will sweep the landscape in waves, killing citizens and rendering tiles unworkable. Can you hold on long enough to sow the seeds of the Enlightenment, or will your nation collapse into disloyalty and despair?
+			</Text>
+		</Row>
+
+		<!-- War Machine Scenario -->
+		<Row Tag="LOC_WARMACHINE_MOD_TITLE">
+			<Text>
+				Multiplayer Scenario: War Machine
+			</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_TOOLTIP">
+			<Text>
+				1v1 multiplayer scenario based on the German attack on France during the outbreak of WWI.
+			</Text>
+		</Row>
+		<Row Tag="LOC_WARMACHINE_SCENARIO_DESCRIPTION">
+			<Text>
+				In this scenario you take command of the armies of France or Germany during the first month of WWI. You have a massive army poised to strike, an industrial nation ready to back it up, and only 40 turns to capture or defend Paris. Can you triumph in the greatest clash of arms the world has ever seen? Or will warfare on this scale and speed overwhelm you?
+			</Text>
+		</Row>
+		<!-- Швидкості гри -->
+		<Row Tag="LOC_GAME_SPEED">
+			<Text>
+				Game Speed
+			</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_MARATHON_NAME">
+			<Text>
+				Marathon
+			</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_EPIC_NAME">
+			<Text>
+				Epic
+			</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_STANDARD_NAME">
+			<Text>
+				Standard
+			</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_QUICK_NAME">
+			<Text>
+				Quick
+			</Text>
+		</Row>
+		<Row Tag="LOC_GAMESPEED_ONLINE_NAME">
+			<Text>
+				Online
+			</Text>
+		</Row>
+
+		<!-- Назва та опис карт світу -->
+		<Row Tag="LOC_TSLEARTH_NAME">
+			<Text>
+				True Start Location Earth
+			</Text>
+		</Row>
+		<Row Tag="LOC_TSLEARTH_DESCRIPTION">
+			<Text>
+				Civilizations start at the location of their historic capital on the Earth map.
+			</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_STANDARD_NAME">
+			<Text>
+				Earth
+			</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
+			<Text>
+				A representation of Earth with resources, terrain, and features reflecting their historic locations.
+			</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_HUGE_NAME">
+			<Text>
+				Earth Huge
+			</Text>
+		</Row>
+		<Row Tag="LOC_EARTH_MAP_HUGE_DESCRIPTION">
+			<Text>
+				A larger sized representation of Earth with resources, terrain, and features reflecting their historic locations.
+			</Text>
+		</Row>
+		<Row Tag="LOC_TSL_EARTH_MAP_HUGE_NAME">
+			<Text>
+				True Start Location Earth Huge
+			</Text>
+		</Row>
+		<Row Tag="LOC_TSL_EARTH_MAP_HUGE_DESCRIPTION">
+			<Text>
+				Civilizations start at the location of their historic capital on the huge Earth map.
+			</Text>
+		</Row>
+		<Row Tag="LOC_MEDITERRANEAN_LARGE_NAME">
+			<Text>
+				Mediterranean Large
+			</Text>
+		</Row>
+		<Row Tag="LOC_MEDITERRANEAN_LARGE_DESCRIPTION">
+			<Text>
+				A large map of the greater Mediterranean region with resources, terrain, and features reflecting their historic locations.
+			</Text>
+		</Row>
+		<Row Tag="LOC_TSL_MEDITERRANEAN_LARGE_NAME">
+			<Text>
+				True Start Location Mediterranean
+			</Text>
+		</Row>
+		<Row Tag="LOC_TSL_MEDITERRANEAN_LARGE_DESCRIPTION">
+			<Text>
+				Civilizations start at the location of their historic capital on the large Mediterranean map.
+			</Text>
+		</Row>
+
+		<!-- Розміри карт -->
+		<Row Tag="LOC_MAP_SIZE">
+			<Text>
+				Map Size
+			</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_DUEL_NAME">
+			<Text>
+				Duel
+			</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_TINY_NAME">
+			<Text>
+				Tiny
+			</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_SMALL_NAME">
+			<Text>
+				Small
+			</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_STANDARD_NAME">
+			<Text>
+				Standard
+			</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_LARGE_NAME">
+			<Text>
+				Large
+			</Text>
+		</Row>
+		<Row Tag="LOC_MAPSIZE_HUGE_NAME">
+			<Text>
+				Huge
+			</Text>
+		</Row>
+
+		<!-- Setup Parameters -->
+		<Row Tag="LOC_GAME_REALISM">
+			<Text>
+				Disaster Intensity
+			</Text>
+		</Row>
+		<Row Tag="LOC_GAME_REALISM_DESCRIPTION">
+			<Text>
+				Set natural disaster intensity. Choose from a setting of 0 (less frequent and intense natural disasters) to 4 (frequent and intense natural disasters). Note that on settings of 3 and 4, severe volcanic eruptions may damage tiles two hexes away.
+			</Text>
+		</Row>
+		<Row Tag="LOC_MAP_SIZE">
+			<Text>
+				Map Size
+			</Text>
+		</Row>
 	</LocalizedText>
 </GameData>
