@@ -64,6 +64,77 @@
 			</Text>
 		</Replace>
 
+		<!--Maori-->
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAORI_NAME">
+			<Text>Маорі</Text>
+		</Replace>
+		
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAORI_ADJECTIVE">
+			<Text>
+				Маорі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAORI_DESCRIPTION">
+			<Text>
+				Імперія Маорі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MAORI_MANA_NAME">
+			<Text>
+				Мана
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MAORI_MANA_DESCRIPTION">
+			<Text>
+				Почніть гру з технологією Планерування і Кораблебудування, а також з можливістю виходу у океан. Висаджені юніти отримують +2 [ICON_Movement] Дії. Ліси і Тропічні сади дають +1 [ICON_PRODUCTION] Виробництва. Додатково +1 [ICON_PRODUCTION] Виробництво від Меркантилізму та +2 [ICON_PRODUCTION] Виробництва від Охорони природи. Рибальські човни дають +1 [ICON_FOOD] Їжі та Культурну експансію на сусідні тайли. [NIEWLINE]Неможливе збирання ресурсів, а також отримання [ICON_GreatWriter] Великих письменників.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_KUPE_NAME">
+			<Text>
+				Купу
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KUPES_VOYAGE_NAME">
+			<Text>
+				Похід Купе
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KUPES_VOYAGE_DESCRIPTION">
+			<Text>
+				Почніть гру з тайла Океану. Отримайте безкоштовного Батрака і +1 [ICON_Citizen] Населення, коли заснуєте своє перше місто. Резиденнція отримує +3 [ICON_HOUSING] Житла і +1 [ICON_AMENITIES] Задоволення.[NEWLINE]+2 [ICON_SCIENCE] Науки і +2 [ICON_CULTURE] Культури за хід до заснування першого міста.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_MARAE_NAME">
+			<Text>
+				Марає
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_MARAE_DESCRIPTION">
+			<Text>
+				Унікальна будівля Маорі. +1 [ICON_CULTURE] Культури і [ICON_FAITH] Віри до всіх тайлів цього міста з Прохідними місцевостями або Дивом природи. Після дослідження Льотних випробувань ви отримуєте +1 [ICON_TOURISM] Туризму на всі тайли цього міста з Прохідними місцевостями або Дивом природи. Не потребує обслуговування. Не має слотів Великих Творів.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_MAORI_TOA_NAME">
+			<Text>
+				Тоа
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_MAORI_TOA_DESCRIPTION">
+			<Text>
+				Унікальний юніт ближнього бою Античності. Сусідні ворожі юніти отримують -5 [ICON_STRENGTH] Атаки. Можуть будувати унікальне Покращення Pā.[NEWLINE]
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MAORI_PA_NAME">
+			<Text>
+				Pā
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MAORI_PA_DESCRIPTION">
+			<Text>
+				Відкриває унікальну для Маорі здатність Toa будувати Pā.[NEWLINE][NEWLINE]Юніти, що займають Pā, отримують +4 [ICON_Strength] Захисту і автоматично отриму.nm 2 ходи укріплення. Юніти Маорі, які займають Pā, отримують зцілення, навіть якщо вони щойно перемістилися або атакували. Може бути побудуваний лише на Пагорбах. [NEWLINE]
+			</Text>
+		</Replace>
+
 		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
 		<!--Англія-->
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_NAME">
@@ -311,76 +382,8 @@
 				Малі Унікальний середньовічний епоховий блок, який замінює лицаря.Підрозділи торговців застраховані від розграбування, якщо вони знаходяться в межах 4 плитки від кінноти Мандекалу та на сухопутній плитці.Бойові перемоги забезпечують [icon_gold] золото, що дорівнює 100% від бази бази цієї одиниці [icon_strength] бойової міцності (на стандартній швидкості).
 			</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAORI_NAME">
-			<Text>
-				Маорі
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAORI_ADJECTIVE">
-			<Text>
-				Маорі
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAORI_DESCRIPTION">
-			<Text>
-				Імперія Маорі
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MAORI_MANA_NAME">
-			<Text>
-				Мана
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MAORI_MANA_DESCRIPTION">
-			<Text>
-				Почніть гру з розблокуючих та можливих океанських плиток технологій вітрильного спорту та суднобудівних технологій.Починаючи одиниці посилення +2 [icon_movement].Невидознені ліси та тропічні ліси - це +1 [icon_production] виробництво.Додаткове +1 [icon_production] Виробництво з меркантилізму та +2 [icon_production] виробництво від збереження.Рибальські човни забезпечують +1 [icon_food] їжу та культурну бомбу до сусідньої плитки.Ресурси не можуть бути зібрані.[Icon_greatwriter] Великих письменників неможливо заробити.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_LEADER_KUPE_NAME">
-			<Text>
-				Купу
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KUPES_VOYAGE_NAME">
-			<Text>
-				Подорож Купе
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KUPES_VOYAGE_DESCRIPTION">
-			<Text>
-				Почніть гру в океанській плитці.Отримайте безкоштовного будівельника та +1 [icon_citizen] населення, коли влаштовує своє перше місто.Палац отримує +3 [icon_housing] житло та +1 [ICON_AMENITIES] приємність.+2.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_BUILDING_MARAE_NAME">
-			<Text>
-				Мая
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_BUILDING_MARAE_DESCRIPTION">
-			<Text>
-				Будівля, унікальна для Маорі.+1 [ICON_CULTURE] Культура та [icon_faith] Віра всім плитці цього міста з прохідною рисою або природним дивом.Після дослідження польоту отримують +1 [icon_tourism] туризм для всіх плиток цього міста з функцією чи природним дивом.Не коштує технічного обслуговування.Не має великих робочих слотів.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_MAORI_TOA_NAME">
-			<Text>
-				Тоа
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_MAORI_TOA_DESCRIPTION">
-			<Text>
-				Маорі Унікальний блок класичної епохи.Суміжні ворожі одиниці отримують -5 [icon_strength] бойову міцність.Може побудувати унікальне вдосконалення PA.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MAORI_PA_NAME">
-			<Text>
-				Паз
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MAORI_PA_DESCRIPTION">
-			<Text>
-				Розблокує можливість TOA побудувати Па, унікальну для Маорі. [NEWLINE] [NEWLINE] Окупаційна одиниця отримує +4 [icon_strength] сили захисту та автоматично отримує 2 повороти фортифікації.Підрозділ Маорі, що займає Па, заживає, навіть якщо вони просто рухалися або напали.Потрібно побудувати на пагорбній плитці.
-			</Text>
-		</Replace>
+
+		<!--Netherlands-->
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_EXPANSION2_DESCRIPTION">
 			<Text>
 				Основні бонус за сусідство за кампуси, театральні квадрати та промислові зони, якщо поруч з річкою.Культурна бомба сусідніх плиток при завершенні гавані.+50% [icon_production] Виробництво до району греблі та будівлі затоплення.
@@ -456,6 +459,8 @@
 				Ексклюзивний унікальний губернатор з військовими та дипломатичними здібностями.Отримайте унікальну одиницю яніссарі та назву губернатора [icon_governor], коли досліджується технологія пороху.
 			</Text>
 		</Replace>
+
+		<!--Phoenicia-->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_PHOENICIA_NAME">
 			<Text>
 				Фінікія
@@ -463,7 +468,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_PHOENICIA_ADJECTIVE">
 			<Text>
-				Фінікік
+				Фінікська
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_PHOENICIA_DESCRIPTION">
@@ -478,32 +483,32 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MEDITERRANEAN_COLONIES_DESCRIPTION">
 			<Text>
-				Почніть гру з технології написання [icon_techboosted] eureka.Прибережні міста, засновані Фінікією, і розташовані на тому ж континенті, що і фінікик [icon_capital] капітал, є 100% лояльними.Поселенці отримують +2 [icon_movement] та +2 діапазон прицілу під час вирушення.Переселенці ігнорують додаткові [icon_movement] витрати на рух від вирушення та висадки.
+				Почніть гру з технологією Письмо та прискоренням [ICON_TechBoosted] Еврика. Прибережні міста, засновані Фінікією і розташовані на тому ж континенті, що і фінікійська [ICON_Capital] Столиця, отримують 100% Відданості. Поселенці отримують +2 [ICON_Movement] Дії і +2 Огляду при переході на суша. Поселенці не витрачають очки [ICON_Movement] Дії від посадки та висадки з човна.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LEADER_DIDO_NAME">
 			<Text>
-				Дідо
+				Дайдо
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_FOUNDER_CARTHAGE_NAME">
 			<Text>
-				Засновник Карфаген
+				Засновник Карфагена
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_FOUNDER_CARTHAGE_DESCRIPTION">
 			<Text>
-				Може перенести свій оригінальний капітал [icon_capital] в будь -яке місто з котом, який вони заснували, завершивши унікальний проект у цьому місті.+1 [icon_traderoute] Торгова маршрут для кожної урядової будівлі площі та урядового району Плаза.+50% [icon_production] Виробництво до районів міста з урядом Плаза.
+				Може перемістити свою [ICON_Capital] Столицю в будь-яке інше місто з Гаванню, завершивши унікальний проєкт у цьому місті.[NEWLINE]+1 [ICON_TradeRoute] Торговий шлях за кожну будівлю Урядової площі та Урядового району. +50% [ICON_Production] Виробництва біля Урядового району.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_COTHON_NAME">
 			<Text>
-				Коттон
+				Гавань
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_COTHON_DESCRIPTION">
 			<Text>
-				Район, унікальний для Фінікії для військово -морської діяльності у вашому місті.Замінює гаваньський район і дешевше будувати.Повинно бути побудовано на узбережжі або озерному місцевості, що прилягає до землі. [NEWLINE] [NEWLINE]+50% [icon_production] Виробництво для військово -морських одиниць та поселенців у цьому місті.Усі поранені військово -морські одиниці в кордонах цього міста заживають +100 к.с. кожен поворот.
+				Унікальний Фінікійський район для флоту у вашому місті. Заміняє собою Порт і дешевший у будівництві. Має бути побудований на узбережжі або біля озера.[NEWLINE][NEWLINE]+50% [ICON_PRODUCTION] Виробництва юнітів флоту і поселенців у цьому місті. Всі ушкоджені юніту флоту в межах цього міста зцілюються на +100 HP кожного ходу.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_PHOENICIA_BIREME_NAME">
@@ -513,9 +518,11 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_PHOENICIA_BIREME_DESCRIPTION">
 			<Text>
-				Фінікійський унікальний підрозділ стародавньої епохи, який замінює галеру.Збільшення [icon_strength] бойової міцності та руху [icon_movement].Одиниці торговців застраховані від розграбування, якщо вони знаходяться в межах 4 плиток від бірім і на водній плитці.
+				Унікальний фінікійський юніт Античності, який замінює Галеру. Має збільшену [ICON_Strength] Атаку і очків [ICON_Movement] Дії. Торговці захищенні від пограбування, якщо вони знаходяться в межах 4 тайлів від Біреми та на тайлі води.[NEWLINE]
 			</Text>
 		</Replace>
+
+		<!--India-->
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_EXPANSION2_DESCRIPTION">
 			<Text>
 				Отримує бонуси за переконання в місті від кожної релігії, яка має принаймні 1 послідовник.Міста отримують корисність [ICON_AMENITIES] для кожної релігії з принаймні 1 послідовником.Місіонери мають +2 поширення.+100% релігійний тиск з ваших торгових маршрутів [icon_traderoute].
@@ -561,6 +568,8 @@
 				Додаткова територія на засновниках міст.+1 [icon_faith] Віра та +1 [icon_production] Виробництво з Тундри.Одиниці не отримують пошкоджень від хуртовин.Цивілізації, які воюють з Росією, отримують +100% одиничних збитків від хуртовин на російській території.
 			</Text>
 		</Replace>
+
+		<!--Sweden-->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SWEDEN_NAME">
 			<Text>
 				Швеція
@@ -583,12 +592,12 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_NOBEL_PRIZE_DESCRIPTION">
 			<Text>
-				Швеція отримує 50 [icon_faver] дипломатичну послугу, коли заробляє чудову людину (на стандартній швидкості).Швеція отримує +1 [icon_greatengineer] Чудовий інженерний пункт з фабрик та +1 [icon_greatscientist] Великий вчений з університетів.Швеція в грі додає три унікальні змагання Всесвітнього конгресу, починаючи з промислової епохи.
+				Швеція отримує 50 [ICON_Favor] Політичних очків, коли отримує Велику Людину (на стандартній швидкості). Швеція отримує +1 [ICON_GreatEngineer] очко Великого інженера за Фабрики і +1 [ICON_GreatScientist] очко Великого вченого за університети. Наявність Швеції в грі додає три унікальні змагання Всесвітнього конгресу, що починаються в Індустріальну епоху.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LEADER_KRISTINA_NAME">
 			<Text>
-				Крістіна
+				Христина
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KRISTINA_AUTO_THEME_NAME">
@@ -598,7 +607,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KRISTINA_AUTO_THEME_DESCRIPTION">
 			<Text>
-				Будинки з щонайменше трьома чудовими робочими слотами та чудесами з принаймні двома чудовими робочими слотами автоматично тематичні, коли вони заповнюють усі свої слоти.Вона може побудувати бібліотеку королеви на урядовому майданчику.
+				Будівлі з трьома або більше слотами для Великих Творів і дива з двома або більше такими слотами автоматично створюють тематичні комплекти, якщо всі їх слоти заповнені. Вона може побудувати Королівську Бібліотеку на Урядовій площі.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_OPEN_AIR_MUSEUM_NAME">
@@ -608,29 +617,31 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_OPEN_AIR_MUSEUM_DESCRIPTION">
 			<Text>
-				Розблокує здатність будівельника будувати музей під відкритим небом, унікальний для Швеції. [NEWLINE] [NEWLINE] забезпечує +2 лояльність за чергу в цьому місті.+2 [ICON_CULTURE] Культура та +2 [icon_tourism] Туризм для кожного типу місцевості (сніг, тундра, пустеля, рівнини або пасовища), в яких засновано щонайменше одне шведське місто.Один на місто.Плитки з музеями під відкритим небом не можна замінити.
+				Розблоковує можливість Батракам будувати унікальний для Швеції Музей під відкритим небом.[NEWLINE][NEWLINE]Дає +2 Прихильність за хід у цьому місті. +2 [ICON_Culture] Культури і +2 [ICON_Tourism] Туризму за кожен вид місцевості (Сніг, Тундра, Пустеля, Рівнина або Пасовище), в якому засновано принаймні одне шведське місто. По одному на кожне місто. Тайли з Музеями під відкритим небом не можна міняти місцями.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_QUEENS_BIBLIOTHEQUE_NAME">
 			<Text>
-				Бібліотека королеви
+				Королевська Бібліотека
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_QUEENS_BIBLIOTHEQUE_DESCRIPTION">
 			<Text>
-				Будівля, унікальна для Швеції.Ця будівля забезпечує 2 слоти [icon_greatwork_writing] написання, [icon_greatwork_music] музики та будь -якого типу [icon_greatwork_landscape] мистецтва. [NEWLINE] нагороди +1 [icon_governor] заголовок губернатора.
+				Унікальна будівля Швеції. Ця будівля дає 2 слоти для [ICON_GreatWork_WRITING] Письменника, [ICON_GreatWork_MUSIC] Композитора та будь-якого виду [ICON_GreatWork_Landscape] Мистецтва.[NEWLINE]Нагороджує +1 [Icon_Governor] Титул Губернатора.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_SWEDEN_CAROLEAN_NAME">
 			<Text>
-				Колієр
+				Каролієн
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_SWEDEN_CAROLEAN_DESCRIPTION">
 			<Text>
-				Шведський унікальний блок епохи Відродження, який замінює щуку та постріл.Швидше, ніж щука і постріл.+3 [icon_strength] бойова міцність на невикористаний рух [icon_movement].
+				Унікальний юніт Швеції епохи Відродження, який замінює Пікінери та Мушкетери. Швидший за Пікінери та Мушкетери. +3 [ICON_Strength] Атаки за невикористані очки [ICON_Movement] Дії.
 			</Text>
 		</Replace>
+
+		
 		<Replace Language="uk_UA" Tag="LOC_ERA_FUTURE_NAME">
 			<Text>
 				Майбутня епоха
