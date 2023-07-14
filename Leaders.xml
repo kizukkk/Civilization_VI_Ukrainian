@@ -198,6 +198,78 @@
 		</Replace>
 
 
+		<!--Угорщина-->
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_HUNGARY_NAME">
+			<Text>
+				Угорщина
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_HUNGARY_ADJECTIVE">
+			<Text>
+				Угорська
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_HUNGARY_DESCRIPTION">
+			<Text>
+				Угорська імперія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_MATTHIAS_CORVINUS_NAME">
+			<Text>
+				Матвій Корвін
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_THERMAL_BATH_NAME">
+			<Text>
+				Термальний басейн
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_THERMAL_BATH_DESCRIPTION">
+			<Text>
+				Унікальна будівля Угорщини. +2 [ICON_AMENITIES] Задоволення та +2 [ICON_PRODUCTION] Виробництва поширюються на кожен міський центр в радіусі 6 тайлів. Ці бонуси застосовуються один раз до міста, і кілька копій цієї будівлі в межах 6 тайлів від центру міста не дають додаткових бонусів.[NEWLINE][NEWLINE]Місто отримує +3 [ICON_TOURISM] Туризму та додаткові +2 [ICON_AMENITIES] Задоволення, якщо в межах цього міста є хоча б одне Геотермальне джерело.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_NAME">
+			<Text>
+				Перлина Дунаю
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_DESCRIPTION">
+			<Text>
+				+50% [ICON_PRODUCTION] Виробництва для Районів та Будівель, побудованих через річку від міського центру.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RAVEN_KING_NAME">
+			<Text>
+				Король Ворон
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RAVEN_KING_DESCRIPTION">
+			<Text>
+				Юніти на забезпечені отримують покращення, яке дає +2 [ICON_Movement] Дії та +5 [ICON_Strength] Атаки. Покращення коштує на 75% менше [ICON_GOLD] Золота та ресурсів. Якщо ви наймаєте війська з міста-держави, то отримуєте 2 [ICON_ENVOY] Послів з цього міста-держави. Отримайте унікального юніта Чорна армія, після дослідження Замків.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_HUNGARY_BLACK_ARMY_NAME">
+			<Text>
+				Чорна армія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_HUNGARY_BLACK_ARMY_DESCRIPTION">
+			<Text>
+				Унікальний юніт Угорщини епохи Середньовіччя, який замінює Корсерів. +3 [ICON_Strength] Атаки за кожного юніта поруч.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_HUNGARY_HUSZAR_NAME">
+			<Text>
+				Хусар
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_HUNGARY_HUSZAR_DESCRIPTION">
+			<Text>
+				Унікальний юніт Угорщини Індустріальної епохи, який замінює Кінноту. Отримує +3 [ICON_Strength] Атаки за кожний діючий союз.
+			</Text>
+		</Replace>
+
 
 		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
 		<!--Англія-->
@@ -246,76 +318,11 @@
 				Здійснюючи посвячення на початку золотого віку або героїчного віку, отримуйте звичайний віковий бонус до покращення балів ERA на додаток до іншого бонусу.+50% [icon_production] Виробництво до оборонних будівель.
 			</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_HUNGARY_NAME">
-			<Text>
-				Угорщина
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_HUNGARY_ADJECTIVE">
-			<Text>
-				Угорський
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_HUNGARY_DESCRIPTION">
-			<Text>
-				Угорська імперія
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_LEADER_MATTHIAS_CORVINUS_NAME">
-			<Text>
-				Маттіас Корвінус
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_BUILDING_THERMAL_BATH_NAME">
-			<Text>
-				Термічна ванна
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_BUILDING_THERMAL_BATH_DESCRIPTION">
-			<Text>
-				Будівля, унікальна для Угорщини.+2 [ICON_AMENITIES] Зручності та +2 [icon_production] Виробництво поширюється на кожен центр міста в межах 6 плиток.Ці бонуси застосовуються один раз до міста, і кілька примірників цієї будівлі в межах 6 плиток від центру міста не забезпечують додаткових бонусів. [NEWLINE] [NEWLINE] Це місто отримує +3 [icon_tourism] туризм та +2 додаткові [ICON_AMENITIES] зручностіЯкщо в кордонах цього міста є щонайменше одна геотермальна тріщина.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_NAME">
-			<Text>
-				Перлина Дунаю
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PEARL_DANUBE_DESCRIPTION">
-			<Text>
-				+50% [icon_production] Виробництво до районів та будівель, побудованих через річку від центру міста.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RAVEN_KING_NAME">
-			<Text>
-				Ворон король
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RAVEN_KING_DESCRIPTION">
-			<Text>
-				Залишиті одиниці набувають здатності, надаючи їм +2 [icon_movement] руху та +5 [icon_strength] бойову міцність.Це коштує на 75% менше [icon_gold] золото та ресурси для оновлення підрозділів.Якщо ви стягуєте війська з міста-держави, отримують 2 посланців [icon_envoy] з цим містом.Отримайте унікальну одиницю чорної армії, коли досліджується технологія замків.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_HUNGARY_BLACK_ARMY_NAME">
-			<Text>
-				Чорна армія
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_HUNGARY_BLACK_ARMY_DESCRIPTION">
-			<Text>
-				Угорська унікальна середньовічна епоха, яка замінює курс.+3 [icon_strength] бойова міцність для кожної сусідньої стягуваної одиниці.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_HUNGARY_HUSZAR_NAME">
-			<Text>
-				Хузар
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_HUNGARY_HUSZAR_DESCRIPTION">
-			<Text>
-				Угорська унікальна промислова епоха, яка замінює кінноту.+3 [icon_strength] бойова міцність для кожного активного альянсу.
-			</Text>
-		</Replace>
+
+
+		
+
+		<!--Inca-->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INCA_NAME">
 			<Text>
 				Інків
