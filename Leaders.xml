@@ -135,6 +135,70 @@
 			</Text>
 		</Replace>
 
+		<!--Mali-->
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MALI_NAME">
+			<Text>
+				Малі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MALI_ADJECTIVE">
+			<Text>
+				Малі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MALI_DESCRIPTION">
+			<Text>
+				Імперія Малі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MALI_GOLD_DESERT_NAME">
+			<Text>
+				Пісні Джелі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MALI_GOLD_DESERT_DESCRIPTION">
+			<Text>
+				Центри міст отримують +1 [ICON_FAITH] Віри і +1 [ICON_FOOD] Їжі за кожні сусідні тайли Пустелі і Пагорбів. Шахти отримують -1 [ICON_PRODUCTION] Виробництва і +4 [ICON_GOLD] Золота. Дає можливість купувати будівлі в районі Центра Комерації за [ICON_Faith] Віру. -30% [ICON_PRODUCTION] Виробництва на будівництво будівель або тренування юнітів.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_MANSA_MUSA_NAME">
+			<Text>
+				Манса Муса
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SAHEL_MERCHANTS_NAME">
+			<Text>
+				Сахельські купці
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SAHEL_MERCHANTS_DESCRIPTION">
+			<Text>
+				Міжнародні [ICON_TradeRoute] Торгові шляхи отримують +1 [ICON_GOLD] Золота за кожен плоский тайл Пустелі у місті походження. Отримуйте +1 [ICON_TradeRoute] Торговий шлях щоразу, коли вступаєте в Золотий вік.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_SUGUBA_NAME">
+			<Text>
+				Суґуба
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_SUGUBA_DESCRIPTION">
+			<Text>
+				Унікальний район Малі, що спеціалізується на фінансах і торгівлі, замінює Центр Комерації. Юніти, будівлі та райони можна придбати на 20% дешевше [ICON_GOLD] Золота та [ICON_FAITH] Віри в місті де був побудований район.[NEWLINE][NEWLINE]+2 [ICON_GOLD] Золота за кожне Священе місце поруч. +2 [ICON_GOLD] Золота з тайла, що знаходиться біля Річки. +1 [ICON_Gold] Золото бонусно за кожні два сусідні райони.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_MALI_MANDEKALU_CAVALRY_NAME">
+			<Text>
+				Кавалерія Мандекалу
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_MALI_MANDEKALU_CAVALRY_DESCRIPTION">
+			<Text>
+				Унікалиний юніт Малі Середньовіччя, який замінює Лицарів. Торговці отримують захист, якщо вони знаходяться на суші в радіусі 4 тайлів від кавалерії Мандекалу. Перемоги в бою дають [ICON_GOLD] Золото, що дорівнює 100% від базової [ICON_Strength] Атаки юніта (на Стандартній швидкості).[NEWLINE]
+			</Text>
+		</Replace>
+
+
+
 		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
 		<!--Англія-->
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_NAME">
@@ -320,66 +384,6 @@
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MOUNTAIN_ROAD_DESCRIPTION">
 			<Text>
 				Розблокує здатність будівельника побудувати Qhapaq ñan, унікальний для Пачакуті. [NEWLINE] [NEWLINE] виступає як портал руху на гірському діапазоні, що дозволяє одиницям переходити в нього та вийти з іншого порталу за вартістю 2 руху [icon_movement].[Icon_traderoute] Торгові маршрути, що подорожують через нього, можуть помножити золото [icon_gold], яке вони отримують з районів у своєму пункті призначення.Можна побудувати лише на сусідній гірській плитці.Не може бути розігнано або видалено.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MALI_NAME">
-			<Text>
-				Малі
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MALI_ADJECTIVE">
-			<Text>
-				Маліанський
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MALI_DESCRIPTION">
-			<Text>
-				Малі Імперія
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MALI_GOLD_DESERT_NAME">
-			<Text>
-				Пісні Джелі
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MALI_GOLD_DESERT_DESCRIPTION">
-			<Text>
-				Центри міста отримують +1 [icon_faith] Віра та +1 [icon_food] їжа для кожної сусідньої пустелі та пустельних пагорбів.Міни отримують -1 [icon_production] виробництво та +4 [icon_gold] золото.Може придбати будівлі комерційного центру з [icon_faith] вірою.-30% [icon_production] Виробництво до побудови будівель або навчальних одиниць.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_LEADER_MANSA_MUSA_NAME">
-			<Text>
-				Манса Муса
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SAHEL_MERCHANTS_NAME">
-			<Text>
-				Сахельні продавці
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SAHEL_MERCHANTS_DESCRIPTION">
-			<Text>
-				Міжнародні [icon_traderoute] Торгові маршрути отримують +1 [icon_gold] золото для кожної плоскої пустельної плитки в місті походження.Отримати +1 [icon_traderoute] Торгова потужність кожного разу, коли ви вступаєте в золотий вік.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_DISTRICT_SUGUBA_NAME">
-			<Text>
-				Сугуба
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_DISTRICT_SUGUBA_DESCRIPTION">
-			<Text>
-				Район, унікальний для Малі, що спеціалізується на фінансах та торгівлі, що замінює комерційний центр.Одиниці, будівлі та райони на 20% дешевше придбати з [icon_gold] Gold та [icon_faith] вірою в цьому місті. [NEWLINE] [NEWLINE] +2 [icon_gold] золотий бонус для кожного сусіднього святого місця.+2 [icon_gold] Золотий бонус з плитки, що містить край річки.+1 [icon_gold] золотий бонус на кожні дві сусідні районні плитки.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_MALI_MANDEKALU_CAVALRY_NAME">
-			<Text>
-				Кавалерія Мандекалу
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_MALI_MANDEKALU_CAVALRY_DESCRIPTION">
-			<Text>
-				Малі Унікальний середньовічний епоховий блок, який замінює лицаря.Підрозділи торговців застраховані від розграбування, якщо вони знаходяться в межах 4 плитки від кінноти Мандекалу та на сухопутній плитці.Бойові перемоги забезпечують [icon_gold] золото, що дорівнює 100% від бази бази цієї одиниці [icon_strength] бойової міцності (на стандартній швидкості).
 			</Text>
 		</Replace>
 
