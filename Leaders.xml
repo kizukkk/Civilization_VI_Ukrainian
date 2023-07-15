@@ -173,7 +173,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SAHEL_MERCHANTS_DESCRIPTION">
 			<Text>
-				Міжнародні [ICON_TradeRoute] Торгові шляхи отримують +1 [ICON_GOLD] Золота за кожен плоский тайл Пустелі у місті походження. Отримуйте +1 [ICON_TradeRoute] Торговий шлях щоразу, коли вступаєте в Золотий вік.
+				Міжнародні [ICON_TradeRoute] Торгові шляхи отримують +1 [ICON_GOLD] Золота за кожен плоский тайл Пустелі у місті створення. Отримуйте +1 [ICON_TradeRoute] Торговий шлях щоразу, коли вступаєте в Золотий вік.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_SUGUBA_NAME">
@@ -196,7 +196,6 @@
 				Унікалиний юніт Малі Середньовіччя, який замінює Лицарів. Торговці отримують захист, якщо вони знаходяться на суші в радіусі 4 тайлів від кавалерії Мандекалу. Перемоги в бою дають [ICON_GOLD] Золото, що дорівнює 100% від базової [ICON_Strength] Атаки юніта (на Стандартній швидкості).[NEWLINE]
 			</Text>
 		</Replace>
-
 
 		<!--Угорщина-->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_HUNGARY_NAME">
@@ -270,6 +269,78 @@
 			</Text>
 		</Replace>
 
+		<!--Inca-->
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INCA_NAME">
+			<Text>
+				Інка
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INCA_ADJECTIVE">
+			<Text>
+				Інків
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INCA_DESCRIPTION">
+			<Text>
+				Імперія Інка
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GREAT_MOUNTAINS_NAME">
+			<Text>
+				Міта
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GREAT_MOUNTAINS_DESCRIPTION">
+			<Text>
+				Громадяни можуть працювати на Гірських тайлах. Гори дають +2 [ICON_PRODUCTION] Виробництва і додатково +1 [ICON_production] Виробництво, коли досягнуто Індустріальної епохи. +1 [ICON_FOOD] Їжі на Горах за кожну Фермерську терасу поруч.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_PACHACUTI_NAME">
+			<Text>
+				Пачакуті
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_TERRACE_FARM_NAME">
+			<Text>
+				Фермерська тераса
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_TERRACE_FARM_DESCRIPTION">
+			<Text>
+				Розблоковує можливість Батракам будувати унікальну Фермерську терасу Інків.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Їжі. Дає +1 [ICON_Housing] Житла. +1 [ICON_FOOD] Їжі за кожен тайл Гір поруч. Отримуйте +2 [ICON_PRODUCTION] Виробництва за кожний Акведук поруч. Також +1 [ICON_PRODUCTION] Виробництвао якщо поруч є доступ до Прісної води, а не до району Акведук.[NEWLINE]Додаткова [ICON_FOOD] Їжа, коли ви просуваєтесь по Громадському та Технологічному деревах при наявності поруч інших Фермерських терас.[NEWLINE]Можна розмістити на Трав'янистих, Рівнинних та Пустельних пагорбах.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_INCA_WARAKAQ_NAME">
+			<Text>
+				Хвуарака
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_INCA_WARAKAQ_DESCRIPTION">
+			<Text>
+				Унікальний юніт епохи Середньовіччя, який замінює Скірмішера. Сильніший у ближньому бою, ніж Скірмішер, і має +1 додаткову атаку за хід.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_PACHACUTI_QHAPAQ_NAN_NAME">
+			<Text>
+				Капак-найн
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_PACHACUTI_QHAPAQ_NAN_DESCRIPTION">
+			<Text>
+				Внутрішні [ICON_TradeRoute] Торгові шляхи дають +1 [ICON_Food] Їжі за кожен тайл Гір у місті створення. Відкривається при розблокуванні Зовнішньої торгівлі.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MOUNTAIN_ROAD_NAME">
+			<Text>
+				Капак-найн
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MOUNTAIN_ROAD_DESCRIPTION">
+			<Text>
+				Розблоковує можливість Батракам будувати унікальне, для Пачакуті, покращення Капак-найн. [NEWLINE][NEWLINE]Надає зручний прохід між Гір, дозволяючи юнітам заходити з одного боку та виходити з іншого за 2 очки [ICON_Movement] Дії. [ICON_TradeRoute] Торгові шляхи, що проходять через цей прохід, примножують [ICON_Gold] Золото, яке вони отримують від районів у місці призначення. Може бути побудований лише біля Гір. Не може бути розграбованим або зруйнованим. [NEWLINE]
+			</Text>
+		</Replace>
+
 
 		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
 		<!--Англія-->
@@ -316,81 +387,6 @@
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_EXPANSION2_DESCRIPTION">
 			<Text>
 				Здійснюючи посвячення на початку золотого віку або героїчного віку, отримуйте звичайний віковий бонус до покращення балів ERA на додаток до іншого бонусу.+50% [icon_production] Виробництво до оборонних будівель.
-			</Text>
-		</Replace>
-
-
-		
-
-		<!--Inca-->
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INCA_NAME">
-			<Text>
-				Інків
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INCA_ADJECTIVE">
-			<Text>
-				Інків
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INCA_DESCRIPTION">
-			<Text>
-				Імперія Інка
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GREAT_MOUNTAINS_NAME">
-			<Text>
-				Mit'a
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GREAT_MOUNTAINS_DESCRIPTION">
-			<Text>
-				Громадяни можуть працювати з гірськими плитками.Гірські плитки забезпечують виробництво +2 [icon_production] та додаткове +1 [icon_production], коли гра досягає промислової епохи.+1 [icon_food] Їжа до гірських плиток для кожної сусідньої ферми тераси.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_LEADER_PACHACUTI_NAME">
-			<Text>
-				Пачакути
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_TERRACE_FARM_NAME">
-			<Text>
-				Тераська ферма
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_TERRACE_FARM_DESCRIPTION">
-			<Text>
-				Розблокує здатність будівельника будувати ферму тераси, унікальну для інків. [NEWLINE] [NEWLINE] +1 [icon_food] їжа.Забезпечує +1 [icon_housing] житло.+1 [icon_food] їжа для кожної сусідньої гірської плитки.ГОЛОВНІ +2 [icon_production] Виробництво для кожного сусіднього району акведука.Отримати +1 [icon_production] Виробництво, якщо примикати до прісної води, а не району акведука.Додаткова [icon_food] їжа, коли ви просуваєтесь через громадянські та технологічні дерево для суміжності з іншими фермами тераси.Можна розмістити на пагорбах, пагорбах та пустельних пагорбах.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_INCA_WARAKAQ_NAME">
-			<Text>
-				Warak'aq
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_INCA_WARAKAQ_DESCRIPTION">
-			<Text>
-				Incan унікальний середньовічний епоховий блок, який замінює сутичку.Більш сильніший у бою, ніж сутичка, і +1 додаткова атака на чергу.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_PACHACUTI_QHAPAQ_NAN_NAME">
-			<Text>
-				Qhapaq ñan
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_PACHACUTI_QHAPAQ_NAN_DESCRIPTION">
-			<Text>
-				Внутрішні [icon_traderoute] Торгові маршрути отримують +1 [icon_food] їжу для кожної гірської плитки в місті походження.Отримайте QHAPAQ ñan, коли виявляється громадянська іноземна торгівля.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MOUNTAIN_ROAD_NAME">
-			<Text>
-				Qhapaq ñan
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MOUNTAIN_ROAD_DESCRIPTION">
-			<Text>
-				Розблокує здатність будівельника побудувати Qhapaq ñan, унікальний для Пачакуті. [NEWLINE] [NEWLINE] виступає як портал руху на гірському діапазоні, що дозволяє одиницям переходити в нього та вийти з іншого порталу за вартістю 2 руху [icon_movement].[Icon_traderoute] Торгові маршрути, що подорожують через нього, можуть помножити золото [icon_gold], яке вони отримують з районів у своєму пункті призначення.Можна побудувати лише на сусідній гірській плитці.Не може бути розігнано або видалено.
 			</Text>
 		</Replace>
 
