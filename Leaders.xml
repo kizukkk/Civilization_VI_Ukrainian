@@ -465,6 +465,57 @@
 			</Text>
 		</Replace>
 
+		<!--India-->
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INDIA_NAME">
+			<Text>
+				Індія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_CHANDRAGUPTA_NAME">
+			<Text>
+				Чандраґупта
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_NAME">
+			<Text>
+				Артхашастра
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ARTHASHASTRA_DESCRIPTION">
+			<Text>
+				Може оголосити Військову експансію, після отримання Військовий вишкіл. +2 [ICON_Movement] Дії та +5 [ICON_Strength] Атаки на перші 10 ходів після оголошення Військової експансії.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
+			<Text>
+				Дхарма 
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_EXPANSION2_DESCRIPTION">
+			<Text>
+				Отримує бонуси до Вірністі послідовників у місті від кожної Релігії, яка має принаймні 1 Послідовника. Міста отримують [ICON_Amenities] Задоволення за кожну Релігію, яка має принаймні 1 послідовника. Місіонери мають +2 обернення. +100% Релігійного впливу від ваших [ICON_TradeRoute] Торгових шляхів.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_INDIAN_VARU_NAME">
+			<Text>
+				Вару
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_INDIAN_VARU_DESCRIPTION">
+			<Text>
+				Унікальний важкий кавалерійський юніт Індії епохи Античністі. Сусідні ворожі юніти отримують -5 [ICON_STRENGTH] Атаки.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_STEPWELL_NAME">
+			<Text>
+				Східчаста криниця
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_STEPWELL_EXPANSION2_DESCRIPTION">
+			<Text>
+				Розблоковує можливість Батракам будувати унікальну для Індії Східчасту криницю.[NEWLINE][NEWLINE]+1 [ICON_Food] Їжі та +1 [ICON_Housing] Житла. +1 [ICON_Faith] Віри, якщо прилягає до району Священого місця. +1 [ICON_Food] Їжі, якщо прилягає до Ферми. Додаткове [ICON_Housing] Жило, [ICON_Faith] Віра та [ICON_Food] Їжа, коли ви просуваєтесь по Технологічному, Громадському деревах. Запобігає втраті [ICON_Food] Їжі під час Посухи. Не може бути побудовано на Пагорбах або поруч з іншою криницею.
+			</Text>
+		</Replace>
 
 		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
 		<!--Англія-->
@@ -583,17 +634,7 @@
 			</Text>
 		</Replace>
 
-		<!--India-->
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_EXPANSION2_DESCRIPTION">
-			<Text>
-				Отримує бонуси за переконання в місті від кожної релігії, яка має принаймні 1 послідовник.Міста отримують корисність [ICON_AMENITIES] для кожної релігії з принаймні 1 послідовником.Місіонери мають +2 поширення.+100% релігійний тиск з ваших торгових маршрутів [icon_traderoute].
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_STEPWELL_EXPANSION2_DESCRIPTION">
-			<Text>
-				Розблокує здатність будівельника побудувати Stepwell, унікальну для Індії. [NEWLINE] [NEWLINE] +1 [icon_food] їжа та +1 [icon_housing] житло.+1 [icon_faith] Віра, якщо примикає до району Святого Сайту.+1 [icon_food] їжа, якщо примикає до ферми.Додаткове [icon_housing] житло, [icon_faith] віра та [icon_food] їжа, коли ви просуваєтесь через технологію та дерево громадян.Запобігає [icon_food] втрати їжі під час посухи.Неможливо побудувати на пагорбах або примикати до іншого кастелла.
-			</Text>
-		</Replace>
+		<!--Japan-->
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_EXPANSION2_DESCRIPTION">
 			<Text>
 				Земляні одиниці отримують +5 [icon_strength] бойова міцність у сухопутних плитках, що примикають до узбережжя;Військово -морські одиниці отримують +5 [icon_strength] бойову міцність у мілководній плитці.Половина часу будує табір, Священну ділянку та театральні площі.Одиниці не отримують шкоди від ураганів.Цивілізації, які воюють з Японією, отримують +100% ушкодження від ураганів на японській території.
