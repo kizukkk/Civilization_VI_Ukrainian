@@ -44,7 +44,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SELECTION_EVERYTHING">
 			<Text>
-				Все
+				Всі
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SELECTION_CUSTOM">
@@ -1849,7 +1849,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_ADVANCED_OPTIONS">
 			<Text>
-				Розширене налаштування
+				Розширенні налаштування
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_EDIT_BUTTON">
@@ -3249,7 +3249,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_RULESET_DESCRIPTION">
 			<Text>
-				Це стандартна гра в цивілізацію VI.
+				Це стандартна гра в Civilization VI.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TUTORIAL_PLAY_CLEO_NAME">
