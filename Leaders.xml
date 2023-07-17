@@ -341,6 +341,78 @@
 			</Text>
 		</Replace>
 
+		<!--Ottomans-->
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_OTTOMAN_NAME">
+			<Text>
+				Османи
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_OTTOMAN_ADJECTIVE">
+			<Text>
+				Османська
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_OTTOMAN_DESCRIPTION">
+			<Text>
+				Османська імперія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GREAT_TURKISH_BOMBARD_NAME">
+			<Text>
+				Базиліка
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GREAT_TURKISH_BOMBARD_DESCRIPTION">
+			<Text>
+				+50% [ICON_Production] Виробництва для юнітів Облоги. Всі Облогові юніти отримують +5 [ICON_Strength] Атаки проти Оборонних районів. Захоплені міста не втрачають [ICON_Citizen] Населення. Міста, не засновані османами, отримують +1 [ICON_AMENITIES] Задоволення та +4 Прихильності за хід.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_SULEIMAN_NAME">
+			<Text>
+				Сулейман
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_GRAND_BAZAAR_NAME">
+			<Text>
+				Капали-Чарши
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_GRAND_BAZAAR_DESCRIPTION">
+			<Text>
+				Уікальна будівля Османів. Накопичуйте 1 додатковий стратегічний ресурс за кожний різний типу стратегічного ресурсу, який це місто покращило. Отримайте 1 [ICON_AMENITIES] Задоволення за кожний покращений Розкішний ресурс у місті.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_OTTOMAN_BARBARY_CORSAIR_NAME">
+			<Text>
+				Берберські корсари
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_OTTOMAN_BARBARY_CORSAIR_DESCRIPTION">
+			<Text>
+				Унікальний османський юніт флоту Середньовічної епохи, який замінює Капер. Не витрачає очки [ICON_Movement] Дії на рейди поряд з берегом. Може бути помічений лише іншим Морським рейдером, тільки якщо він опиниться поруч. Виявляє Морських рейдерів в полі зору.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_SULEIMAN_JANISSARY_NAME">
+			<Text>
+				Яничари
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_SULEIMAN_JANISSARY_DESCRIPTION">
+			<Text>
+				Унікальний османський юніт Відродження, що замінює Мушкетерів. Отримують одне Підвищення після навчання, покупки або оновлення. Сильніші і дешевші за Мушкетерів. Щоб тренувати Яничар, місто повинно мати населення не менше 2. Якщо місто засноване османами і тренує Яничар, воно втрачає населення. [NEWLINE]
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SULEIMAN_GOVERNOR_NAME">
+			<Text>
+				Великий візир
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SULEIMAN_GOVERNOR_DESCRIPTION">
+			<Text>
+				Унікальний губернатор з військовими та дипломатичними здібностями. Надає унікального юніта Яничари і титул Губернатора [Icon_Governor], коли дослідите технологію Порох. 
+			</Text>
+		</Replace>
+
 
 		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
 		<!--Англія-->
@@ -394,76 +466,6 @@
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_EXPANSION2_DESCRIPTION">
 			<Text>
 				Основні бонус за сусідство за кампуси, театральні квадрати та промислові зони, якщо поруч з річкою.Культурна бомба сусідніх плиток при завершенні гавані.+50% [icon_production] Виробництво до району греблі та будівлі затоплення.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_OTTOMAN_NAME">
-			<Text>
-				Османи
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_OTTOMAN_ADJECTIVE">
-			<Text>
-				Османський
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_OTTOMAN_DESCRIPTION">
-			<Text>
-				Османська імперія
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GREAT_TURKISH_BOMBARD_NAME">
-			<Text>
-				Велика турецька бомбард
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GREAT_TURKISH_BOMBARD_DESCRIPTION">
-			<Text>
-				+50% [icon_production] Виробництво до обложних одиниць.Усі облоги отримують +5 [icon_strength] бойові сили проти оборонних оборонів.Заводні міста не втрачають [icon_citizen] населення.Міста, не засновані османами, які отримують +1 [ICON_AMENITIES] приємності та +4 лояльності за поворот.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_LEADER_SULEIMAN_NAME">
-			<Text>
-				Сулейман
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_BUILDING_GRAND_BAZAAR_NAME">
-			<Text>
-				Великий базар
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_BUILDING_GRAND_BAZAAR_DESCRIPTION">
-			<Text>
-				Будівля, унікальна для османів.Накопичуйте 1 додатковий стратегічний ресурс для кожного різного типу стратегічного ресурсу, яке це місто покращило.Отримайте 1 [ICON_AMENITIES] Придатності для кожного розкішного ресурсу, яке це місто покращилося.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_OTTOMAN_BARBARY_CORSAIR_NAME">
-			<Text>
-				Барбарі Корсар
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_OTTOMAN_BARBARY_CORSAIR_DESCRIPTION">
-			<Text>
-				Османська унікальна середньовічна епоха Військово -морська одиниця, яка замінює приватника.Це не коштує руху [icon_movement] до прибережного рейду.Можна побачити лише інші військово -морські рейдери, якщо не примикають до нього.Виявляє військово -морські рейдери в межах зору.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_SULEIMAN_JANISSARY_NAME">
-			<Text>
-				Яніссар
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_SULEIMAN_JANISSARY_DESCRIPTION">
-			<Text>
-				Османський унікальний блок епохи Відродження, який замінює мушкетман.Починається з безкоштовної акції.Сильніший і дешевший, ніж мушкетман.Для підготовки яніссара місто повинно мати населення щонайменше 2. Якщо місто засноване османами і тренує янинісар, воно втрачає населення.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SULEIMAN_GOVERNOR_NAME">
-			<Text>
-				Великий віз.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SULEIMAN_GOVERNOR_DESCRIPTION">
-			<Text>
-				Ексклюзивний унікальний губернатор з військовими та дипломатичними здібностями.Отримайте унікальну одиницю яніссарі та назву губернатора [icon_governor], коли досліджується технологія пороху.
 			</Text>
 		</Replace>
 
