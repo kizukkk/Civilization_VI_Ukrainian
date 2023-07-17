@@ -413,6 +413,58 @@
 			</Text>
 		</Replace>
 
+		<!-- France -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_CATHERINE_DE_MEDICI_NAME">
+			<Text>
+				Катерина Медічі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_NAME">
+			<Text>
+				Придворні святкування Медічі
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_FLYING_SQUADRON_DESCRIPTION">
+			<Text>
+				Має на 1 рівень [ICON_VisLimited] Дипломатичного взору більше, ніж зазвичай, з кожною цивілізацією, з якою комунікувала. Отримує безкоштовного шпигуна (і додаткову шпигунську здатність) за допомогою технології Замки. Усі шпигуни починають як Агенти з безкоштовним підвищенням.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_FRANCE_NAME">
+			<Text>
+				Франція
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_CHATEAU_NAME">
+			<Text>
+				Шато
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_CHATEAU_EXPANSION2_DESCRIPTION">
+			<Text>
+				Розблоковує можливість Батракам будувати унікальний для Франції замок.[NEWLINE][NEWLINE]+2 [ICON_Culture] Культури та +1 [ICON_Gold] Золота. +1 Привабливість. +1 [ICON_Culture] Культури за кожне сусіднє диво (стає +2 після дослідження Льотних випробувань). +2 [ICON_Gold] Золота, якщо побудований на Берегу річки. Забезпечує [ICON_TOURISM] Туризм з [ICON_CULTURE] Культури після дослідження Льотних випробувань. Має бути розміщений поруч з Бонусним або Розкішним ресурсом. Не може бути побудований поруч з іншим Замком.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
+			<Text>
+				Велика подорож
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_DESCRIPTION">
+			<Text>
+				+20% [ICON_Production] Виробництва до див Середньовіччя, Ренесансу та Індустріальної епохи. [ICON_Tourism] Туризм від див будь-якої епохи +100%.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_NAME">
+			<Text>
+				Імперська гвардія
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_FRENCH_GARDE_IMPERIALE_DESCRIPTION">
+			<Text>
+				Унікальний юніт Франції ближнього бою Індустріальної епохи, що замінює Лінійну піхоту. +10 [ICON_Strength] Атаки, коли ви воюєте на континенті своєї Столиці. [ICON_GreatGeneral] Очки Великого генерала за вбивство юнітів.
+			</Text>
+		</Replace>
+
 
 		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
 		<!--Англія-->
@@ -711,11 +763,7 @@
 				Район, унікальний для Англії для військово -морської діяльності у вашому місті.Замінює гаваньський район.Також видаляє покарання руху [icon_movement] за вирушення та висадки до цієї плитки та з нього.Повинен бути побудований на узбережжі або озерному місцевості, що примикає до землі. [NEWLINE] [NEWLINE] +1 [icon_movement] Рух для всіх військово -морських одиниць, побудованих у доккарді [NEWLINE] +2 [icon_gold] золота та +4 лояльності за чергу, коли будується на aіноземний континент.Не може бути побудований на рифі
 			</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_CHATEAU_EXPANSION2_DESCRIPTION">
-			<Text>
-				Розблокує здатність будівельника будувати замок, унікальну для Франції. [NEWLINE] [NEWLINE] +2 [ICON_CULTURE] культура та +1 [icon_gold] золото.+1 звернення.+1 [ICON_CULTURE] культура для кожного сусіднього дива (стає +2 після дослідження польоту).+2 [icon_gold] золото, якщо на плитці, що містить край річки.Забезпечує [icon_tourism] туризм з культури [ICON_CULTURE] після дослідження польоту.Потрібно розміщувати поруч із бонусним або розкішним ресурсом.Не може бути побудований поруч з іншим замком.
-			</Text>
-		</Replace>
+
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION2_DESCRIPTION">
 			<Text>
 				Коли воює з загальним ворогом, вони та їхні союзники діляться нагородами з грабежами та діляться бойовим досвідом, якщо в межах 5 плиток.Їх альянси отримують очки альянсу за те, що воюють із загальним ворогом.+5 [icon_strength] Бойова сила проти одиниць гравців, які воюють з вами та вашим союзником.
