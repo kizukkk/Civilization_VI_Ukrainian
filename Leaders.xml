@@ -407,7 +407,13 @@
 				Унікальний губернатор з військовими та дипломатичними здібностями. Надає унікального юніта Яничари і титул Губернатора [Icon_Governor], коли дослідите технологію Порох.
 			</Text>
 		</Replace>
+
 		<!-- France -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_ELEANOR_FRANCE_NAME">
+			<Text>
+				Елеонора Аквітанська (Франція)
+			</Text>
+		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LEADER_CATHERINE_DE_MEDICI_NAME">
 			<Text>
 				Катерина Медічі
@@ -435,7 +441,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_CHATEAU_EXPANSION2_DESCRIPTION">
 			<Text>
-				Розблоковує можливість Батракам будувати унікальний для Франції замок.[NEWLINE][NEWLINE]+2 [ICON_Culture] Культури та +1 [ICON_Gold] Золота. +1 Привабливість. +1 [ICON_Culture] Культури за кожне сусіднє диво (стає +2 після дослідження Льотних випробувань). +2 [ICON_Gold] Золота, якщо побудований на Берегу річки. Забезпечує [ICON_TOURISM] Туризм з [ICON_CULTURE] Культури після дослідження Льотних випробувань. Має бути розміщений поруч з Бонусним або Розкішним ресурсом. Не може бути побудований поруч з іншим Замком.
+				Розблоковує можливість Батракам будувати унікальний для Франції замок.[NEWLINE][NEWLINE]+2 [ICON_Culture] Культури та +1 [ICON_Gold] Золота. +1 Привабливість. +1 [ICON_Culture] Культури за кожне сусіднє диво (стає +2 після дослідження Льотних випробувань). +2 [ICON_Gold] Золота, якщо побудований на Берегу річки. Забезпечує [ICON_TOURISM] Туризм з [ICON_CULTURE] Культури після дослідження Льотних випробувань. Має бути розміщений поруч з Бонусним або Розкішним ресурсом. Не може бути побудований поруч з іншим Замком.[NEWLINE]
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_WONDER_TOURISM_NAME">
@@ -458,6 +464,7 @@
 				Унікальний юніт Франції ближнього бою Індустріальної епохи, що замінює Лінійну піхоту. +10 [ICON_Strength] Атаки, коли ви воюєте на континенті своєї Столиці. [ICON_GreatGeneral] Очки Великого генерала за вбивство юнітів.
 			</Text>
 		</Replace>
+
 		<!-- India -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INDIA_NAME">
 			<Text>
@@ -562,8 +569,27 @@
 			</Text>
 		</Replace>
 
-		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
 		<!-- Англія -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_ELEANOR_NAME">
+			<Text>
+				Елеонора Аквітанська (Англія)
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ELEANOR_LOYALTY_NAME">
+			<Text>
+				Куртуазна любов
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ELEANOR_LOYALTY_DESCRIPTION">
+			<Text>
+				Кожен Великий Твір в містах Елеонори приносить -1 Прихильністі за хід в чужих містах в радіусі 9 тайлів. Місто, яке залишає іншу цивілізацію через втрату Прихильністі і отримує найбільшу кількість Прихильністі за хід від цивілізації Елеонори, пропускає етап Вільного міста, щоб приєднатися до її цивілізації.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_ENGLAND_NAME">
+			<Text>
+				Англія
+			</Text>
+		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_NAME">
 			<Text>
 				Майстерня світу
@@ -571,34 +597,39 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_DESCRIPTION">
 			<Text>
-				Міни заліза та вугілля накопичують ще 2 ресурси на чергу.+100% [icon_production] Виробництво для військових інженерів.Військові інженери отримують +2 збори.Будинки, які забезпечують додаткові врожаї, коли [icon_power] отримує отримання +4 цього виходу.+20% [icon_production] Виробництво до будівель промислової зони.Будівлі гавані збільшують стратегічні ресурси запасів на +10 (на стандартній швидкості).
+				Залізні та вугільні шахти генерують на 2 ресурси більше за хід. +100% [ICON_PRODUCTION] Виробництва для Військових інженерів. Військові інженери отримують +2 заряди. Будівлі, які дають додатковий прибуток, при [ICON_POWER] Енергії, отримують +4 до цього прибутку. +20% [ICON_PRODUCTION] Виробництва для будівель Індустріального району. Порти збільшують запаси Стратегічних ресурсів на +10 (на стандартній швидкості).
 			</Text>
 		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_ENGLISH_SEADOG_NAME">
+			<Text>
+				Морські пси
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_ENGLISH_SEADOG_DESCRIPTION">
+			<Text>
+				Унікальний юніт флоту Англії епохи Відродження, що замінює Каперу. Має шанс захопити переможені ворожі кораблі. Може бути помічений Морськими рейдерами, тільки якщо знаходиться поруч. Виявляє Морських рейдерів в полі зору.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_NAME">
+			<Text>
+				Королівська верфь
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION2_DESCRIPTION">
+			<Text>
+				Унікальний для Англії район флоту у місті. Замінює Портовий район. Також знімає штраф [ICON_Movement] Дії за посадку і висадку на цей тайл, і з нього. Має бути побудований на Узбережжі або Озері, що прилягає до суші.[NEWLINE][NEWLINE]+1 [ICON_Movement] Дії для всіх юнітів флоту, побудованих у Верфі[NEWLINE]+2 [ICON_Gold] Золота і +4 Прихильністі за хід, якщо побудований на чужому континенті. Не може бути побудований на Рифах[NEWLINE]
+			</Text>
+		</Replace>
+		
+
+		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
+		
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
 			<Text>
 				Кожен раз, коли ви знайшли своє перше місто на континенті, крім вашого домашнього континенту, отримуйте безкоштовний блок ближнього бою та потужність торговельного маршруту [icon_traderoute].Побудова будь -якого Королівського військово -морського флоту надає вам копію найсильнішої військово -морської одиниці, яку ви можете побудувати.Отримайте унікальну одиницю Redcoat, коли досліджується військова наука.
 			</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_LEADER_ELEANOR_NAME">
-			<Text>
-				Eleanor of Aquitaine (Англія)
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_LEADER_ELEANOR_FRANCE_NAME">
-			<Text>
-				Eleanor of Aquitaine (Франція)
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ELEANOR_LOYALTY_NAME">
-			<Text>
-				Суд любові
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ELEANOR_LOYALTY_DESCRIPTION">
-			<Text>
-				Чудові роботи в містах Елеонори причина -1 лояльність на чергу в іноземних містах у межах 9 плиток.Місто, яке залишає ще одну цивілізацію через втрату лояльності і в даний час отримує найбільш лояльність за чергу від цивілізації Елеонори пропускає безкоштовний крок міста, щоб приєднатися до цієї цивілізації.
-			</Text>
-		</Replace>
+		<!--Georgia-->
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_EXPANSION2_DESCRIPTION">
 			<Text>
 				Здійснюючи посвячення на початку золотого віку або героїчного віку, отримуйте звичайний віковий бонус до покращення балів ERA на додаток до іншого бонусу.+50% [icon_production] Виробництво до оборонних будівель.
@@ -818,11 +849,7 @@
 				[Icon_techboosted] eurekas та [icon_civicboosted] натхнення надають 50% громадянських та технологій замість 40%.Під час завершення дива отримуйте випадкове [icon_techboosted] eureka та [icon_civicboosted] натхнення з епохи дива, якщо вони є.
 			</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION2_DESCRIPTION">
-			<Text>
-				Район, унікальний для Англії для військово -морської діяльності у вашому місті.Замінює гаваньський район.Також видаляє покарання руху [icon_movement] за вирушення та висадки до цієї плитки та з нього.Повинен бути побудований на узбережжі або озерному місцевості, що примикає до землі. [NEWLINE] [NEWLINE] +1 [icon_movement] Рух для всіх військово -морських одиниць, побудованих у доккарді [NEWLINE] +2 [icon_gold] золота та +4 лояльності за чергу, коли будується на aіноземний континент.Не може бути побудований на рифі
-			</Text>
-		</Replace>
+
 
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION2_DESCRIPTION">
 			<Text>
