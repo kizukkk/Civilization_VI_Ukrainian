@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-
 		<!-- Канада -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_CANADA_NAME">
 			<Text>
@@ -45,7 +44,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_LAST_BEST_WEST_NAME">
 			<Text>
-				Остання ідеальна земля  
+				Остання ідеальна земля
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_LAST_BEST_WEST_DESCRIPTION">
@@ -63,12 +62,12 @@
 				Унікальний юніт Канади Сучасної епохи. Може побудувати 2 Національні парки. +5 [ICON_Strength] Атаки, коли в межах 2 тайлів від Національного парку. Додаткові +5 [ICON_Strength] Атаки, коли в межах 2 тайлів від Національного парку, яким ви володієте. [NEWLINE][NEWLINE]
 			</Text>
 		</Replace>
-
-		<!--Maori-->
+		<!-- Maori -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAORI_NAME">
-			<Text>Маорі</Text>
+			<Text>
+				Маорі
+			</Text>
 		</Replace>
-		
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAORI_ADJECTIVE">
 			<Text>
 				Маорі
@@ -134,8 +133,7 @@
 				Відкриває унікальну для Маорі здатність Toa будувати Pā.[NEWLINE][NEWLINE]Юніти, що займають Pā, отримують +4 [ICON_Strength] Захисту і автоматично отриму.nm 2 ходи укріплення. Юніти Маорі, які займають Pā, отримують зцілення, навіть якщо вони щойно перемістилися або атакували. Може бути побудуваний лише на Пагорбах. [NEWLINE]
 			</Text>
 		</Replace>
-
-		<!--Mali-->
+		<!-- Mali -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MALI_NAME">
 			<Text>
 				Малі
@@ -196,8 +194,7 @@
 				Унікалиний юніт Малі Середньовіччя, який замінює Лицарів. Торговці отримують захист, якщо вони знаходяться на суші в радіусі 4 тайлів від кавалерії Мандекалу. Перемоги в бою дають [ICON_GOLD] Золото, що дорівнює 100% від базової [ICON_Strength] Атаки юніта (на Стандартній швидкості).[NEWLINE]
 			</Text>
 		</Replace>
-
-		<!--Угорщина-->
+		<!-- Угорщина -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_HUNGARY_NAME">
 			<Text>
 				Угорщина
@@ -268,8 +265,7 @@
 				Унікальний юніт Угорщини Індустріальної епохи, який замінює Кінноту. Отримує +3 [ICON_Strength] Атаки за кожний діючий союз.
 			</Text>
 		</Replace>
-
-		<!--Inca-->
+		<!-- Inca -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INCA_NAME">
 			<Text>
 				Інка
@@ -340,8 +336,7 @@
 				Розблоковує можливість Батракам будувати унікальне, для Пачакуті, покращення Капак-найн. [NEWLINE][NEWLINE]Надає зручний прохід між Гір, дозволяючи юнітам заходити з одного боку та виходити з іншого за 2 очки [ICON_Movement] Дії. [ICON_TradeRoute] Торгові шляхи, що проходять через цей прохід, примножують [ICON_Gold] Золото, яке вони отримують від районів у місці призначення. Може бути побудований лише біля Гір. Не може бути розграбованим або зруйнованим. [NEWLINE]
 			</Text>
 		</Replace>
-
-		<!--Ottomans-->
+		<!-- Ottomans -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_OTTOMAN_NAME">
 			<Text>
 				Османи
@@ -409,10 +404,9 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SULEIMAN_GOVERNOR_DESCRIPTION">
 			<Text>
-				Унікальний губернатор з військовими та дипломатичними здібностями. Надає унікального юніта Яничари і титул Губернатора [Icon_Governor], коли дослідите технологію Порох. 
+				Унікальний губернатор з військовими та дипломатичними здібностями. Надає унікального юніта Яничари і титул Губернатора [Icon_Governor], коли дослідите технологію Порох.
 			</Text>
 		</Replace>
-
 		<!-- France -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_CATHERINE_DE_MEDICI_NAME">
 			<Text>
@@ -464,8 +458,7 @@
 				Унікальний юніт Франції ближнього бою Індустріальної епохи, що замінює Лінійну піхоту. +10 [ICON_Strength] Атаки, коли ви воюєте на континенті своєї Столиці. [ICON_GreatGeneral] Очки Великого генерала за вбивство юнітів.
 			</Text>
 		</Replace>
-
-		<!--India-->
+		<!-- India -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INDIA_NAME">
 			<Text>
 				Індія
@@ -488,7 +481,7 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_NAME">
 			<Text>
-				Дхарма 
+				Дхарма
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DHARMA_EXPANSION2_DESCRIPTION">
@@ -517,8 +510,60 @@
 			</Text>
 		</Replace>
 
+		<!-- Egypt -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_CLEOPATRA_NAME">
+			<Text>
+				Клеопатра
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_NAME">
+			<Text>
+				Наречена cередземномор’я
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION2_DESCRIPTION">
+			<Text>
+				Ваші [ICON_TradeRoute] Торгові шляхи до інших цивілізацій дають +4 [ICON_Gold] Золота для Єгипту. Торгові шляхи [ICON_TradeRoute] інших цивілізацій до Єгипту дають +2 [ICON_Food] Їжі для них і +2 [ICON_Gold] Золота для Єгипту. Торгуючи з союзниками, ви отримуєте вдвічі більше бонусних Очків Альянсу.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_EGYPT_NAME">
+			<Text>
+				Єгипт
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_ITERU_NAME">
+			<Text>
+				Ітеру
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_ITERU_EXPANSION2_DESCRIPTION">
+			<Text>
+				+15% [ICON_Production] Виробництва для районів і чудес, якщо вони розміщені поруч з річкою. Не отримує шкоди від повеней.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_NAME">
+			<Text>
+				Арчери Мар’янну 
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_EXPANSION2_DESCRIPTION">
+			<Text>
+				Унікальний юніт Єгипту дального бою епохи Античністі. 4 [ICON_Movement] Дії при русі на відкритій місцевості.
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_SPHINX_NAME">
+			<Text>
+				Сфінкс
+			</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_SPHINX_EXPANSION2_DESCRIPTION">
+			<Text>
+				Розблоковує можливість Батракам будувати унікального для Єгипту Сфінкса.[NEWLINE][NEWLINE]+1 [ICON_Faith] Віри та +1 [ICON_Culture] Культури. +2 Привабливість. +2 [ICON_Faith] Віри, якщо поруч диво. +1 [ICON_CULTURE] Культури, якщо збудовано на Заплаві. Додаткова [ICON_CULTURE] Культура, якщо відкрито Природознавство. Дає [ICON_TOURISM] Туризм після дослідження Льотних випробвувань. Не може бути побудований поруч з іншим Сфінксом. Не може бути побудований на Снігу або Снігових пагорбах. [NEWLINE]
+			</Text>
+		</Replace>
+
 		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
-		<!--Англія-->
+		<!-- Англія -->
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_INDUSTRIAL_REVOLUTION_NAME">
 			<Text>
 				Майстерня світу
@@ -532,11 +577,6 @@
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
 			<Text>
 				Кожен раз, коли ви знайшли своє перше місто на континенті, крім вашого домашнього континенту, отримуйте безкоштовний блок ближнього бою та потужність торговельного маршруту [icon_traderoute].Побудова будь -якого Королівського військово -морського флоту надає вам копію найсильнішої військово -морської одиниці, яку ви можете побудувати.Отримайте унікальну одиницю Redcoat, коли досліджується військова наука.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_ITERU_EXPANSION2_DESCRIPTION">
-			<Text>
-				+15% [icon_production] Виробництво до районів та чудес, якщо розміщено поруч із річкою.Не отримує шкоди від повеней.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LEADER_ELEANOR_NAME">
@@ -564,15 +604,13 @@
 				Здійснюючи посвячення на початку золотого віку або героїчного віку, отримуйте звичайний віковий бонус до покращення балів ERA на додаток до іншого бонусу.+50% [icon_production] Виробництво до оборонних будівель.
 			</Text>
 		</Replace>
-
-		<!--Netherlands-->
+		<!-- Netherlands -->
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_EXPANSION2_DESCRIPTION">
 			<Text>
 				Основні бонус за сусідство за кампуси, театральні квадрати та промислові зони, якщо поруч з річкою.Культурна бомба сусідніх плиток при завершенні гавані.+50% [icon_production] Виробництво до району греблі та будівлі затоплення.
 			</Text>
 		</Replace>
-
-		<!--Phoenicia-->
+		<!-- Phoenicia -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_PHOENICIA_NAME">
 			<Text>
 				Фінікія
@@ -633,8 +671,7 @@
 				Унікальний фінікійський юніт Античності, який замінює Галеру. Має збільшену [ICON_Strength] Атаку і очків [ICON_Movement] Дії. Торговці захищенні від пограбування, якщо вони знаходяться в межах 4 тайлів від Біреми та на тайлі води.[NEWLINE]
 			</Text>
 		</Replace>
-
-		<!--Japan-->
+		<!-- Japan -->
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_EXPANSION2_DESCRIPTION">
 			<Text>
 				Земляні одиниці отримують +5 [icon_strength] бойова міцність у сухопутних плитках, що примикають до узбережжя;Військово -морські одиниці отримують +5 [icon_strength] бойову міцність у мілководній плитці.Половина часу будує табір, Священну ділянку та театральні площі.Одиниці не отримують шкоди від ураганів.Цивілізації, які воюють з Японією, отримують +100% ушкодження від ураганів на японській території.
@@ -670,8 +707,7 @@
 				Додаткова територія на засновниках міст.+1 [icon_faith] Віра та +1 [icon_production] Виробництво з Тундри.Одиниці не отримують пошкоджень від хуртовин.Цивілізації, які воюють з Росією, отримують +100% одиничних збитків від хуртовин на російській території.
 			</Text>
 		</Replace>
-
-		<!--Sweden-->
+		<!-- Sweden -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SWEDEN_NAME">
 			<Text>
 				Швеція
@@ -742,8 +778,6 @@
 				Унікальний юніт Швеції епохи Відродження, який замінює Пікінери та Мушкетери. Швидший за Пікінери та Мушкетери. +3 [ICON_Strength] Атаки за невикористані очки [ICON_Movement] Дії.
 			</Text>
 		</Replace>
-
-		
 		<Replace Language="uk_UA" Tag="LOC_ERA_FUTURE_NAME">
 			<Text>
 				Майбутня епоха
@@ -782,21 +816,6 @@
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION2_DESCRIPTION">
 			<Text>
 				[Icon_techboosted] eurekas та [icon_civicboosted] натхнення надають 50% громадянських та технологій замість 40%.Під час завершення дива отримуйте випадкове [icon_techboosted] eureka та [icon_civicboosted] натхнення з епохи дива, якщо вони є.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_MEDITERRANEAN_EXPANSION2_DESCRIPTION">
-			<Text>
-				Ваші [icon_traderoute] торгові маршрути для інших цивілізацій забезпечують +4 [icon_gold] золото для Єгипту.Інші цивілізації '[icon_traderoute] Торгові маршрути до Єгипту забезпечують +2 [icon_food] їжу для них та +2 [icon_gold] золото для Єгипту.Торгівля з союзниками заробляє вдвічі більше балів бонусного альянсу.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_SPHINX_EXPANSION2_DESCRIPTION">
-			<Text>
-				Розблокує здатність будівельника побудувати сфінкс, унікальний для Єгипту. [NEWLINE] [NEWLINE] +1 [icon_faith] віра та +1 [ICON_CULTURE] культура.+2 звернення.+2 [icon_faith] Віра, якщо поруч із дивом.+1 [ICON_CULTURE] Культура, якщо побудована на заплавах.Додаткова [ICON_CULTURE] Культура після відкриття природної історії.Забезпечує [icon_tourism] туризм після дослідження польоту.Неможливо побудувати поруч з іншим сфінксом.Не можна будувати на снігових або снігових пагорбах.
-			</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_EGYPTIAN_CHARIOT_ARCHER_EXPANSION2_DESCRIPTION">
-			<Text>
-				Єгипетська унікальна стародавня епоха, що становила підрозділ.4 Рух [icon_movement], коли починається з відкритої місцевості.
 			</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_ROYAL_NAVY_DOCKYARD_EXPANSION2_DESCRIPTION">
