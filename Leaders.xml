@@ -150,6 +150,17 @@
 			<Text> Будівлі з трьома або більше слотами для Великих Творів і дива з двома або більше такими слотами автоматично створюють тематичні комплекти, якщо всі їх слоти заповнені. Вона може побудувати Королівську Бібліотеку на Урядовій площі. </Text>
 		</Replace>
 
+		<!-- Фрідріх Барбаросса -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_BARBAROSSA_NAME">
+			<Text> Фрідріх Барбаросса </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_NAME">
+			<Text> Імператор Священної Римської імперії </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_DESCRIPTION">
+			<Text> Додатковий слот Військової політики. +7 [ICON_Strength] Атаки при нападі на міста-держави. </Text>
+		</Replace>
+
 		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
 
 		<!-- Japan -->
@@ -175,16 +186,17 @@
 			<Text> Додаткова територія на засновниках міст.+1 [icon_faith] Віра та +1 [icon_production] Виробництво з Тундри.Одиниці не отримують пошкоджень від хуртовин.Цивілізації, які воюють з Росією, отримують +100% одиничних збитків від хуртовин на російській території. </Text>
 		</Replace>
 
-		<!-- Frederick Barbarossa -->
-		<Row Tag="LOC_LEADER_BARBAROSSA_NAME">
-			<Text> Frederick Barbarossa </Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_NAME">
-			<Text> Holy Roman Emperor </Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_HOLY_ROMAN_EMPEROR_DESCRIPTION">
-			<Text> Additional Military policy slot. +7 [ICON_Strength] Combat Strength when attacking city-states. </Text>
-		</Row>
+
+		<!-- ALEXANDER -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_ALEXANDER_NAME">
+			<Text>Alexander</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME">
+			<Text>To World's End</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION">
+			<Text>Cities do not incur war weariness. All military units heal completely when this player captures a city with a world wonder.</Text>
+		</Replace>
 
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
 			<Text> Кожен раз, коли ви знайшли своє перше місто на континенті, крім вашого домашнього континенту, отримуйте безкоштовний блок ближнього бою та потужність торговельного маршруту [icon_traderoute].Побудова будь -якого Королівського військово -морського флоту надає вам копію найсильнішої військово -морської одиниці, яку ви можете побудувати.Отримайте унікальну одиницю Redcoat, коли досліджується військова наука. </Text>
