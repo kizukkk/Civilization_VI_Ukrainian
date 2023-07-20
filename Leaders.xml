@@ -161,6 +161,17 @@
 			<Text> Додатковий слот Військової політики. +7 [ICON_Strength] Атаки при нападі на міста-держави. </Text>
 		</Replace>
 
+		<!-- Олександр -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_ALEXANDER_NAME">
+			<Text>Олександр</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME">
+			<Text>На краю світу</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION">
+			<Text>Міста не отримують військової втоми. Всі військові юніти повністю зцілюються, коли захоплюється місто з світовим дивом.</Text>
+		</Replace>
+
 		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
 
 		<!-- Japan -->
@@ -184,18 +195,6 @@
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_EXPANSION2_DESCRIPTION">
 			<Text> Додаткова територія на засновниках міст.+1 [icon_faith] Віра та +1 [icon_production] Виробництво з Тундри.Одиниці не отримують пошкоджень від хуртовин.Цивілізації, які воюють з Росією, отримують +100% одиничних збитків від хуртовин на російській території. </Text>
-		</Replace>
-
-
-		<!-- ALEXANDER -->
-		<Replace Language="uk_UA" Tag="LOC_LEADER_ALEXANDER_NAME">
-			<Text>Alexander</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_NAME">
-			<Text>To World's End</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_TO_WORLDS_END_DESCRIPTION">
-			<Text>Cities do not incur war weariness. All military units heal completely when this player captures a city with a world wonder.</Text>
 		</Replace>
 
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
