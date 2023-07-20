@@ -378,36 +378,37 @@
 			<Text> Унікальний для Німеччини район промисловості. Замінює Індустрільний район і дешевший у будівництві.[NEWLINE][NEWLINE]+ 2[ICON_Production] Виробництва бонусом за кожен сусідній Центр комерації, Акведук, Канал та Дамбу. +1 [ICON_Production] Виробництва бонусом за кожен ресурс поруч. +1 [ICON_Production] Виробництва бонусом за кожні два сусідні тайли районів. </Text>
 		</Replace>
 
-		<!-- Потребує перекладу/радагування -->
 		<!-- MACEDON -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME">
-			<Text>Macedon</Text>
+			<Text>Македонія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME">
-			<Text>Hellenistic Fusion</Text>
+			<Text>Еллінізм</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_EXPANSION1_DESCRIPTION">
-			<Text>When conquering a city that is not a Free City receive a [ICON_TechBoosted] Eureka for each Encampment or Campus in the conquered city and an [ICON_CivicBoosted] Inspiration for each Holy Site or Theater Square.</Text>
+			<Text>Завоювавши місто, яке не є Вільним містом, ви отримуєте [ICON_TechBoosted] Еврику за кожен Військовий табір або Кампус у завойованому місті та [ICON_CivicBoosted] Натхнення за кожне Священе місце або Театральну площу.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_NAME">
-			<Text>Hypaspist</Text>
+			<Text>Гіпаспісти</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_MACEDONIAN_HYPASPIST_DESCRIPTION">
-			<Text>Macedonian unique melee unit that replaces the Swordsman. +5 [ICON_Strength] Combat Strength when besieging districts. 50% Additional Support Bonus.</Text>
+			<Text>Унікальний македонський юніт ближнього бою, який замінює Мечника. +5 [ICON_Strength] Атаки при облозі районів. 50% додаткового Постачання.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_MACEDONIAN_HETAIROI_NAME">
-			<Text>Hetairoi</Text>
+			<Text>Гетайри</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_MACEDONIAN_HETAIROI_DESCRIPTION">
-			<Text>Macedonian unique heavy cavalry unit that replaces the Horseman. Additional +5 [ICON_Strength] Combat Strength when adjacent to a Great General. +5 Great General points when killing an enemy unit. Starts with 1 free Promotion.</Text>
+			<Text>Унікальний юніт важкої кавалерії Македонії, який замінює Кавалериста. Додаткові +5 [ICON_Strength] Атаки, коли знаходиться поруч з Великим Генералом. +5 очок Великого Генерала за вбивство ворожого юніта. Отримує 1 безкоштовне підвищення.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_BASILIKOI_PAIDES_NAME">
-			<Text>Basilikoi Paides</Text>
+			<Text>Королівська Пажеська школа</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_BUILDING_BASILIKOI_PAIDES_DESCRIPTION">
-			<Text>A building unique to Macedon.+25% combat experience for all melee, ranged land units, and Hetairoi trained in this city. Gain [ICON_SCIENCE] Science equal to 25% of the unit's cost when a non civilian unit is created in this city.[NEWLINE][NEWLINE]May not be built in an Encampment district that already has a Stable.</Text>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION">
+			<Text> Унікальна для Македонії будівля. +25% бойового досвіду для всіх юнітів ближнього бою, дальнобійних юнітів і Гетайрів, що створюються в цьому місті. Отримайте [ICON_SCIENCE] Науку, що дорівнює 25% від вартості юніта, коли в цьому місті створюється військовий юніт.[NEWLINE][NEWLINE]Не може бути побудована в Військовому таборі, де вже є Конюшня. [NEWLINE]</Text>
 		</Replace>
-
+		
+		
+		<!-- Потребує перекладу/радагування -->
 
 	</LocalizedText>
 
