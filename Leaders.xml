@@ -172,91 +172,260 @@
 			<Text>Міста не отримують військової втоми. Всі військові юніти повністю зцілюються, коли захоплюється місто з світовим дивом.</Text>
 		</Replace>
 
-		<!-- Нижче переклад є МАШИНИМ перекладом та потребує редагуваня -->
+		<!-- Не перекладено -->
 
-		<!-- Japan -->
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_EXPANSION2_DESCRIPTION">
-			<Text> Земляні одиниці отримують +5 [icon_strength] бойова міцність у сухопутних плитках, що примикають до узбережжя;Військово -морські одиниці отримують +5 [icon_strength] бойову міцність у мілководній плитці.Половина часу будує табір, Священну ділянку та театральні площі.Одиниці не отримують шкоди від ураганів.Цивілізації, які воюють з Японією, отримують +100% ушкодження від ураганів на японській території. </Text>
+		<!-- Gilgamesh -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_GILGAMESH_NAME">
+			<Text>Gilgamesh</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SATYAGRAHA_EXPANSION2_DESCRIPTION">
-			<Text> +5 [icon_faith] Віра та +1 [icon_favor] Дипломатична прихильність на чергу для кожної цивілізації (включаючи Індію), які вони зустріли, що заснувала релігію і наразі не воює.Протилежні цивілізації отримують подвійне втому війни за боротьбу проти Ганді. </Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_BUILDING_ELECTRONICS_FACTORY_EXPANSION2_DESCRIPTION">
-			<Text> Будівля, унікальна для Японії.Забезпечує +4 [ICON_CULTURE] культуру цьому місту після дослідження технології електроенергії.Його бонус за виробництво [icon_production] поширюється на всі міські центри в межах 6 плиток, які ще не мають бонусу від цього типу будівлі. </Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_EXPANSION2_DESCRIPTION">
-			<Text> Будуючи давні та класичні чудеса, ви можете витратити плату за будівельника, щоб закінчити 15% від первісної вартості дива.Будівельники отримують додаткову плату.Канали розблоковані за допомогою технології кладки. </Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_DISTRICT_BATH_EXPANSION2_DESCRIPTION">
-			<Text> Район, унікальний для Риму для зростання міста.Замінює район Акведука і дешевше будувати. [NEWLINE] [NEWLINE] Він забезпечує цьому місту джерелом прісної води з сусідньої річки, озера, оазису чи гори.Міста, які ще не мають існуючої прісної води, отримують до 6 [icon_housing] житла.Міста, які вже мають існуючу прісну воду, замість цього отримають +2 [icon_housing] житло.Якщо побудований поруч із геотермальною тріщинами +1 [ICON_AMENITIES].У всіх випадках ванна забезпечує додатковий бонус +2 [icon_housing] житла та +1 [ICON_AMENITIES] приємності.Запобігає [icon_food] втрати їжі під час посухи.Потрібно побудувати поруч із центром міста. </Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_DISTRICT_BATH_EXPANSION2_ALT_DESCRIPTION">
-			<Text> Район, унікальний для Риму для зростання міста.Замінює район Акведука і дешевше будувати. [NEWLINE] [NEWLINE] Він забезпечує цьому місту джерелом прісної води з сусідньої річки, озера, оазису чи гори.Міста, які ще не мають існуючої прісної води, отримують до 6 [icon_housing] житла.Міста, які вже мають існуючу прісну воду, замість цього отримають +2 [icon_housing] житло.Якщо побудований поруч із геотермальною тріщинами +1 [ICON_AMENITIES].У всіх випадках ванна забезпечує додатковий бонус +2 [icon_housing] житла та +1 [ICON_AMENITIES] приємності.Запобігає [icon_food] втрати їжі під час посухи.Потрібно побудувати поруч із центром міста.Військові інженери можуть витратити заряд на завершення 20% виробництва ванни. </Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_EXPANSION2_DESCRIPTION">
-			<Text> Додаткова територія на засновниках міст.+1 [icon_faith] Віра та +1 [icon_production] Виробництво з Тундри.Одиниці не отримують пошкоджень від хуртовин.Цивілізації, які воюють з Росією, отримують +100% одиничних збитків від хуртовин на російській території. </Text>
-		</Replace>
-
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
-			<Text> Кожен раз, коли ви знайшли своє перше місто на континенті, крім вашого домашнього континенту, отримуйте безкоштовний блок ближнього бою та потужність торговельного маршруту [icon_traderoute].Побудова будь -якого Королівського військово -морського флоту надає вам копію найсильнішої військово -морської одиниці, яку ви можете побудувати.Отримайте унікальну одиницю Redcoat, коли досліджується військова наука. </Text>
-		</Replace>
-		<!-- Georgia -->
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_EXPANSION2_DESCRIPTION">
-			<Text> Здійснюючи посвячення на початку золотого віку або героїчного віку, отримуйте звичайний віковий бонус до покращення балів ERA на додаток до іншого бонусу.+50% [icon_production] Виробництво до оборонних будівель. </Text>
-		</Replace>
-		<!-- Netherlands -->
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_EXPANSION2_DESCRIPTION">
-			<Text> Основні бонус за сусідство за кампуси, театральні квадрати та промислові зони, якщо поруч з річкою.Культурна бомба сусідніх плиток при завершенні гавані.+50% [icon_production] Виробництво до району греблі та будівлі затоплення. </Text>
-		</Replace>
-
-
-		<Replace Language="uk_UA" Tag="LOC_ERA_FUTURE_NAME">
-			<Text> Майбутня епоха </Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_ERA_FUTURE_DESCRIPTION">
-			<Text> Світ містить диво поза сновидіннями стародавніх пророків, а жах і страшніші, ніж будь -який апокаліпсис.Машини шукають сенс та нові матеріали, що впливають на мрії.Вибори, зроблені давно, несуть серйозні наслідки в цьому віці та вимагають рішучих відповідей.Ідіть зараз і досягніть свого бачення майбутнього цивілізації. </Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_VICTORY_SCIENCE_TT_XP2">
-			<Text> Будьте першим, хто завершив експедицію екзопланету в іншу зіркову систему, щоб виграти перемогу в науці.Ця перемога прямолінійна, але може бути важко досягти, перш ніж закінчиться час. </Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_EXPANSION2_NAME">
-			<Text> Копакабана </Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_EXPANSION2_DESCRIPTION">
-			<Text> Район, унікальний для Бразилії.Замінює район аквапарку та забезпечує +2 [ICON_AMENITIES] зручності.Також розблокує проект Carnival, який надає додаткову +1 [ICON_AMENITIES], коли він проводиться, і різноманітні [icon_greatperson] великих очок після завершення.Неможливо побудувати в місті з вуличним карнавалом.Не може бути побудований на рифі. </Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION2_DESCRIPTION">
-			<Text> Район, унікальний для Бразилії.Замінює розважальний комплексний район і забезпечує +2 [ICON_AMENITIES] зручності.Також розблокує проект Carnival, який надає додаткову +1 [ICON_AMENITIES], коли він проводиться, і різноманітні [icon_greatperson] великих очок після завершення.Неможливо побудувати в місті з Копакабаною. </Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_GREAT_WALL_EXPANSION2_DESCRIPTION">
-			<Text> Розблокує здатність будівельника побудувати велику стіну, унікальну для Китаю. [NEWLINE] [NEWLINE] +2 [icon_gold] золото.Забезпечує збільшення захисту [icon_strength].Бонус за [icon_gold] золото, якщо поруч з іншими сегментами.Додаткова [ICON_CULTURE] Культура та [icon_tourism] Туризм, коли ви просуваєтесь через дерево технології для сусідніх сегментів.Потрібно побудувати в лінії вздовж кордонів вашої імперії.Можна пограбувати (ніколи не знищити) лише за допомогою стихійних лих. </Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION2_DESCRIPTION">
-			<Text> [Icon_techboosted] eurekas та [icon_civicboosted] натхнення надають 50% громадянських та технологій замість 40%.Під час завершення дива отримуйте випадкове [icon_techboosted] eureka та [icon_civicboosted] натхнення з епохи дива, якщо вони є. </Text>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_NAME">
+			<Text>Adventures of Enkidu</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ADVENTURES_ENKIDU_EXPANSION2_DESCRIPTION">
-			<Text> Коли воює з загальним ворогом, вони та їхні союзники діляться нагородами з грабежами та діляться бойовим досвідом, якщо в межах 5 плиток.Їх альянси отримують очки альянсу за те, що воюють із загальним ворогом.+5 [icon_strength] Бойова сила проти одиниць гравців, які воюють з вами та вашим союзником. </Text>
+			<Text>When at war with a common foe, they and their allies share pillage rewards and share combat experience gains if within 5 tiles. Their Alliances gain Alliance Points for being at war with a common foe. +5 [ICON_Strength] Combat Strength against units of players at war with you and your ally.</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_BUILDING_ORDU_EXPANSION2_DESCRIPTION">
-			<Text> Будівля, унікальна для Монголії.Надає здатність, яка дає +1 [icon_movement] рух до важкої та легкої кінноти, навченої в цьому місті.+25% бойового досвіду для всіх підрозділів класу кавалерії та облоги, які навчаються в цьому місті. [NEWLINE] стратегічні запасні ресурси збільшилися +10 (на стандартній швидкості). [NEWLINE] [NEWLINE] може не бути побудований у районі табору, який вже має aКазарми. </Text>
+
+		<!-- Gorgo -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_GORGO_NAME">
+			<Text>Gorgo</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_EXPANSION2_DESCRIPTION">
-			<Text> Дозволяє прибережні рейдування для всіх військово -морських одиниць ближнього бою та +50% [icon_production] виробництва до всіх військово -морських підрозділів.Отримайте [icon_science] Наука від графства та прибережних рейдових мін, крім GOLD [icon_gold].Розміщення або прибережні рейдерські кар'єри, пасовища, плантації та табори забезпечують культуру [ICON_CULTURE] на додаток до віри [icon_faith].Отримайте унікальний підрозділ вікінгів з вітрилом. </Text>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_NAME">
+			<Text>Thermopylae</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION2_DESCRIPTION">
-			<Text> Можуть утворювати флоти та армади з меркантилізмом, а не націоналізмом та мобілізацією.[Icon_traderoute] Торгові маршрути отримують +3 [icon_gold] золото, +2 [icon_faith] віра та +1 [icon_production] виробництво.[Icon_traderoute] Торгові маршрути між декількома континентами отримують потрійні ці цифри.Міста, які не на континенті вашого первісного капіталу, отримують +25% [icon_production] виробництва до районів та будівельника, коли вона заснована. </Text>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_THERMOPYLAE_DESCRIPTION">
+			<Text>Combat victories provide [ICON_Culture] Culture equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit. (on Standard Speed) +1 [ICON_Strength] Combat Strength for every Military Policy slotted.</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_EXPANSION2_DESCRIPTION">
-			<Text> Інквізитори можуть усунути єресі один додатковий час.Інквізитори усувають 100% наявності інших релігій.Бойові та релігійні одиниці мають бонус +5 [icon_strength] бойову силу проти гравців, що слідують за іншими релігіями. </Text>
+
+		<!-- HARDRADA -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_HARDRADA_NAME">
+			<Text>Harald Hardrada</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MISSION_EXPANSION2_DESCRIPTION">
-			<Text> Розблокує здатність будівельника будувати місію, унікальну для Іспанії. [NEWLINE] [NEWLINE] +2 [icon_faith] віра.+2 [icon_faith] віра, +1 [icon_production] виробництво та +1 [icon_food] їжа, якщо на іншому континенті, ніж ваш капітал [icon_capital].+1 [icon_science] Наука для кожного сусіднього кампусу та району святого місця.Додаткова [icon_science] Наука колись культурна спадщина буде виявлена.+2 Лояльність за чергу для міст з вдосконаленням місії, що прилягає до центру міста, а не на вашому первісному континенті капіталу [icon_capital]. </Text>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_NAME">
+			<Text>Thunderbolt of the North</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_GOLF_COURSE_XP2_DESCRIPTION">
-			<Text> Розблокує можливість будівельника будувати поле для гольфу, унікальне для Шотландії. [NEWLINE] [NEWLINE] +2 [ICON_AMENITIES] зручності та +2 [icon_gold] золото.+1 [ICON_CULTURE] Культура, якщо примикає до району міста та +1 [ICON_CULTURE] культури, якщо примикає до розважального комплексу.Додатковий [icon_tourism] Туризм та [icon_housing] житло, коли ви просуваєтесь через дерево громадян та технологій.Не можна розмістити на пустельних або пустельних пагорбах.Один на місто.Плитки з полями для гольфу не можуть бути замінені.+1 звернення. </Text>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_THUNDERBOLT_DESCRIPTION">
+			<Text>Allows coastal raiding for all naval melee units and +50% [ICON_PRODUCTION] Production toward all naval melee units. Gain the Viking Longship unique unit with Sailing.</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_DISTRICT_ACROPOLIS_EXPANSION2_DESCRIPTION">
-			<Text> Район, унікальний для Греції для культурних майданчиків.Замінює район театральної площі та дешевше будувати.Нагороди 1 [icon_envoy] посланник після завершення. [NEWLINE] [NEWLINE] +1 [ICON_CULTURE] бонус культури для кожного сусіднього району та додаткового бонусу культури +1 [ICON_CULTURE] для сусіднього центру міста.+2 [ICON_CULTURE] бонус культури за кожен сусідній диво, розважальний комплекс та аквапарк.Можна побудувати лише на пагорбах. </Text>
+
+		<!-- HOJO -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_HOJO_NAME">
+			<Text>Hojo Tokimune</Text>
 		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_NAME">
+			<Text>Divine Wind</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_DIVINE_WIND_DESCRIPTION">
+			<Text>Land units receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast; naval units receive +5 [ICON_Strength] Combat Strength in shallow water tiles. Builds Encampment, Holy Site and Theater Square districts in half the time.</Text>
+		</Replace>
+
+		<!-- MONTEZUMA -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_MONTEZUMA_NAME">
+			<Text>Montezuma</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_GIFTS_FOR_TLATOANI_NAME">
+			<Text>Gifts for the Tlatoani</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_GIFTS_FOR_TLATOANI_DESCRIPTION">
+			<Text>Luxury resources in his territory provide an [ICON_Amenities] Amenity to 2 extra cities. Military units receive +1 [ICON_Strength] Combat Strength when attacking for each different Luxury resource improved in Aztec lands.</Text>
+		</Replace>
+
+		<!-- MVEMBA -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_MVEMBA_NAME">
+			<Text>Mvemba a Nzinga</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_NAME">
+			<Text>Religious Convert</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RELIGIOUS_CONVERT_DESCRIPTION">
+			<Text>May not build Holy Site districts, gain Great Prophets, or found Religions. Gains all Beliefs of any Religion that has established itself in a majority of his cities. Receives an Apostle each time he finishes a M'banza or Theater Square district (of that city's majority Religion).</Text>
+		</Replace>
+
+		<!-- PEDRO -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_PEDRO_NAME">
+			<Text>Pedro II</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
+			<Text>Magnanimous</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_DESCRIPTION">
+			<Text>After recruiting or patronizing a [ICON_GreatPerson] Great Person, 20% of its [ICON_GreatPerson] Great Person point cost is refunded.</Text>
+		</Replace>
+
+		<!-- PERICLES -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_PERICLES_NAME">
+			<Text>Pericles</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_NAME">
+			<Text>Surrounded by Glory</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_DESCRIPTION">
+			<Text>+5% [ICON_Culture] Culture per city-state you are the Suzerain of.</Text>
+		</Replace>
+
+		<!-- PETER -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_PETER_GREAT_NAME">
+			<Text>Peter</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
+			<Text>The Grand Embassy</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_DESCRIPTION">
+			<Text>Receives [ICON_Science] Science or [ICON_Culture] Culture from [ICON_TradeRoute] Trade Routes to civilizations that are more advanced than Russia. +1 per 3 technologies or civics ahead.</Text>
+		</Replace>
+
+		<!-- PHILIP 2 -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_PHILIP_II_NAME">
+			<Text>Philip II</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_NAME">
+			<Text>El Escorial</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
+			<Text>Inquisitors can Remove Heresy one extra time. Combat and Religious units have a bonus of +5 [ICON_Strength] Combat Strength against players following other Religions.</Text>
+		</Replace>
+
+		<!-- QIN -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_QIN_NAME">
+			<Text>Qin Shi Huang</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_NAME">
+			<Text>The First Emperor</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_DESCRIPTION">
+			<Text>When building Ancient and Classical wonders you may spend Builder charges to complete 15% of the original wonder cost. Builders receive an additional charge.</Text>
+		</Replace>
+
+		<!-- SALADIN -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_SALADIN_NAME">
+			<Text>Saladin</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_NAME">
+			<Text>Righteousness of the Faith</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
+			<Text>The worship building for their Religion can be purchased by any player for just one-tenth of the usual [ICON_Faith] Faith cost. This worship building is enhanced to add 10% to the [ICON_Science] Science, [ICON_Faith] Faith, and [ICON_Culture] Culture output of Arabian cities.</Text>
+		</Replace>
+
+		<!-- ROOSEVELT -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_T_ROOSEVELT_NAME">
+			<Text>Teddy Roosevelt</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_NAME">
+			<Text>Roosevelt Corollary</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
+			<Text>Units receive a +5 [ICON_Strength] Combat Strength on their home continent. +1 Appeal to all tiles in a city with a National Park. Gain the Rough Rider unique unit when they research the Rifling technology.</Text>
+		</Replace>
+
+		<!-- TOMYRIS -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_TOMYRIS_NAME">
+			<Text>Tomyris</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_NAME">
+			<Text>Killer of Cyrus</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_DESCRIPTION">
+			<Text>All units receive +5 [ICON_Strength] Combat Strength when attacking wounded units. When they eliminate a unit, they heal up to 30 hit points.</Text>
+		</Replace>
+
+		<!-- TRAJAN -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_TRAJAN_NAME">
+			<Text>Trajan</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_NAME">
+			<Text>Trajan's Column</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_DESCRIPTION">
+			<Text>All cities start with an additional City Center building. (Starts with a Monument building in the Ancient era).</Text>
+		</Replace>
+
+		<!-- VICTORIA -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_VICTORIA_NAME">
+			<Text>Victoria</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_NAME">
+			<Text>Pax Britannica</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
+			<Text>Each time you found your first city on a continent other than your home continent receive a free melee unit and a [ICON_TradeRoute] Trade Route capacity. Constructing any Royal Navy Dockyard grants you a copy of the strongest naval unit you can build. Gain the Redcoat unique unit when the Military Science technology is researched.</Text>
+		</Replace>
+
+		<!-- WILHELMINA -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_WILHELMINA_NAME">
+			<Text>Wilhelmina</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_RADIO_ORANJE_NAME">
+			<Text>Radio Oranje</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_RADIO_ORANJE_DESCRIPTION">
+			<Text>Your [ICON_TradeRoute] Trade Routes to your own cities provide +2 Loyalty per turn for the starting city. [ICON_TradeRoute] Trade Routes to foreign cities or from foreign cities provide +2 [ICON_Culture] Culture to you.</Text>
+		</Replace>
+
+		<!-- TAMAR -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_TAMAR_NAME">
+			<Text>Tamar</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_NAME">
+			<Text>Glory of the World, Kingdom and Faith</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_DESCRIPTION">
+			<Text>Combat victories provide [ICON_FAITH] Faith equal to 50% of the Combat Strength of the defeated unit (on Standard Speed). Each [ICON_ENVOY] Envoy you send to a city-state of your majority Religion counts as two [ICON_ENVOY] Envoys. (Must have a majority Religion). </Text>
+		</Replace>
+
+		<!-- SHAKA -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_SHAKA_NAME">
+			<Text>Shaka</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_AMABUTHO_NAME">
+			<Text>Amabutho</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_AMABUTHO_DESCRIPTION">
+			<Text>May form Corps (Mercenaries Civic) and Armies (Nationalism Civic) earlier. An additional +5 [ICON_STRENGTH] Base Combat Strength to both Corps and Armies. </Text>
+		</Replace>
+
+		<!-- SEONDEOK -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_SEONDEOK_NAME">
+			<Text>Seondeok</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_HWARANG_NAME">
+			<Text>Hwarang</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_HWARANG_DESCRIPTION">
+			<Text>[ICON_Governor] Governors established in a city provide +3% [ICON_Culture] Culture and [ICON_Science] Science for each Promotion they have earned, including their first.</Text>
+		</Replace>
+
+		<!-- ROBERT -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_ROBERT_THE_BRUCE_NAME">
+			<Text>Robert the Bruce</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_BANNOCKBURN_NAME">
+			<Text>Bannockburn</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_BANNOCKBURN_DESCRIPTION">
+			<Text>Can declare a War of Liberation after gaining the Defensive Tactics Civic.  +100% [ICON_Production] Production and +2 [ICON_Movement] Movement for the first 10 turns after declaring a War of Liberation.</Text>
+		</Replace>
+
+		<!-- POUNDMAKER -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_POUNDMAKER_NAME">
+			<Text>Poundmaker</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_POUNDMAKER_ABILITY_NAME">
+			<Text>Favorable Terms</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_LEADER_POUNDMAKER_ABILITY_DESCRIPTION">
+			<Text>All Alliance types provide Shared Visibility.[NEWLINE]Your outgoing [ICON_TradeRoute] Trade Routes grant +1 [ICON_Food] Food to Poundmaker per Camp or Pasture at the destination. [ICON_TradeRoute] Trade Routes sent to your cities grant +1 [ICON_Gold] Gold to Poundmaker per Camp or Pasture at the destination.</Text>
+		</Replace>
+
+		<!-- LAUTARO -->
+		<Replace Language="uk_UA" Tag="LOC_LEADER_LAUTARO_NAME">
+			<Text>Lautaro</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_NAME">
+			<Text>Swift Hawk</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION_ALT">
+			<Text>+10 [ICON_Strength] Combat Strength when fighting Free Cities or civilizations that are in a Golden or Heroic Age. Defeating an enemy unit within the borders of an enemy city causes that city to lose 20 Loyalty and 40 loyalty if that civilization is in a Golden or Heroic Age.</Text>
+		</Replace>
+
 	</LocalizedText>
 </GameData>
