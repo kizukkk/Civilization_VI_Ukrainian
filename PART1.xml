@@ -1409,9 +1409,6 @@
 		<Replace Language="uk_UA" Tag="LOC_GAMESPEED_ONLINE_HELP">
 			<Text> Подвійна швидкість гри, що використовується для мультиплеєра. </Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_MAP_TERRA_DESCRIPTION">
-			<Text> Карта континентів, де всі основні цивілізації починаються на найбільшому континенті. </Text>
-		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_MAPSIZE_DUEL_DESCRIPTION">
 			<Text> Дуже маленька карта для 2х гравців. </Text>
 		</Replace>
