@@ -1062,7 +1062,7 @@
 			<Text> Mb </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_CREATE_GAME">
-			<Text> Створити гру </Text>
+			<Text> Створення гри </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_CHOOSE_RULESET">
 			<Text> Правила </Text>
