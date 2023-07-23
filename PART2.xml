@@ -1,260 +1,320 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
 	<LocalizedText>
-	
-		<!-- Рівні складності -->
-		<Row Tag="LOC_DIFFICULTY_SETTLER_NAME">
-			<Text>
-				Settler
-			</Text>
-		</Row>
-		<Row Tag="LOC_DIFFICULTY_CHIEFTAIN_NAME">
-			<Text>
-				Chieftain
-			</Text>
-		</Row>
-		<Row Tag="LOC_DIFFICULTY_WARLORD_NAME">
-			<Text>
-				Warlord
-			</Text>
-		</Row>
-		<Row Tag="LOC_DIFFICULTY_PRINCE_NAME">
-			<Text>
-				Prince
-			</Text>
-		</Row>
-		<Row Tag="LOC_DIFFICULTY_KING_NAME">
-			<Text>
-				King
-			</Text>
-		</Row>
-		<Row Tag="LOC_DIFFICULTY_EMPEROR_NAME">
-			<Text>
-				Emperor
-			</Text>
-		</Row>
-		<Row Tag="LOC_DIFFICULTY_IMMORTAL_NAME">
-			<Text>
-				Immortal
-			</Text>
-		</Row>
-		<Row Tag="LOC_DIFFICULTY_DEITY_NAME">
-			<Text>
-				Deity
-			</Text>
-		</Row>
 
-		<!-- Режим гри -->
-		<Row Tag="LOC_EXPANSION2_MOD_TITLE">
-			<Text>
-				Expansion: Gathering Storm
-			</Text>
-		</Row>
-		<Row Tag="LOC_EXPANSION2_MOD_TEASER">
-			<Text>
-				An Expansion pack with World Congress, environmental effects and disasters, power, new civilizations and leaders, and much, much more!
-			</Text>
-		</Row>
-		<Row Tag="LOC_EXPANSION2_MOD_DESCRIPTION">
-			<Text>
-				This is a game using the Gathering Storm Expansion, which includes the World Congress, environmental effects and disasters, power, and more. Can you deal with the unpredictability of a changing world to make a civilization that will stand the test of time?
-			</Text>
-		</Row>
-		<Row Tag="LOC_EXPANSION1_MOD_TITLE">
-			<Text>
-				Expansion: Rise and Fall
-			</Text>
-		</Row>
-		<Row Tag="LOC_EXPANSION1_MOD_TEASER">
-			<Text>
-				An Expansion pack with Great Ages, Loyalty, Governors, Emergencies, new civilizations and leaders and much, much more!
-			</Text>
-		</Row>
-		<Row Tag="LOC_EXPANSION1_MOD_DESCRIPTION">
-			<Text>
-				This is a game using the Rise and Fall Expansion, which includes Great Ages, Loyalty, Governors, and Emergencies. Can you lead your people into a Golden Age of prosperity? Or will your empire face the challenges of a Dark Age?
-			</Text>
-		</Row>
+		<!-- Gathering Strom -->
+		<Replace Language="uk_UA" Tag="LOC_EXPANSION2_NAME">
+			<Text> Доповнення: Gathering Storm </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_EXPANSION2_DESCRIPTION">
+			<Text> Це гра з використанням доповнення Gathering Storm, яке включає Світовий конгрес, екологічний вплив та катастрофи, енергію та багато іншого. Чи зможете ви впоратися з непередбачуваністю мінливого світу, щоб створити цивілізацію, яка витримає випробування часом? </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_EXPANSION2_MOD_DESCRIPTION">
+			<Text> Доповнення з Світовим Конгрес, екологічним впливом та катастрофами, енергією, новими цивілізаціями та лідерами, а також багато-багато іншого! </Text>
+		</Replace>
+
+		<!-- Rise and Fall -->
+		<Replace Language="uk_UA" Tag="LOC_EXPANSION1_NAME">
+			<Text> Доповнення: Rise and Fall </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_EXPANSION1_DESCRIPTION">
+			<Text> Це гра з доповненням Rise and Fall, яке включає Великі епохи, Прихильністтю, Губернаторів та Надзвичайні ситуації. Чи зможете ви привести свій народ до Золотого віку процвітання? Або ж ваша імперія зіткнеться з викликами Темної доби? </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_EXPANSION1_DESCRIPTION">
+			<Text> Доповнення з Великими епохами, Прихильністтю, Губернаторами, Надзвичайними ситуаціями, новими цивілізаціями і лідерами та багато-багато іншого! </Text>
+		</Replace>
+
+
+		<!-- Рівні складності -->
+		<Replace Language="uk_UA" Tag="LOC_DIFFICULTY_SETTLER_NAME">
+			<Text> Новоприбулий </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DIFFICULTY_CHIEFTAIN_NAME">
+			<Text> Начальник </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DIFFICULTY_WARLORD_NAME">
+			<Text> Полководець </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DIFFICULTY_PRINCE_NAME">
+			<Text> Правитель </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DIFFICULTY_KING_NAME">
+			<Text> Цар і Бог </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DIFFICULTY_EMPEROR_NAME">
+			<Text> Імператор </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DIFFICULTY_IMMORTAL_NAME">
+			<Text> Безсмертний </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DIFFICULTY_DEITY_NAME">
+			<Text> Божество </Text>
+		</Replace>
+
 
 		<!-- Black Death Scenario -->
-		<Row Tag="LOC_BLACKDEATH_MOD_TITLE">
-			<Text>
-				Scenario: The Black Death
-			</Text>
-		</Row>
-		<Row Tag="LOC_BLACKDEATH_SCENARIO_TOOLTIP">
-			<Text>
-				Can you guide your nation through the terrible plague? 4 players, 85 turns.
-			</Text>
-		</Row>
-		<Row Tag="LOC_BLACKDEATH_SCENARIO_DESCRIPTION">
-			<Text>
-				In this scenario you must guide a Medieval civilization through the infamous Black Death, keeping their cultural and scientific efforts alive as their population falls and faith collapses. The plague will sweep the landscape in waves, killing citizens and rendering tiles unworkable. Can you hold on long enough to sow the seeds of the Enlightenment, or will your nation collapse into disloyalty and despair?
-			</Text>
-		</Row>
+		<Replace Language="uk_UA" Tag="LOC_BLACKDEATH_MOD_TITLE">
+			<Text> Сценарій: Чорна Смерть </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BLACKDEATH_SCENARIO_TOOLTIP">
+			<Text> Чи зможете ви провести свою націю через страшну чуму? 4 гравці, 85 ходів. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BLACKDEATH_SCENARIO_DESCRIPTION">
+			<Text> У цьому сценарії ви повинні провести середньовічну цивілізацію через сумнозвісну Чорну Смерть, підтримуючи її культурні та наукові надбання, в той час як населення падає, а Віра руйнується. Чума буде хвилями накривати ландшафт, вбиваючи жителів і роблячи тайли непридатними для використання. Чи зможете ви протриматися достатньо довго, щоб посіяти насіння Просвітництва, чи ваша нація зануриться у недовіру і відчай? </Text>
+		</Replace>
 
 		<!-- War Machine Scenario -->
-		<Row Tag="LOC_WARMACHINE_MOD_TITLE">
-			<Text>
-				Multiplayer Scenario: War Machine
-			</Text>
-		</Row>
-		<Row Tag="LOC_WARMACHINE_SCENARIO_TOOLTIP">
-			<Text>
-				1v1 multiplayer scenario based on the German attack on France during the outbreak of WWI.
-			</Text>
-		</Row>
-		<Row Tag="LOC_WARMACHINE_SCENARIO_DESCRIPTION">
-			<Text>
-				In this scenario you take command of the armies of France or Germany during the first month of WWI. You have a massive army poised to strike, an industrial nation ready to back it up, and only 40 turns to capture or defend Paris. Can you triumph in the greatest clash of arms the world has ever seen? Or will warfare on this scale and speed overwhelm you?
-			</Text>
-		</Row>
-		<!-- Швидкості гри -->
-		<Row Tag="LOC_GAME_SPEED">
-			<Text>
-				Game Speed
-			</Text>
-		</Row>
-		<Row Tag="LOC_GAMESPEED_MARATHON_NAME">
-			<Text>
-				Marathon
-			</Text>
-		</Row>
-		<Row Tag="LOC_GAMESPEED_EPIC_NAME">
-			<Text>
-				Epic
-			</Text>
-		</Row>
-		<Row Tag="LOC_GAMESPEED_STANDARD_NAME">
-			<Text>
-				Standard
-			</Text>
-		</Row>
-		<Row Tag="LOC_GAMESPEED_QUICK_NAME">
-			<Text>
-				Quick
-			</Text>
-		</Row>
-		<Row Tag="LOC_GAMESPEED_ONLINE_NAME">
-			<Text>
-				Online
-			</Text>
-		</Row>
+		<Replace Language="uk_UA" Tag="LOC_WARMACHINE_MOD_TITLE">
+			<Text> Сценарій мультиплеєра: Машина Війни </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_WARMACHINE_SCENARIO_TOOLTIP">
+			<Text> Багатокористувацький сценарій 1v1, заснований на нападі Німеччини на Францію на початку Першої світової війни. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_WARMACHINE_SCENARIO_DESCRIPTION">
+			<Text> У цьому сценарії ви командуєте арміями Франції або Німеччини протягом першого місяця Першої світової війни. У вас є величезна армія, готова до удару, індустріальна нація, готова її підтримати, і лише 40 ходів, щоб захопити або захистити Париж. Чи зможете ви здобути перемогу в найбільшому зіткненні озброєнь, яке коли-небудь бачив світ? Чи війна такого масштабу і швидкості приголомшить вас? </Text>
+		</Replace>
 
-		<!-- Назва та опис карт світу -->
-		<Row Tag="LOC_TSLEARTH_NAME">
-			<Text>
-				True Start Location Earth
-			</Text>
-		</Row>
-		<Row Tag="LOC_TSLEARTH_DESCRIPTION">
-			<Text>
-				Civilizations start at the location of their historic capital on the Earth map.
-			</Text>
-		</Row>
-		<Row Tag="LOC_EARTH_MAP_STANDARD_NAME">
-			<Text>
-				Earth
-			</Text>
-		</Row>
-		<Row Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
-			<Text>
-				A representation of Earth with resources, terrain, and features reflecting their historic locations.
-			</Text>
-		</Row>
-		<Row Tag="LOC_EARTH_MAP_HUGE_NAME">
-			<Text>
-				Earth Huge
-			</Text>
-		</Row>
-		<Row Tag="LOC_EARTH_MAP_HUGE_DESCRIPTION">
-			<Text>
-				A larger sized representation of Earth with resources, terrain, and features reflecting their historic locations.
-			</Text>
-		</Row>
-		<Row Tag="LOC_TSL_EARTH_MAP_HUGE_NAME">
-			<Text>
-				True Start Location Earth Huge
-			</Text>
-		</Row>
-		<Row Tag="LOC_TSL_EARTH_MAP_HUGE_DESCRIPTION">
-			<Text>
-				Civilizations start at the location of their historic capital on the huge Earth map.
-			</Text>
-		</Row>
-		<Row Tag="LOC_MEDITERRANEAN_LARGE_NAME">
-			<Text>
-				Mediterranean Large
-			</Text>
-		</Row>
-		<Row Tag="LOC_MEDITERRANEAN_LARGE_DESCRIPTION">
-			<Text>
-				A large map of the greater Mediterranean region with resources, terrain, and features reflecting their historic locations.
-			</Text>
-		</Row>
-		<Row Tag="LOC_TSL_MEDITERRANEAN_LARGE_NAME">
-			<Text>
-				True Start Location Mediterranean
-			</Text>
-		</Row>
-		<Row Tag="LOC_TSL_MEDITERRANEAN_LARGE_DESCRIPTION">
-			<Text>
-				Civilizations start at the location of their historic capital on the large Mediterranean map.
-			</Text>
-		</Row>
+		<!-- Швидкості гри -->
+		<Replace Language="uk_UA" Tag="LOC_GAME_SPEED">
+			<Text> Швидкість гри </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_GAMESPEED_MARATHON_NAME">
+			<Text> Марафон </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_GAMESPEED_EPIC_NAME">
+			<Text> Неймовірна </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_GAMESPEED_STANDARD_NAME">
+			<Text> Стандарнта </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_GAMESPEED_QUICK_NAME">
+			<Text> Швидка </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_GAMESPEED_ONLINE_NAME">
+			<Text> Онлайн </Text>
+		</Replace>
 
 		<!-- Розміри карт -->
-		<Row Tag="LOC_MAP_SIZE">
-			<Text>
-				Map Size
-			</Text>
-		</Row>
-		<Row Tag="LOC_MAPSIZE_DUEL_NAME">
-			<Text>
-				Duel
-			</Text>
-		</Row>
-		<Row Tag="LOC_MAPSIZE_TINY_NAME">
-			<Text>
-				Tiny
-			</Text>
-		</Row>
-		<Row Tag="LOC_MAPSIZE_SMALL_NAME">
-			<Text>
-				Small
-			</Text>
-		</Row>
-		<Row Tag="LOC_MAPSIZE_STANDARD_NAME">
-			<Text>
-				Standard
-			</Text>
-		</Row>
-		<Row Tag="LOC_MAPSIZE_LARGE_NAME">
-			<Text>
-				Large
-			</Text>
-		</Row>
-		<Row Tag="LOC_MAPSIZE_HUGE_NAME">
-			<Text>
-				Huge
-			</Text>
-		</Row>
+		<Replace Language="uk_UA" Tag="LOC_MAP_SIZE">
+			<Text> Розмір карти </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAPSIZE_DUEL_NAME">
+			<Text> Двобій </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAPSIZE_TINY_NAME">
+			<Text> Крихітна </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAPSIZE_SMALL_NAME">
+			<Text> Мала </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAPSIZE_STANDARD_NAME">
+			<Text> Стандартна </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAPSIZE_LARGE_NAME">
+			<Text> Велика </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAPSIZE_HUGE_NAME">
+			<Text> Величезна </Text>
+		</Replace>
+
+
+		<!-- Назва та опис карт світу -->
+		<Replace Language="uk_UA" Tag="LOC_REPORTS_NOTIFICATION_DESCRIPTION">
+			<Text>Опис</Text>
+		</Replace>
+
+		<Replace Language="uk_UA" Tag="LOC_TSLEARTH_NAME">
+			<Text> Історична відповідність </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TSLEARTH_DESCRIPTION">
+			<Text> Цивілізації починаються з розташування їхньої історичної столиці на карті Землі. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_EARTH_MAP_STANDARD_NAME">
+			<Text> Земля </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
+			<Text> Земля з ресурсами, рельєфом та особливостями, що відображають їхнє історичне розташування. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_EARTH_MAP_HUGE_NAME">
+			<Text> Величезна Земля </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_EARTH_MAP_HUGE_DESCRIPTION">
+			<Text> Збільшений масштаб Землі з ресурсами, рельєфом та особливостями, що відображають їхнє історичне розташування. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TSL_EARTH_MAP_HUGE_NAME">
+			<Text> Історична відповідність на Величезній Землі </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TSL_EARTH_MAP_HUGE_DESCRIPTION">
+			<Text> Цивілізації починаються з розташування своєї історичної столиці на величезній карті Землі. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MEDITERRANEAN_LARGE_NAME">
+			<Text> Велике Середземномор'я </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MEDITERRANEAN_LARGE_DESCRIPTION">
+			<Text> Велика карта Середземноморського регіону з ресурсами, рельєфом та особливостями, що відображають їхнє історичне розташування. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TSL_MEDITERRANEAN_LARGE_NAME">
+			<Text> Історична відповідність на Середземномор'ї </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TSL_MEDITERRANEAN_LARGE_DESCRIPTION">
+			<Text> Цивілізації починаються з розташування своєї історичної столиці на великій карті Середземномор'я. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_NAME">
+			<Text>4-Leaf Clover</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_DESCRIPTION">
+			<Text>Civilizations begin in four balanced regions. The map forces players toward the center.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_NAME">
+			<Text>6-Armed Snowflake</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_DESCRIPTION">
+			<Text>Civilizations begin in six balanced regions, with City-States on nearby islands. The map forces players toward the center.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_ARCHIPELAGO_NAME">
+			<Text>Archipelago</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_ARCHIPELAGO_DESCRIPTION">
+			<Text> Багато невеликих островів з кількома більшими островами. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_CONTINENTS">
+			<Text>Continents</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_CONTINENTS_DESCRIPTION">
+			<Text> Кілька великих суходолів. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_CONTINENTS_ISLANDS_NAME">
+			<Text>Continents and Islands</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_CONTINENTS_ISLANDS_DESCRIPTION">
+			<Text>A few large landmasses surrounded by islands.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME">
+			<Text>East Asia</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION">
+			<Text>A representation of East Asia with resources, terrain, and features reflecting their historic locations.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_EUROPE_NAME">
+			<Text>Europe</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_EUROPE_DESCRIPTION">
+			<Text>A representation of Europe with resources, terrain, and features reflecting their historic locations.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_FRACTAL">
+			<Text>Fractal</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_FRACTAL_DESCRIPTION">
+			<Text> Непередбачувана карта, яка може призвести до появи одного або багатьох сухопутних масивів. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_INLANDSEA">
+			<Text>Inland Sea</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
+			<Text> Один великий океан у центрі карти. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_ISLAND_PLATES">
+			<Text>Island Plates</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
+			<Text> Острови розміром від малих до великих. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_LAKES">
+			<Text>Lakes</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_LAKES_DESCRIPTION">
+			<Text> Світ без океанів, лише озера та внутрішні моря. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_MIRROR">
+			<Text>Mirror</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_MIRROR_DESCRIPTION">
+			<Text> Випадково згенерована збалансована карта для чотирьох гравців ідеально підходить для змагальних багатокористувацьких матчів. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_PANGAEA">
+			<Text>Pangaea</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_PANGAEA_DESCRIPTION">
+			<Text> Одна масивна земля з островами довкола. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_PRIMORDIAL_NAME">
+			<Text>Primordial</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_PRIMORDIAL_DESCRIPTION">
+			<Text>A map from early time with unpredictable continents and islands. More volatile conditions exist with extra coastal lowlands and volcanoes.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_SEVEN_SEAS">
+			<Text>Seven Seas</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_SEVEN_SEAS_DESCRIPTION">
+			<Text> Кілька великих водойм, оточених сушею. У цих водах можна знайти острови. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_SHUFFLE">
+			<Text>Shuffle</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
+			<Text> Які секрети розкриє ця карта? </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_SMALL_CONTINENTS">
+			<Text>Small Continents</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_SMALL_CONTINENTS_DESCRIPTION">
+			<Text> Світ буде складатися з кількох середніх земель та деяких менших островів. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_SPLINTERED_FRACTAL_NAME">
+			<Text>Splintered Fractal</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_SPLINTERED_FRACTAL_DESCRIPTION">
+			<Text>A highly random map that will often form thin, snaky continents and islands.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_TILTED_AXIS_NAME">
+			<Text>Tilted Axis</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_TILTED_AXIS_DESCRIPTION">
+			<Text>A polar centered continents map.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TSLEUROPE_NAME">
+			<Text>True Start Location Europe</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TSLEUROPE_DESCRIPTION">
+			<Text>Civilizations start at the location of their historic capital on the Europe map.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME">
+			<Text>True Start Location East Asia</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION">
+			<Text>Civilizations start at the location of their historic capital on the Asia map.</Text>
+		</Replace>
 
 		<!-- Setup Parameters -->
-		<Row Tag="LOC_GAME_REALISM">
-			<Text>
-				Disaster Intensity
-			</Text>
-		</Row>
-		<Row Tag="LOC_GAME_REALISM_DESCRIPTION">
-			<Text>
-				Set natural disaster intensity. Choose from a setting of 0 (less frequent and intense natural disasters) to 4 (frequent and intense natural disasters). Note that on settings of 3 and 4, severe volcanic eruptions may damage tiles two hexes away.
-			</Text>
-		</Row>
-		<Row Tag="LOC_MAP_SIZE">
-			<Text>
-				Map Size
-			</Text>
-		</Row>
+		<Replace Language="uk_UA" Tag="LOC_GAME_REALISM">
+			<Text> Інтенсивність катастроф </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_GAME_REALISM_DESCRIPTION">
+			<Text> Встановіть інтенсивність стихійних лих. Виберіть значення від 0 (рідкісні та інтенсивні стихійні лиха) до 4 (часті та інтенсивні стихійні лиха). Зверніть увагу, що на значеннях 3 і 4 сильні виверження вулканів можуть пошкодити місцевість в радіусі двох тайлів. </Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_MAP_SIZE">
+			<Text> Розмір карти </Text>
+		</Replace>
+
+		<!-- Режим: Варварські клани -->
+		<Replace Language="uk_UA" Tag="LOC_GAMEMODE_BARBARIAN_CLANS_NAME">
+			<Text>Варварські клани</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_GAMEMODE_BARBARIAN_CLANS_DESCRIPTION">
+			<Text>Цей ігровий режим замінює стандартні варварські племена на різноманітний набір Кланів, кожен з яких має власну територію і бойові особливості. Крім того, режим вводить нові можливості гравця для мирної взаємодії з варварами, які надають більші стратегічні можливості.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_CLANS_MODE_DESCRIPTION">
+			<Text>Коли ви розорюєте Варварський Аванпост, отримайте нагороду "Племінне поселення" на додаток до звичайних очок досвіду. Заплатіть половину звичайної вартості для отримання юнітів міст-держав.</Text>
+		</Replace>
+
+		<!-- Режим: Мішанина -->
+		<Replace Language="uk_UA" Tag="LOC_GAMEMODE_TREE_RANDOMIZER_NAME">
+			<Text>Технологічна Мішанина</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_GAMEMODE_TREE_RANDOMIZER_DESCRIPTION">
+			<Text>Цей режим гри перемішує Научні та Цивільні дослідження в межах їхніх історичних епох, що призводить до відмінних від стандартної вартості і передумов. Дерева, що з'являються в результаті перемішування, однакові для всіх гравців. Технології залишаються прихованими, поки не буде досягнута потрібна передумова, зберігаючи таємницю до кінця гри.</Text>
+		</Replace>
+
 	</LocalizedText>
 </GameData>
