@@ -762,9 +762,6 @@
 		<Replace Language="uk_UA" Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
 			<Text>Roman unique Classical era melee unit that replaces the Swordsman. Can build a Roman Fort.</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_DISTRICT_HANSA_NAME">
-			<Text>Hansa</Text>
-		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_BATH_DESCRIPTION">
 			<Text>A district unique to Rome for city growth. Replaces the Aqueduct district and cheaper to build.[NEWLINE][NEWLINE]It provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. Must be built adjacent to the City Center. In either case, the Bath provides an additional bonus of +2 [ICON_Housing] Housing and +1 [ICON_Amenities] Amenity. Must be built adjacent to the City Center.</Text>
 		</Replace>
