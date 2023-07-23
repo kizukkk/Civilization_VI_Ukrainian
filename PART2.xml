@@ -147,5 +147,31 @@
 			<Text> Розмір карти </Text>
 		</Replace>
 
+		<!-- Історичні періоди -->
+		<Replace Language="uk_UA" Tag="LOC_ERA_ANCIENT_NAME">
+			<Text>Стародавній Світ</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ERA_CLASSICAL_NAME">
+			<Text>Античність</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ERA_MEDIEVAL_NAME">
+			<Text>Середньовіччя</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ERA_RENAISSANCE_NAME">
+			<Text>Відродження</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ERA_INDUSTRIAL_NAME">
+			<Text>Індустріалізація</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ERA_MODERN_NAME">
+			<Text>Новий Час</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ERA_ATOMIC_NAME">
+			<Text>Ера Атому</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ERA_INFORMATION_NAME">
+			<Text>Інформаційна Ера</Text>
+		</Replace>
+
 	</LocalizedText>
 </GameData>
