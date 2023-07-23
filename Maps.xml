@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+
+        <Replace Language="uk_UA" Tag="LOC_TSLEARTH_NAME">
+            <Text> Історична відповідність </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_TSLEARTH_DESCRIPTION">
+            <Text> Цивілізації стартують з розташування за історичною відповідністтю на карті Землі. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_EARTH_MAP_STANDARD_NAME">
+            <Text> Земля </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_EARTH_MAP_STANDARD_DESCRIPTION">
+            <Text> Земля з ресурсами, рельєфом та особливостями, що відображають їхнє історичне розташування. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_EARTH_MAP_HUGE_NAME">
+            <Text> Величезна Земля </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_EARTH_MAP_HUGE_DESCRIPTION">
+            <Text> Збільшений масштаб Землі з ресурсами, рельєфом та особливостями, що відображають їхнє історичне розташування. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_TSL_EARTH_MAP_HUGE_NAME">
+            <Text> Історична відповідність на Величезній Землі </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_TSL_EARTH_MAP_HUGE_DESCRIPTION">
+            <Text> Цивілізації стартують з розташування за історичною відповідністтю на величезній карті Землі. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MEDITERRANEAN_LARGE_NAME">
+            <Text> Велике Середземномор'я </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MEDITERRANEAN_LARGE_DESCRIPTION">
+            <Text> Велика карта Середземноморського регіону з ресурсами, рельєфом та особливостями, що відображають їхнє історичне розташування. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_TSL_MEDITERRANEAN_LARGE_NAME">
+            <Text> Історична відповідність на Середземномор'ї </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_TSL_MEDITERRANEAN_LARGE_DESCRIPTION">
+            <Text> Цивілізації стартують з розташування за історичною відповідністтю на великій карті Середземномор'я. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_NAME">
+            <Text>Чотирилисна Конюшина</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_BALANCEDMAPS_MAP_OPTION1_DESCRIPTION">
+            <Text>Цивілізації стартують в чотирьох збалансованих регіонах. Карта змушує гравців рухатися до центру.</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_NAME">
+            <Text>Шестикутна Сніжина</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_BALANCEDMAPS_MAP_OPTION2_DESCRIPTION">
+            <Text>Цивілізації стартують в шести збалансованих регіонах, з містами-державами на прилеглих островах. Карта змушує гравців рухатися до центру.</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_ARCHIPELAGO_NAME">
+            <Text>Архіпелаг</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_ARCHIPELAGO_DESCRIPTION">
+            <Text> Багато невеликих островів з кількома більшими островами. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_CONTINENTS">
+            <Text>Континети</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_CONTINENTS_DESCRIPTION">
+            <Text> Кілька великих суходолів. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_CONTINENTS_ISLANDS_NAME">
+            <Text>Континенти та Острови</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_CONTINENTS_ISLANDS_DESCRIPTION">
+            <Text>Кілька великих суходолів, оточених островами.</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_EAST_ASIA_STANDARD_NAME">
+            <Text>Східна Азія</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_EAST_ASIA_STANDARD_DESCRIPTION">
+            <Text>Представляє собою Східну Азію з ресурсами, рельєфом та особливостями, що відображають їх історичне розташування.</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_EUROPE_NAME">
+            <Text>Європа</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_EUROPE_DESCRIPTION">
+            <Text>Представляє собою Європу з ресурсами, рельєфом та особливостями, що відображають їх історичне розташування.</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_FRACTAL">
+            <Text>Фрактал</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_FRACTAL_DESCRIPTION">
+            <Text> Непередбачувана карта, яка може призвести до появи одного або багатьох сухопутних масивів. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_INLANDSEA">
+            <Text>Континентальне Море</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_INLANDSEA_DESCRIPTION">
+            <Text> Один великий океан у центрі карти. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_ISLAND_PLATES">
+            <Text>Група Островів</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_ISLAND_PLATES_DESCRIPTION">
+            <Text> Острови розміром від малих до великих. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_LAKES">
+            <Text>Озера</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_LAKES_DESCRIPTION">
+            <Text> Світ без океанів, лише озера та внутрішні моря. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_MIRROR">
+            <Text>Вілзеркалення</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_MIRROR_DESCRIPTION">
+            <Text> Випадково згенерована збалансована карта для чотирьох гравців ідеально підходить для змагальних багатокористувацьких матчів. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_PANGAEA">
+            <Text>Пангея</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_PANGAEA_DESCRIPTION">
+            <Text> Одна масивна земля з островами довкола. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_PRIMORDIAL_NAME">
+            <Text>Первісні Континети</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_PRIMORDIAL_DESCRIPTION">
+            <Text>Карта давніх часів з непередбачуваними континентами та островами. Більш нестабільні умови з додатковими прибережними низовинами та вулканами.</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_SEVEN_SEAS">
+            <Text>Сім Морів</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_SEVEN_SEAS_DESCRIPTION">
+            <Text> Кілька великих водойм, оточених сушею. У цих водах можна знайти острови. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_SHUFFLE">
+            <Text>Мішанина</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_SHUFFLE_DESCRIPTION">
+            <Text> Які секрети розкриє ця карта? </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_SMALL_CONTINENTS">
+            <Text>Малі Континенти</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_SMALL_CONTINENTS_DESCRIPTION">
+            <Text> Світ буде складатися з кількох середніх земель та деяких менших островів. </Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_SPLINTERED_FRACTAL_NAME">
+            <Text>Роздроблений Фрактал</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_SPLINTERED_FRACTAL_DESCRIPTION">
+            <Text>Дуже випадкова карта, яка часто утворює тонкі, зміїсті континенти та острови.</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_TILTED_AXIS_NAME">
+            <Text>Нахилена вісь</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_TILTED_AXIS_DESCRIPTION">
+            <Text>Карта материків з полярним центром.</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_TSLEUROPE_NAME">
+            <Text>Історична відповідність в Європі</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_TSLEUROPE_DESCRIPTION">
+            <Text>Цивілізації стартують за історичною відповідністтю на карті Європи.</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_NAME">
+            <Text>Історична відповідність в Східній Азії</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_TSLEAST_ASIA_STANDARD_DESCRIPTION">
+            <Text>Цивілізації стартують за історичною відповідністтю на карті Азії.</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_TERRA">
+            <Text>Терра</Text>
+        </Replace>
+        <Replace Language="uk_UA" Tag="LOC_MAP_TERRA_DESCRIPTION">
+            <Text> Карта континентів, де всі основні цивілізації починаються на найбільшому континенті. </Text>
+        </Replace>
+
+    </LocalizedText>
+</GameData>
