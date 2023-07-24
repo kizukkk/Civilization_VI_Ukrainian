@@ -410,57 +410,60 @@
 			<Text>Королівська Пажеська школа</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_BASILIKOI_PAIDES_EXPANSION2_DESCRIPTION">
-			<Text> Унікальна для Македонії будівля. +25% бойового досвіду для всіх юнітів ближнього бою, дальнобійних юнітів і Гетайрів, що створюються в цьому місті. Отримайте [ICON_SCIENCE] Науку, що дорівнює 25% від вартості юніта, коли в цьому місті створюється військовий юніт.[NEWLINE][NEWLINE]Не може бути побудована в Військовому таборі, де вже є Конюшня. [NEWLINE]</Text>
+			<Text>Унікальна для Македонії будівля. +25% бойового досвіду для всіх юнітів ближнього бою, дальнобійних юнітів і Гетайрів, що створюються в цьому місті. Отримайте [ICON_SCIENCE] Науку, що дорівнює 25% від вартості юніта, коли в цьому місті створюється військовий юніт.[NEWLINE][NEWLINE]Не може бути побудована в Військовому таборі, де вже є Конюшня. [NEWLINE]</Text>
 		</Replace>
 
 		<!-- Потребує перекладу/радагування -->
 
 		<!-- SUMERIA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SUMERIA_NAME">
-			<Text>Sumeria</Text>
+			<Text>Шумер</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_NAME">
-			<Text>Epic Quests</Text>
+			<Text>Героїчні Пошуки</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_FIRST_CIVILIZATION_DESCRIPTION">
-			<Text>When you capture a Barbarian Outpost, receive a Tribal Village reward in addition to the usual [ICON_Gold] Gold. Pay half the usual cost to levy city-state units.</Text>
+			<Text>Коли ви розорюєте Варварський Аванпост, отримайте нагороду "Племінне поселення" на додаток до звичайного [ICON_Gold] Золота. Заплатіть половину звичайної вартості, щоб стягувати юнітів міста-держави.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_SUMERIAN_WAR_CART_NAME">
-			<Text>War-Cart</Text>
+			<Text>Колісниця</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_SUMERIAN_WAR_CART_DESCRIPTION">
-			<Text>Sumerian unique Ancient era unit. Stronger than all other starting units. No penalties against anti-cavalry units. 4 [ICON_Movement] Movement if this unit starts in open terrain.</Text>
+			<Text>Унікальний шумерський юніт Стародавньої епохи. Сильніший за всіх інших початкових юнітів. Не має штрафів проти антикавалерійських юнітв. 4 [ICON_Movement] Дії, якщо цей підрозділ починає на відкритій місцевості.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_ZIGGURAT_NAME">
-			<Text>Ziggurat</Text>
+			<Text>Зикурат</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct a Ziggurat, unique to Sumeria.[NEWLINE][NEWLINE]+2 [ICON_Science] Science. +1 [ICON_Culture] Culture if next to River. Cannot be built on Hills.</Text>
+			<Text>Розблоковує можливість Батракам будувати унікальний для Шумер Зикурат.[NEWLINE][NEWLINE]+2 [ICON_Science] Науки. +1 [ICON_Culture] Культури, якщо поруч з річкою. Не можна будувати на пагорбах.</Text>
 		</Replace>
 
 		<!-- GREECE -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_GREECE_NAME">
-			<Text>Greece</Text>
+			<Text>Греція</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_NAME">
-			<Text>Plato's Republic</Text>
+			<Text>Політея</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PLATOS_REPUBLIC_DESCRIPTION">
-			<Text>One extra Wildcard policy slot in any government.</Text>
+			<Text>Один додатковий слот для Універсальної політики в будь-якому уряді.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_GREEK_HOPLITE_NAME">
-			<Text>Hoplite</Text>
+			<Text>Гопліти</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_GREEK_HOPLITE_DESCRIPTION">
-			<Text>Greek unique Ancient era anti-cavalry unit that replaces the Spearman. +10 [ICON_Strength] Combat Strength if there is at least one adjacent Hoplite unit.</Text>
+			<Text>Грецький унікальний Стародавній юніт, який замінює Списоновців. +10 [ICON_Strength] Атаки, якщо поруч є хоча б один юніт Гоплітів.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_ACROPOLIS_NAME">
-			<Text>Acropolis</Text>
+			<Text>Акрополь</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_ACROPOLIS_DESCRIPTION">
-			<Text>A district unique to Greece for cultural sites. Replaces the Theater Square district and cheaper to build. Awards 1 [ICON_Envoy] Envoy when completed.[NEWLINE][NEWLINE]+1 [ICON_Culture] Culture bonus for adjacent City Center. +1 [ICON_Culture] Culture bonus for each adjacent wonder and district. Can only be built on Hills.</Text>
+			<Text>Унікальний для Греції район культурних експонатів. Замінює район Театральної площі і дешевший у будівництві. Надає 1 [ICON_Envoy] Посланця після завершення.[NEWLINE][NEWLINE]+1 [ICON_Culture] Культури бонусом за сусідство з центром міста. +1 [ICON_Culture] Культури бонусом за кожне сусіднє диво та район. Можна побудувати лише на пагорбах.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_ACROPOLIS_EXPANSION2_DESCRIPTION">
+			<Text>Унікальний для Греції район культурних експонатів. Замінює район Театральної площі і дешевший у будівництві. Надає 1 [ICON_Envoy] Посланця після завершення.[NEWLINE][NEWLINE]+1 [ICON_Culture] Культури бонусом за сусідство з центром міста. +1 [ICON_Culture] Культури бонусом за кожне сусіднє диво та район. Можна побудувати лише на пагорбах.</Text>
 		</Replace>
 
 		<!-- NORWAY -->
@@ -1072,7 +1075,7 @@
 			<Text>Kampung</Text>
 		</Row>
 		<Row Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct a Kampung, unique to Indonesia.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production and +1 [ICON_Housing] Housing. +1 [ICON_FOOD] Food for each adjacent Fishing Boat. Additional [ICON_PRODUCTION] Production, [ICON_Housing] Housing, and  [ICON_TOURISM] Tourism as you advance through the Technology and Civics Tree. Must be placed on a Coast or Lake tile adjacent to a sea resource.</Text>
+			<Text>Unlocks the Builder ability to construct a Kampung, unique to Indonesia.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production and +1 [ICON_Housing] Housing. +1 [ICON_FOOD] Food for each adjacent Fishing Boat. Additional [ICON_PRODUCTION] Production, [ICON_Housing] Housing, and [ICON_TOURISM] Tourism as you advance through the Technology and Civics Tree. Must be placed on a Coast or Lake tile adjacent to a sea resource.</Text>
 		</Row>
 
 		<!-- POLAND -->
@@ -1136,19 +1139,19 @@
 			<Text>Khmer unique building: Prasat</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_EXPANSION1_DESCRIPTION">
-			<Text>Cities with an Aqueduct receive +1  [ICON_AMENITIES] Amenity from entertainment and +1 [ICON_FAITH] Faith for every [ICON_CITIZEN] population. Farms provide +2 [ICON_FOOD] Food if adjacent to an Aqueduct and +1 [ICON_FAITH] Faith if adjacent to a Holy Site.</Text>
+			<Text>Cities with an Aqueduct receive +1 [ICON_AMENITIES] Amenity from entertainment and +1 [ICON_FAITH] Faith for every [ICON_CITIZEN] population. Farms provide +2 [ICON_FOOD] Food if adjacent to an Aqueduct and +1 [ICON_FAITH] Faith if adjacent to a Holy Site.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_EXPANSION2_DESCRIPTION">
-			<Text>Cities with an Aqueduct receive +1  [ICON_AMENITIES] Amenity from entertainment and +1 [ICON_FAITH] Faith for every [ICON_CITIZEN] population. Farms provide +2 [ICON_FOOD] Food if adjacent to an Aqueduct and +1 [ICON_FAITH] Faith if adjacent to a Holy Site.</Text>
+			<Text>Cities with an Aqueduct receive +1 [ICON_AMENITIES] Amenity from entertainment and +1 [ICON_FAITH] Faith for every [ICON_CITIZEN] population. Farms provide +2 [ICON_FOOD] Food if adjacent to an Aqueduct and +1 [ICON_FAITH] Faith if adjacent to a Holy Site.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME">
 			<Text>Khmer unique unit: Domrey</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION1_DESCRIPTION">
-			<Text>Holy Sites are granted a Major adjacency with Rivers, a Culture Bomb, [ICON_FOOD] Food equal to its adjacency bonus, and +2  [ICON_Housing] Housing if on a River.</Text>
+			<Text>Holy Sites are granted a Major adjacency with Rivers, a Culture Bomb, [ICON_FOOD] Food equal to its adjacency bonus, and +2 [ICON_Housing] Housing if on a River.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION2_DESCRIPTION">
-			<Text>Holy Sites are granted a Major adjacency with Rivers, a Culture Bomb, [ICON_FOOD] Food equal to its adjacency bonus, and +2  [ICON_Housing] Housing if on a River.</Text>
+			<Text>Holy Sites are granted a Major adjacency with Rivers, a Culture Bomb, [ICON_FOOD] Food equal to its adjacency bonus, and +2 [ICON_Housing] Housing if on a River.</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_KHMER_DOMREY_NAME">
 			<Text>Domrey</Text>
