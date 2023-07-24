@@ -238,39 +238,40 @@
 			<Text>Не може будувати райони Священих місць, отримувати Великих Пророків або засновувати Релігії. Отримує всі вірування будь-якої релігії, яка утвердилася в більшості його міст. Отримує Апостола щоразу, коли завершує район Мбанза або Театральної площі (релігії, яка домінує в цьому місті).</Text>
 		</Replace>
 
-		<!-- Не перекладено -->
-		<!-- PEDRO -->
+		<!-- Педру -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_PEDRO_NAME">
-			<Text>Pedro II</Text>
+			<Text>Педру II</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
-			<Text>Magnanimous</Text>
+			<Text>Велекодушність</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_DESCRIPTION">
-			<Text>After recruiting or patronizing a [ICON_GreatPerson] Great Person, 20% of its [ICON_GreatPerson] Great Person point cost is refunded.</Text>
+			<Text>Після рекрутування або патронажу [ICON_GreatPerson] Великої Людини повертається 20% від вартості [ICON_GreatPerson] Великої Людини.</Text>
 		</Replace>
 
-		<!-- PERICLES -->
+		<!-- Перікл -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_PERICLES_NAME">
-			<Text>Pericles</Text>
+			<Text>Перікл</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_NAME">
-			<Text>Surrounded by Glory</Text>
+			<Text>Оточений Славою</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_SURROUNDED_BY_GLORY_DESCRIPTION">
-			<Text>+5% [ICON_Culture] Culture per city-state you are the Suzerain of.</Text>
+			<Text>+5% [ICON_Culture] Культури за місто-державу, Сюзереном якого ви є.</Text>
 		</Replace>
 
-		<!-- PETER -->
+		<!-- Пьотр -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_PETER_GREAT_NAME">
-			<Text>Peter</Text>
+			<Text>Пьотр Другий</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
-			<Text>The Grand Embassy</Text>
+			<Text>Велике Посольство</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_DESCRIPTION">
-			<Text>Receives [ICON_Science] Science or [ICON_Culture] Culture from [ICON_TradeRoute] Trade Routes to civilizations that are more advanced than Russia. +1 per 3 technologies or civics ahead.</Text>
+			<Text>Отримує [ICON_Science] Науку або [ICON_Culture] Культуру з [ICON_TradeRoute] Торгових шляхи до цивілізацій, які є більш розвиненими, ніж росія. +1 за кожні три Научні або Цивільні технелогій попереду.</Text>
 		</Replace>
+
+		<!-- Не перекладено -->
 
 		<!-- PHILIP 2 -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_PHILIP_II_NAME">
