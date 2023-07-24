@@ -385,7 +385,7 @@
 		</Replace>
 
 		<!-- MACEDON -->
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_MACEDON_NAME">
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MACEDON_NAME">
 			<Text>Македонія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_HELLENISTIC_FUSION_NAME">
