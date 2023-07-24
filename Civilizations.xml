@@ -413,8 +413,6 @@
 			<Text>Унікальна для Македонії будівля. +25% бойового досвіду для всіх юнітів ближнього бою, дальнобійних юнітів і Гетайрів, що створюються в цьому місті. Отримайте [ICON_SCIENCE] Науку, що дорівнює 25% від вартості юніта, коли в цьому місті створюється військовий юніт.[NEWLINE][NEWLINE]Не може бути побудована в Військовому таборі, де вже є Конюшня. [NEWLINE]</Text>
 		</Replace>
 
-		<!-- Потребує перекладу/радагування -->
-
 		<!-- SUMERIA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SUMERIA_NAME">
 			<Text>Шумер</Text>
@@ -466,35 +464,38 @@
 			<Text>Унікальний для Греції район культурних експонатів. Замінює район Театральної площі і дешевший у будівництві. Надає 1 [ICON_Envoy] Посланця після завершення.[NEWLINE][NEWLINE]+1 [ICON_Culture] Культури бонусом за сусідство з центром міста. +1 [ICON_Culture] Культури бонусом за кожне сусіднє диво та район. Можна побудувати лише на пагорбах.</Text>
 		</Replace>
 
+
 		<!-- NORWAY -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_NORWAY_NAME">
-			<Text>Norway</Text>
+			<Text>Норвегія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_NAME">
-			<Text>Knarr</Text>
+			<Text>Кнор</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_EARLY_OCEAN_NAVIGATION_DESCRIPTION">
-			<Text>Units gain the ability to enter Ocean tiles after researching the Shipbuilding technology. Naval melee units heal in neutral territory. Units ignore additional [ICON_Movement] Movement costs from embarking and disembarking.</Text>
+			<Text>Юніти отримують можливість входити в тайли океану після дослідження технології Кораблебудування. Морські юніти ближнього бою можуть зцілюватись на нейтральній території. Юніти ігнорують додаткові витрати [ICON_Movement] Дії на пересування від посадки та висадки.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_NORWEGIAN_BERSERKER_NAME">
-			<Text>Berserker</Text>
+			<Text>Берсерки</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_NORWEGIAN_BERSERKER_DESCRIPTION">
-			<Text>Norwegian unique Medieval era melee unit that replaces the Man-At-Arms. 4 [ICON_Movement] Movement if this unit starts in enemy territory. +10 [ICON_Strength] Combat Strength when attacking and -5 [ICON_Strength] Combat Strength when defending against melee attacks.</Text>
+			<Text>Унікальний норвезький юніт ближнього бою епохи Середньовіччя, який замінює Важких латників. 4 [ICON_Movement] Дії, якщо цей юніт починає рух на ворожій території. +10 [ICON_Strength] Атаки при нападі та -5 [ICON_Strength] Атаки при захисті від ближнього бою.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_NAME">
-			<Text>Viking Longship</Text>
+			<Text>Дракар</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_NORWEGIAN_LONGSHIP_DESCRIPTION">
-			<Text>Norwegian unique Ancient era naval unit that replaces the Galley. Can pillage enemy coastal lands and capture civilians if adjacent using its coastal raiding ability. 4 [ICON_Movement] Movement while in coastal waters.</Text>
+			<Text>Норвезький унікальний юніт флоту Стародавньої епохи, яка замінює Галери. Може грабувати ворожі прибережні землі та захоплювати цивільних, якщо вони знаходяться поруч, використовуючи свою здатність до прибережних рейдів. 4 [ICON_Movement] Дії в прибережних водах.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_STAVE_CHURCH_NAME">
-			<Text>Stave Church</Text>
+			<Text>Ставкірка</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_STAVE_CHURCH_DESCRIPTION">
-			<Text>A building unique to Norway. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith. Holy Site districts get an additional standard adjacency bonus from Woods. +1 [ICON_PRODUCTION] Production to each coastal resource tile in this city.</Text>
+			<Text>Унікальна для Норвегії будівля. Необхідна для придбання Апостолів та Інквізиторів за [ICON_Faith] Віру. Райони Священих місць отримують додатковий бонус сусідства від Лісів. +1 [ICON_PRODUCTION] Виробництва до кожного тайла прибережних ресурсів у цьому місті.[NEWLINE]</Text>
 		</Replace>
+
+		<!-- Потребує перекладу/радагування -->
 
 		<!-- JAPAN -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_JAPAN_NAME">
