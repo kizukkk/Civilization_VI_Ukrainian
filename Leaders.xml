@@ -240,7 +240,7 @@
 
 		<!-- Педру -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_PEDRO_NAME">
-			<Text>Педру II</Text>
+			<Text>Педру Другий</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_MAGNANIMOUS_NAME">
 			<Text>Велекодушність</Text>
@@ -262,7 +262,7 @@
 
 		<!-- Пьотр -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_PETER_GREAT_NAME">
-			<Text>Пьотр Другий</Text>
+			<Text>Пьотр I</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_GRAND_EMBASSY_NAME">
 			<Text>Велике Посольство</Text>
@@ -271,106 +271,114 @@
 			<Text>Отримує [ICON_Science] Науку або [ICON_Culture] Культуру з [ICON_TradeRoute] Торгових шляхи до цивілізацій, які є більш розвиненими, ніж росія. +1 за кожні три Научні або Цивільні технелогій попереду.</Text>
 		</Replace>
 
-		<!-- Не перекладено -->
 
-		<!-- PHILIP 2 -->
+		<!-- Філіп 2 -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_PHILIP_II_NAME">
-			<Text>Philip II</Text>
+			<Text>Філіп Другий</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_NAME">
-			<Text>El Escorial</Text>
+			<Text>Ель Ескоріал</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_DESCRIPTION">
-			<Text>Inquisitors can Remove Heresy one extra time. Combat and Religious units have a bonus of +5 [ICON_Strength] Combat Strength against players following other Religions.</Text>
+			<Text>Інквізитори можуть Винищити Єресь на одинцю більше. Бойові та Релігійні юніти мають бонус +5 [ICON_Strength] Атаки проти гравців, які сповідують інші релігії.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_EL_ESCORIAL_EXPANSION2_DESCRIPTION">
+			<Text>Інквізитори можуть Винищити Єресь на одинцю більше. Бойові та Релігійні юніти мають бонус +5 [ICON_Strength] Атаки проти гравців, які сповідують інші релігії.</Text>
 		</Replace>
 
-		<!-- QIN -->
+
+		<!-- Цінь -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_QIN_NAME">
-			<Text>Qin Shi Huang</Text>
+			<Text>Цінь Ши Хуан-ді</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_NAME">
-			<Text>The First Emperor</Text>
+			<Text>Перший Імператор Цінь</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_DESCRIPTION">
-			<Text>When building Ancient and Classical wonders you may spend Builder charges to complete 15% of the original wonder cost. Builders receive an additional charge.</Text>
+			<Text>При будівництві Див Стародавніх і Античних епох ви можете витратити заряд Батраків, щоб скинути 15% від початкової вартості Дива. Батраки отримують додатковий заряд.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_FIRST_EMPEROR_EXPANSION2_DESCRIPTION">
+			<Text>При будівництві Див Стародавніх і Античних епох ви можете витратити заряд Батраків, щоб скинути 15% від початкової вартості Дива. Батраки отримують додатковий заряд.</Text>
 		</Replace>
 
-		<!-- SALADIN -->
+		<!-- Салах -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_SALADIN_NAME">
-			<Text>Saladin</Text>
+			<Text>Салах ед Дін</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_NAME">
-			<Text>Righteousness of the Faith</Text>
+			<Text>Праведність Віри</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RIGHTEOUSNESS_OF_FAITH_DESCRIPTION">
-			<Text>The worship building for their Religion can be purchased by any player for just one-tenth of the usual [ICON_Faith] Faith cost. This worship building is enhanced to add 10% to the [ICON_Science] Science, [ICON_Faith] Faith, and [ICON_Culture] Culture output of Arabian cities.</Text>
+			<Text>Будівля Культу для своєї релігії може бути придбана будь-яким гравцем лише за десяту частину звичайної вартості [ICON_Faith] Віри. Будівля Культу додає 10% до показників [ICON_Science] Науки, [ICON_Faith] Віри та [ICON_Culture] Культури арабським містам.</Text>
 		</Replace>
 
-		<!-- ROOSEVELT -->
+		<!-- Рузвельт -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_T_ROOSEVELT_NAME">
-			<Text>Teddy Roosevelt</Text>
+			<Text>Теодор Рузвельт</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_NAME">
-			<Text>Roosevelt Corollary</Text>
+			<Text>Висновки Рузвельта</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_ROOSEVELT_COROLLARY_DESCRIPTION">
-			<Text>Units receive a +5 [ICON_Strength] Combat Strength on their home continent. +1 Appeal to all tiles in a city with a National Park. Gain the Rough Rider unique unit when they research the Rifling technology.</Text>
+			<Text>Юніти отримують +5 [ICON_Strength] Атаки на своєму рідному континенті. +1 Привабливість до всіх тайлів у місті з Національним парком. Отримайте унікального Брутального Вершника, при дослідження технології Нарізання.</Text>
 		</Replace>
 
-		<!-- TOMYRIS -->
+		<!-- Томіріс -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_TOMYRIS_NAME">
-			<Text>Tomyris</Text>
+			<Text>Томіріс</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_NAME">
-			<Text>Killer of Cyrus</Text>
+			<Text>Вбивця Кіра Великого</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_KILLER_OF_CYRUS_DESCRIPTION">
-			<Text>All units receive +5 [ICON_Strength] Combat Strength when attacking wounded units. When they eliminate a unit, they heal up to 30 hit points.</Text>
+			<Text>Всі юніти отримують +5 [ICON_Strength] Атаки, коли нападають на поранених юнітів. Коли вони знищують юніта, то зцілюють до 30 Здоров'я.</Text>
 		</Replace>
 
-		<!-- TRAJAN -->
+		<!-- Траян -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_TRAJAN_NAME">
-			<Text>Trajan</Text>
+			<Text>Траян</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_NAME">
-			<Text>Trajan's Column</Text>
+			<Text>Колона Траяна</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_TRAJANS_COLUMN_DESCRIPTION">
-			<Text>All cities start with an additional City Center building. (Starts with a Monument building in the Ancient era).</Text>
+			<Text>Всі міста отримують додаткову будівлі Центра міста. (Отримує Монумент в Стародавій епосі).</Text>
 		</Replace>
 
-		<!-- VICTORIA -->
+		<!-- Вікторія -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_VICTORIA_NAME">
-			<Text>Victoria</Text>
+			<Text>Вікторія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_PAX_BRITANNICA_NAME">
-			<Text>Pax Britannica</Text>
+			<Text>Британський мир</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_PAX_BRITANNICA_EXPANSION2_DESCRIPTION">
-			<Text>Each time you found your first city on a continent other than your home continent receive a free melee unit and a [ICON_TradeRoute] Trade Route capacity. Constructing any Royal Navy Dockyard grants you a copy of the strongest naval unit you can build. Gain the Redcoat unique unit when the Military Science technology is researched.</Text>
+			<Text>Щоразу, коли ви виявляєте перше місто на континенті, відмінному від вашого рідного, ви отримуєте безкоштовного юніта ближнього бою і [ICON_TradeRoute] Торговий шлях. Побудувавши Королівську верфь, ви отримуєте копію найсильнішого юніта флоту, якого ви можете натренувати. Отримайте унікального Червоного мундира, коли досліджуєте технологію Військова справа.</Text>
 		</Replace>
 
-		<!-- WILHELMINA -->
+		<!-- Вільгельміна -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_WILHELMINA_NAME">
-			<Text>Wilhelmina</Text>
+			<Text>Вільгельміна</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_RADIO_ORANJE_NAME">
-			<Text>Radio Oranje</Text>
+			<Text>Радіо Oranje</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_RADIO_ORANJE_DESCRIPTION">
-			<Text>Your [ICON_TradeRoute] Trade Routes to your own cities provide +2 Loyalty per turn for the starting city. [ICON_TradeRoute] Trade Routes to foreign cities or from foreign cities provide +2 [ICON_Culture] Culture to you.</Text>
+			<Text>Ваші [ICON_TradeRoute] Торгові шляхи до власних міст дають +2 Прихильності за хід для власного міста. [ICON_TradeRoute] Торгові шляхи до інших міст або з інших міст дають вам +2 [ICON_Culture] Культури.</Text>
 		</Replace>
 
-		<!-- TAMAR -->
+		<!-- Тамар -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_TAMAR_NAME">
-			<Text>Tamar</Text>
+			<Text>Тамар</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_NAME">
-			<Text>Glory of the World, Kingdom and Faith</Text>
+			<Text>Слава Світу, Царства і Віри</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_RELIGION_CITY_STATES_DESCRIPTION">
-			<Text>Combat victories provide [ICON_FAITH] Faith equal to 50% of the Combat Strength of the defeated unit (on Standard Speed). Each [ICON_ENVOY] Envoy you send to a city-state of your majority Religion counts as two [ICON_ENVOY] Envoys. (Must have a majority Religion). </Text>
+			<Text>Бойові перемоги дають [ICON_FAITH] Віру, що дорівнює 50% від Атаки переможеного підрозділу (на стандартній швидкості). Кожен [ICON_ENVOY] Посланець, якого ви відправляєте до міста-держави, яка підвладна вашій релігії, вважається за двох [ICON_ENVOY] Посланців. </Text>
 		</Replace>
+
+		<!-- Не перекладено -->
 
 		<!-- SHAKA -->
 		<Replace Language="uk_UA" Tag="LOC_LEADER_SHAKA_NAME">
@@ -437,7 +445,6 @@
 		<Row Tag="LOC_TRAIT_LEADER_GENGHIS_KHAN_ABILITY_DESCRIPTION">
 			<Text>All cavalry class units gain +3 [ICON_Strength] Combat Strength and a chance to capture defeated enemy cavalry class units.</Text>
 		</Row>
-
 
 		<!-- GITARJA -->
 		<Row Tag="LOC_LEADER_GITARJA_NAME">
