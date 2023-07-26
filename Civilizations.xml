@@ -495,55 +495,61 @@
 			<Text>Унікальна для Норвегії будівля. Необхідна для придбання Апостолів та Інквізиторів за [ICON_Faith] Віру. Райони Священих місць отримують додатковий бонус сусідства від Лісів. +1 [ICON_PRODUCTION] Виробництва до кожного тайла прибережних ресурсів у цьому місті.[NEWLINE]</Text>
 		</Replace>
 
-		<!-- Потребує перекладу/радагування -->
-
 		<!-- JAPAN -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_JAPAN_NAME">
-			<Text>Japan</Text>
+			<Text>Японія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_NAME">
-			<Text>Meiji Restoration</Text>
+			<Text>Реставрація Мейджі</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_ADJACENT_DISTRICTS_DESCRIPTION">
-			<Text>All districts receive an additional standard adjacency bonus for being adjacent to another district.</Text>
+			<Text>Всі райони отримують додатковий стандартний бонус за сусідство з іншими районами за те, що вони межують з ними.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_JAPANESE_SAMURAI_NAME">
-			<Text>Samurai</Text>
+			<Text>Самураї</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_JAPANESE_SAMURAI_DESCRIPTION">
-			<Text>Japanese unique Medieval era melee unit that replaces the Man-At-Arms. Does not suffer combat penalties when damaged.</Text>
+			<Text>Унікальний японський юніт ближнього бою епохи Середньовіччя, який замінює Важких латників. Не отримує бойових штрафів при пораненні.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_ELECTRONICS_FACTORY_NAME">
-			<Text>Electronics Factory</Text>
+			<Text>Фабрика електроніки</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_ELECTRONICS_FACTORY_DESCRIPTION">
-			<Text>A building unique to Japan. +4 [ICON_Production] Production to all city centers within 6 tiles. After researching the Electricity technology this building provides an additional +4 [ICON_Culture] Culture to its city. This bonus applies once to a city, and multiple copies of this building within 6 tiles of a city center do not provide additional bonuses.</Text>
+			<Text>Унікальна для Японії будівля. +4 [ICON_Production] Виробництва до всіх центрів міст в межах 6 тайлів. Після дослідження технології Електрика ця будівля дає додатково +4 [ICON_Culture] Культури своєму місту. Цей бонус застосовується один раз до міста, і кілька копій цієї будівлі в межах 6 тайлів від центру міста не дають додаткових бонусів.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_ELECTRONICS_FACTORY_EXPANSION2_DESCRIPTION">
+			<Text>Унікальна для Японії будівля. +4 [ICON_Production] Виробництва до всіх центрів міст в межах 6 тайлів. Після дослідження технології Електрика ця будівля дає додатково +4 [ICON_Culture] Культури своєму місту. Цей бонус застосовується один раз до міста, і кілька копій цієї будівлі в межах 6 тайлів від центру міста не дають додаткових бонусів.</Text>
 		</Replace>
 
 		<!-- AZTEC -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_AZTEC_NAME">
-			<Text>Aztec</Text>
+			<Text>Ацтеки</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_NAME">
-			<Text>Legend of the Five Suns</Text>
+			<Text>Легенда П'яти Сонць</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_LEGEND_FIVE_SUNS_DESCRIPTION">
-			<Text>Spend Builder charges to complete 20% of the original district cost.</Text>
+			<Text>Витрата заряду Батраків для завершення 20% від початкової вартості району.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_NAME">
-			<Text>Eagle Warrior</Text>
+			<Text>Воїни-орли</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_AZTEC_EAGLE_WARRIOR_DESCRIPTION">
-			<Text>Aztec unique Ancient era unit that replaces the Warrior. Has a chance to capture other civilization's military units by turning them into Builders.</Text>
+			<Text>Унікальний юніт Ацнеків Стародавньої епохи, який замінює Воїнів. Має можливість захоплювати військових юнітів інших цивілізацій, перетворюючи їх на Батраків.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_TLACHTLI_NAME">
-			<Text>Tlachtli</Text>
+			<Text>Тлатлі</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_TLACHTLI_DESCRIPTION">
-			<Text>A building unique to the Aztecs. Provides 2 [ICON_Amenities] Amenities, +1 [ICON_Culture] Culture, +2 [ICON_Faith] Faith, and a [ICON_GreatGeneral] Great General Point.</Text>
+			<Text>Унікальна будівля Ацтеків. Дає 2 [ICON_Amenities] Задоволення, +1 [ICON_Culture] Культури, +2 [ICON_Faith] Віри і очків [ICON_GreatGeneral] Великого Стратега.</Text>
 		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_TLACHTLI_EXPANSION1_DESCRIPTION">
+			<Text>Унікальна будівля Ацтеків. Дає 2 [ICON_Amenities] Задоволення, +1 [ICON_Culture] Культури, +2 [ICON_Faith] Віри і очків [ICON_GreatGeneral] Великого Стратега.</Text>
+		</Replace>
+
+		<!-- Потребує перекладу/радагування -->
 
 		<!-- KONGO -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_KONGO_NAME">
@@ -1222,8 +1228,5 @@
 			<Text>+50% Earned experience from combat. (Ta-Seti)</Text>
 		</Row>
 
-
 	</LocalizedText>
-
-
 </GameData>
