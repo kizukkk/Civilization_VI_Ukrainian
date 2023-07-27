@@ -99,10 +99,10 @@
 			<Text> Унікальний для Англії район флоту у місті. Замінює Портовий район. Також знімає штраф [ICON_Movement] Дії за посадку і висадку на цей тайл, і з нього. Має бути побудований на Узбережжі або Озері, що прилягає до суші.[NEWLINE][NEWLINE]+1 [ICON_Movement] Дії для всіх юнітів флоту, побудованих у Верфі[NEWLINE]+2 [ICON_Gold] Золота і +4 Прихильністі за хід, якщо побудований на чужому континенті. Не може бути побудований на Рифах[NEWLINE] </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_ENGLISH_REDCOAT_NAME">
-			<Text>Redcoat</Text>
+			<Text>Червонімундири</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_ENGLISH_REDCOAT_DESCRIPTION">
-			<Text>English unique Industrial era unit when Victoria is their leader that replaces the Line Infantry. +10 [ICON_Strength] Combat Strength when fighting on a continent other than that of your capital's. No disembark cost.</Text>
+			<Text>Унікальний юніт Англії Індустріальної епохи, який замінює Лінійну піхоту, коли лідером є Вікторія. +10 [ICON_Strength] Атаки, якщо ви воюєте на континенті, відмінному від континенту вашої столиці. Немає штрафів за висадку.</Text>
 		</Replace>
 
 		<!-- France -->
