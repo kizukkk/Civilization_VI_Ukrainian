@@ -553,26 +553,26 @@
 
 		<!-- KONGO -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_KONGO_NAME">
-			<Text>Kongo</Text>
+			<Text>Конго</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_NKISI_NAME">
-			<Text>Nkisi</Text>
+			<Text>Нкісі</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_NKISI_DESCRIPTION">
-			<Text>+2 [ICON_Food] Food, +2 [ICON_Production] Production, +1 [ICON_Faith] Faith, and +4 [ICON_Gold] Gold from each [ICON_GreatWork_Relic] Relic, [ICON_GreatWork_Artifact] Artifact, and Sculpture [ICON_GreatWork_Sculpture] Great Work of Art in addition to the usual [ICON_Culture] Culture. Receive 50% more [ICON_GreatArtist] Great Artist, [ICON_GreatMusician] Great Musician, and [ICON_GreatMerchant] Great Merchant points. Palace has slots for 5 Great Works.</Text>
+			<Text>+2 [ICON_Food] Їжі, +2 [ICON_Production] Виробництва, +1 [ICON_Faith] Віри та +4 [ICON_Gold] Золота з кожної [ICON_GreatWork_Relic] Реліквії, [ICON_GreatWork_Artifact] Артефакта та Скульптури [ICON_GreatWork_Sculpture] Великого Витвору Мистецтва на додаток до звичайної [ICON_Culture] Культури. Отримайте на 50% більше очок [ICON_GreatArtist] Великого художника, [ICON_GreatMusician] Великого музиканта та [ICON_GreatMerchant] Великого торговця. У Резиденції є слоти для 5 Великих творів.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_KONGO_SHIELD_BEARER_NAME">
-			<Text>Ngao Mbeba</Text>
+			<Text>Нґао Мбеба</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_KONGO_SHIELD_BEARER_DESCRIPTION">
-			<Text>Kongo unique Classical era unit that replaces the Swordsman. +10 [ICON_Strength] Combat Strength when defending against ranged attacks. Can move and see through Woods and Rainforest.</Text>
+			<Text>Унікальний юніт Конго Античністі, який замінює Мечників. +10 [ICON_Strength] Атаки при захисті від дальніх атак. Може пересуватися і бачити крізь Ліса і Тропічні ліса.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_MBANZA_NAME">
-			<Text>Mbanza</Text>
+			<Text>М'Банза</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_MBANZA_DESCRIPTION">
-			<Text>A district unique to Kongo that can only be constructed in Rainforest or Woods. Replaces the Neighborhood district but is available earlier and cheaper to build. Provides +5 [ICON_Housing] Housing , +2 [ICON_Food] Food, and +4 [ICON_Gold] Gold, regardless of Appeal.</Text>
+			<Text>Унікальний для Конго район, який можна побудувати лише в Тропічному лісі або в Лісі. Замінює Житловий квартал, але доступний раніше і дешевший у будівництві. Дає +5 [ICON_Housing] Житла, +2 [ICON_Food] Їжі та +4 [ICON_Gold] Золота незалежно від Привабливісті.</Text>
 		</Replace>
 
 		<!-- BRAZIL -->
@@ -1088,6 +1088,9 @@
 		<!-- POLAND -->
 		<Row Tag="LOC_CIVILIZATION_POLAND_NAME">
 			<Text>Poland</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_POLAND_DESCRIPTION">
+			<Text>Polish Empire</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME">
 			<Text>Golden Liberty</Text>
