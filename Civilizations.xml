@@ -549,8 +549,6 @@
 			<Text>Унікальна будівля Ацтеків. Дає 2 [ICON_Amenities] Задоволення, +1 [ICON_Culture] Культури, +2 [ICON_Faith] Віри і очків [ICON_GreatGeneral] Великого Стратега.</Text>
 		</Replace>
 
-		<!-- Потребує перекладу/радагування -->
-
 		<!-- KONGO -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_KONGO_NAME">
 			<Text>Конго</Text>
@@ -575,34 +573,45 @@
 			<Text>Унікальний для Конго район, який можна побудувати лише в Тропічному лісі або в Лісі. Замінює Житловий квартал, але доступний раніше і дешевший у будівництві. Дає +5 [ICON_Housing] Житла, +2 [ICON_Food] Їжі та +4 [ICON_Gold] Золота незалежно від Привабливісті.</Text>
 		</Replace>
 
+		<!-- Потребує перекладу/радагування -->
+
 		<!-- BRAZIL -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_BRAZIL_NAME">
-			<Text>Brazil</Text>
+			<Text>Бразилія</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_BRAZIL_DESCRIPTION">
+			<Text>Бразильска Імперія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_NAME">
-			<Text>Amazon</Text>
+			<Text>Амазонка</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_AMAZON_DESCRIPTION">
-			<Text>Rainforest tiles provide +1 adjacency bonus for Campus, Commercial Hub, Holy Site, and Theater Square districts, and grant +1 Appeal to adjacent tiles, instead of the usual -1.</Text>
+			<Text>Тайли тропічних лісів дають +1 бонус для районів Кампус, Центр Комерації, Священе місце і Театральна площа, а також дають +1 Привабливісті до сусідніх тайлів, замість звичайного -1.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_NAME">
-			<Text>Minas Geraes</Text>
+			<Text>Мінас Жерайс</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_BRAZILIAN_MINAS_GERAES_DESCRIPTION">
-			<Text>Brazilian unique Industrial era unit that replaces the Battleship. Stronger than the Battleship. Unlocked by Nationalism.</Text>
+			<Text>Унікальний бразильський юніт Індустріальної епохи, що замінює Лінкор. Сильніший за Лінкор. Розблоковується через Націоналізм.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_STREET_CARNIVAL_NAME">
-			<Text>Street Carnival</Text>
+			<Text>Вуличний Карнавал</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_STREET_CARNIVAL_DESCRIPTION">
-			<Text>A district unique to Brazil. Replaces the Entertainment Complex district, and provides +2 [ICON_Amenities] Amenities, and cheaper to build. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed.</Text>
+			<Text>Унікальний для Бразилії район. Замінює район Розважальний комплекс, дає +2 [ICON_Amenities] Задоволення та дешевший у будівництві. Також відкриває проєкт Карнавал, який дає додатково +1 [ICON_Amenities] Задоволення під час виконання та різноманітні очки [ICON_GreatPerson] Видатних Людей після завершення.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION1_DESCRIPTION">
+			<Text>Унікальний для Бразилії район. Замінює район Розважальний комплекс, дає +2 [ICON_Amenities] Задоволення та дешевший у будівництві. Також відкриває проєкт Карнавал, який дає додатково +1 [ICON_Amenities] Задоволення під час виконання та різноманітні очки [ICON_GreatPerson] Видатних Людей після завершення.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_STREET_CARNIVAL_EXPANSION2_DESCRIPTION">
+			<Text>Унікальний для Бразилії район. Замінює район Розважальний комплекс, дає +2 [ICON_Amenities] Задоволення та дешевший у будівництві. Також відкриває проєкт Карнавал, який дає додатково +1 [ICON_Amenities] Задоволення під час виконання та різноманітні очки [ICON_GreatPerson] Видатних Людей після завершення.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_EXPANSION2_NAME">
-			<Text>Copacabana</Text>
+			<Text>Копакабана</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_WATER_STREET_CARNIVAL_EXPANSION2_DESCRIPTION">
-			<Text>A district unique to Brazil. Replaces the Water Park district, and provides +2 [ICON_Amenities] Amenities. Also unlocks the Carnival project, which grants an additional +1 [ICON_Amenities] Amenity when underway and a variety of [ICON_GreatPerson] Great People points once completed. Cannot be built in a city with a Street Carnival. Cannot be built on Reef.</Text>
+			<Text>Унікальний для Бразилії район. Замінює район Аквапарку і дає +2 [ICON_Amenities] Зручності. Також відкриває проєкт Карнавал, який дає додатково +1 [ICON_Amenities] Задоволення під час його виконання та різноманітні очки [ICON_GreatPerson] Великих Людей після завершення. Не може бути побудований у місті з Вуличним Карнавалом. Не може бути побудований на Рифах.[NEWLINE]</Text>
 		</Replace>
 
 		<!-- rUSSIA -->
@@ -626,7 +635,7 @@
 			<Text>Lavra</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_LAVRA_DESCRIPTION">
-			<Text>A district unique to Russia for religious activity. Replaces the Holy Site district and cheaper to build.[NEWLINE][NEWLINE]Your city border grows by one tile each time a Great Person is expended in this city. The Lavra provides +1 [ICON_GreatWriter] Great Writer point per turn with a Shrine, +1 [ICON_GreatArtist] Great Artist point per turn with a Temple, and +1 [ICON_GreatMusician] Great Musician point per turn with a Worship building.</Text>
+			<Text>A district unique to Russia for religious activity. Replaces the Holy Site district and cheaper to build.[NEWLINE][NEWLINE]Your city border gReplaces by one tile each time a Great Person is expended in this city. The Lavra provides +1 [ICON_GreatWriter] Great Writer point per turn with a Shrine, +1 [ICON_GreatArtist] Great Artist point per turn with a Temple, and +1 [ICON_GreatMusician] Great Musician point per turn with a Worship building.</Text>
 		</Replace>
 
 		<!-- SPAIN -->
@@ -773,7 +782,7 @@
 			<Text>Roman unique Classical era melee unit that replaces the Swordsman. Can build a Roman Fort.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_BATH_DESCRIPTION">
-			<Text>A district unique to Rome for city growth. Replaces the Aqueduct district and cheaper to build.[NEWLINE][NEWLINE]It provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. Must be built adjacent to the City Center. In either case, the Bath provides an additional bonus of +2 [ICON_Housing] Housing and +1 [ICON_Amenities] Amenity. Must be built adjacent to the City Center.</Text>
+			<Text>A district unique to Rome for city gReplaceth. Replaces the Aqueduct district and cheaper to build.[NEWLINE][NEWLINE]It provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. Must be built adjacent to the City Center. In either case, the Bath provides an additional bonus of +2 [ICON_Housing] Housing and +1 [ICON_Amenities] Amenity. Must be built adjacent to the City Center.</Text>
 		</Replace>
 
 		<!-- NETHERLANDS -->
@@ -990,246 +999,246 @@
 		</Replace>
 
 		<!-- PERSIA -->
-		<Row Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME">
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME">
 			<Text>Persia</Text>
-		</Row>
+		</Replace>
 		<Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME" Language="fr_FR">
 			<Text>Satrapies</Text>
 		</Replace>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION">
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION">
 			<Text>+1 [ICON_TradeRoute] Trade Route capacity with Political Philosophy civic. Receive +2 [ICON_Gold] Gold and +1 [ICON_Culture] Culture for routes between your own cities. Roads built in your territory are one level more advanced than usual.</Text>
-		</Row>
+		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
-		<Row Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME">
+		<Replace Language="uk_UA" Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME">
 			<Text>Immortal</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION">
 			<Text>Persian unique melee unit that replaces the Swordsman. Melee class unit with a ranged attack, [ICON_Range] Range 2. Strong defense strength.</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME">
 			<Text>Pairidaeza</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION">
 			<Text>Unlocks the Builder ability to construct a Pairidaeza, unique to Persia.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] Culture and +2 [ICON_GOLD] Gold. +1 Appeal. +1 [ICON_CULTURE] Culture for each adjacent Holy Site and Theater Square. +1 [ICON_GOLD] Gold for each adjacent Commercial Hub and City Center. Additional [ICON_Culture] Culture and [ICON_Tourism] Tourism as you advance through the Technology and Civics Tree. Cannot be built on Snow, Tundra, Snow Hills, or Tundra Hills or adjacent to another Pairidaeza.</Text>
-		</Row>
+		</Replace>
 
 		<!-- MONGOLIA -->
-		<Row Tag="LOC_CIVILIZATION_MONGOLIA_NAME">
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MONGOLIA_NAME">
 			<Text>Mongolia</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_MONGOLIA_ADJECTIVE">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MONGOLIA_ADJECTIVE">
 			<Text>Mongolian</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_MONGOLIA_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MONGOLIA_DESCRIPTION">
 			<Text>Mongolian Empire</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_NAME">
 			<Text>Örtöö</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_DESCRIPTION">
 			<Text>Starting a [ICON_TradeRoute] Trade Route immediately creates a [ICON_TradingPost] Trading Post in the destination city. Receive an extra level of [ICON_VisLimited] Diplomatic Visibility for possessing a [ICON_TradingPost] Trading Post in any city of a civilization. All Mongolian units double the usual [ICON_Strength] Combat Bonus for having a higher level of [ICON_VisLimited] Diplomatic Visibility than their opponent.</Text>
-		</Row>
+		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
-		<Row Tag="LOC_BUILDING_ORDU_NAME">
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_ORDU_NAME">
 			<Text>Ordu</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_ORDU_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_ORDU_DESCRIPTION">
 			<Text>A building unique to Mongolia. Grants an ability that gives +1 [ICON_MOVEMENT] Movement to Heavy and Light Cavalry trained in this city. +25% combat experience for all cavalry and siege class units trained in this city. May not be built in an Encampment district that already has a Barracks.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MONGOLIAN_KESHIG_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_MONGOLIAN_KESHIG_NAME">
 			<Text>Keshig</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_MONGOLIAN_KESHIG_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_MONGOLIAN_KESHIG_DESCRIPTION">
 			<Text>Mongolian unique Medieval Era Ranged Cavalry unit. Can escort moving civilian and support units at their higher [ICON_Movement] Movement speed.</Text>
-		</Row>
+		</Replace>
 
 		<!-- INDONESIA -->
-		<Row Tag="LOC_LOADING_INFO_LEADER_GITARJA">
+		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_GITARJA">
 			<Text>Daring Gitarja, Majapahit queen of ten thousand islands, Indonesia's seas are your greatest strength. As Exalted Goddess of the Three Worlds, you shall spread your divine influence to all waters touched by the sun. Rely upon your loyal fleet, bold queen! Unleash a frightful storm upon those who bring strife to Indonesian shores.</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_INDONESIA_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INDONESIA_NAME">
 			<Text>Indonesia</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_INDONESIA_DESCRIPTION">
 			<Text>Indonesian Empire</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION">
 			<Text>Coast and Lake tiles provide a minor adjacency bonus for Holy Site, Campus, Industrial Zone, and Theater Square districts. +1 [ICON_AMENITIES] Amenity from entertainment to each Entertainment Complex adjacent to a Coast or Lake tile.</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_UNIT_INDONESIAN_JONG_NAME">
 			<Text>Indonesian unique unit: Jong</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_NAME">
 			<Text>Exalted Goddess of the Three Worlds</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_EXALTED_GODDESS_DESCRIPTION">
 			<Text>Naval units can be purchased with [ICON_FAITH] Faith. Religious units pay no movement to embark or disembark. +2[ICON_FAITH] Faith to City Centers that are adjacent to Coast or Lake tiles.</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_NAME">
 			<Text>Great Nusantara</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_INDONESIA_NUSANTARA_DESCRIPTION">
 			<Text>Coast and Lake tiles provide a minor adjacency bonus for Holy Site, Campus, Industrial Zone, and Theater Square districts. +1 [ICON_AMENITIES] Amenity from entertainment to each Entertainment Complex adjacent to a Coast or Lake tile.</Text>
-		</Row>
+		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
-		<Row Tag="LOC_UNIT_INDONESIAN_JONG_NAME">
+		<Replace Language="uk_UA" Tag="LOC_UNIT_INDONESIAN_JONG_NAME">
 			<Text>Jong</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_INDONESIAN_JONG_DESCRIPTION">
 			<Text>Indonesian unique Medieval era naval unit that replaces the Frigate. Formation units all inherit escort's [ICON_Movement] Movement speed and +5 [ICON_Strength] Combat Strength when in a formation.</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_KAMPUNG_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_KAMPUNG_NAME">
 			<Text>Kampung</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_KAMPUNG_DESCRIPTION">
 			<Text>Unlocks the Builder ability to construct a Kampung, unique to Indonesia.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Production and +1 [ICON_Housing] Housing. +1 [ICON_FOOD] Food for each adjacent Fishing Boat. Additional [ICON_PRODUCTION] Production, [ICON_Housing] Housing, and [ICON_TOURISM] Tourism as you advance through the Technology and Civics Tree. Must be placed on a Coast or Lake tile adjacent to a sea resource.</Text>
-		</Row>
+		</Replace>
 
 		<!-- POLAND -->
-		<Row Tag="LOC_CIVILIZATION_POLAND_NAME">
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_POLAND_NAME">
 			<Text>Poland</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_POLAND_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_POLAND_DESCRIPTION">
 			<Text>Polish Empire</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_NAME">
 			<Text>Golden Liberty</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_LIBERTY_DESCRIPTION">
 			<Text>Culture Bomb adjacent tiles when completing an Encampment or Fort inside friendly territory. One Military policy slot in the current government is converted to a Wildcard slot.</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_LITHUANIAN_UNION_ALT_DESCRIPTION">
 			<Text>Poland's majority religion becomes the dominant religion in cities that loses a tile to a Polish Culture Bomb. Holy Sites gain a Faith adjacency bonus from adjacent Districts. All Relics provide bonus Faith (+2), Culture (+2) and Gold (+4).</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_SUKIENNICE_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_SUKIENNICE_NAME">
 			<Text>Sukiennice</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_SUKIENNICE_DESCRIPTION">
 			<Text>A building unique to Poland. International [ICON_TradeRoute] Trade Routes from this city gain +2 [ICON_Production] Production; domestic [ICON_TradeRoute] Trade Routes gain +4 [ICON_Gold] Gold.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_POLISH_HUSSAR_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_POLISH_HUSSAR_NAME">
 			<Text>Winged Hussar</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_POLISH_HUSSAR_DESCRIPTION">
 			<Text>Polish unique Renaissance era unit. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_POLISH_HUSSAR_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_POLISH_HUSSAR_EXPANSION2_DESCRIPTION">
 			<Text>Polish unique Renaissance era unit that replaces the Cuirassier. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_SUKIENNICE_EXPANSION1_DESCRIPTION">
 			<Text>A building unique to Poland. International [ICON_TradeRoute] Trade Routes from this city gain +2 [ICON_Production] Production; domestic [ICON_TradeRoute] Trade Routes gain +4 [ICON_Gold] Gold. +1 [ICON_TradeRoute] Trade Route capacity, if this city does not yet have a Lighthouse building.</Text>
-		</Row>
+		</Replace>
 
 		<!-- KHMER -->
-		<Row Tag="LOC_CIVILIZATION_KHMER_NAME">
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_KHMER_NAME">
 			<Text>Khmer</Text>
-		</Row>
-		<Row Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_KHMER_DESCRIPTION">
 			<Text>Khmer Empire</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_PRASAT_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_PRASAT_NAME">
 			<Text>Prasat</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_NAME">
 			<Text>Grand Barays</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_DESCRIPTION">
 			<Text>+3 [ICON_FAITH] Faith and +1 [ICON_AMENITIES] Amenity from entertainment to each city with an Aqueduct. Farms provide +2 [ICON_FOOD] Food if adjacent to an Aqueduct.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_PRASAT_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_PRASAT_DESCRIPTION">
 			<Text>A building unique to Khmer. Replaces the Temple. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith. Missionaries purchased in this city receive the Martyr ability which grants a [ICON_GreatWork_Relic] Relic if this Missionary dies in Theological Combat.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_PRASAT_EXPANSION1_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_PRASAT_EXPANSION1_DESCRIPTION">
 			<Text>+6 [ICON_FAITH] Faith. A building unique to Khmer. Replaces the Temple. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith. +0.5 [ICON_Culture] Culture for every [ICON_CITIZEN] population in this city. Once Flight is researched receive +10 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 10 or higher and +20 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 20 or higher.</Text>
-		</Row>
-		<Row Tag="LOC_BUILDING_PRASAT_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_PRASAT_EXPANSION2_DESCRIPTION">
 			<Text>+6 [ICON_FAITH] Faith. A building unique to Khmer. Replaces the Temple. Required to purchase Apostles and Inquisitors with [ICON_Faith] Faith. +0.5 [ICON_Culture] Culture for every [ICON_CITIZEN] population in this city. Once Flight is researched receive +10 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 10 or higher and +20 [ICON_Tourism] Tourism if the city [ICON_CITIZEN] population is 20 or higher.</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_BUILDING_PRASAT_NAME">
 			<Text>Khmer unique building: Prasat</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_EXPANSION1_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_EXPANSION1_DESCRIPTION">
 			<Text>Cities with an Aqueduct receive +1 [ICON_AMENITIES] Amenity from entertainment and +1 [ICON_FAITH] Faith for every [ICON_CITIZEN] population. Farms provide +2 [ICON_FOOD] Food if adjacent to an Aqueduct and +1 [ICON_FAITH] Faith if adjacent to a Holy Site.</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_KHMER_BARAYS_EXPANSION2_DESCRIPTION">
 			<Text>Cities with an Aqueduct receive +1 [ICON_AMENITIES] Amenity from entertainment and +1 [ICON_FAITH] Faith for every [ICON_CITIZEN] population. Farms provide +2 [ICON_FOOD] Food if adjacent to an Aqueduct and +1 [ICON_FAITH] Faith if adjacent to a Holy Site.</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_UNIT_KHMER_DOMREY_NAME">
 			<Text>Khmer unique unit: Domrey</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION1_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION1_DESCRIPTION">
 			<Text>Holy Sites are granted a Major adjacency with Rivers, a Culture Bomb, [ICON_FOOD] Food equal to its adjacency bonus, and +2 [ICON_Housing] Housing if on a River.</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION2_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_MONASTERIES_KING_EXPANSION2_DESCRIPTION">
 			<Text>Holy Sites are granted a Major adjacency with Rivers, a Culture Bomb, [ICON_FOOD] Food equal to its adjacency bonus, and +2 [ICON_Housing] Housing if on a River.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_KHMER_DOMREY_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_KHMER_DOMREY_NAME">
 			<Text>Domrey</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_KHMER_DOMREY_DESCRIPTION">
 			<Text>Khmer unique Medieval era siege unit that replaces the Trebuchet. This unit has a higher [ICON_Strength] Melee and Range Strength than the Trebuchet. It can move and shoot in the same turn and exerts zone of control.</Text>
-		</Row>
+		</Replace>
 
 		<!-- AUSTRALIA -->
-		<Row Tag="LOC_CIVILIZATION_AUSTRALIA_NAME">
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_AUSTRALIA_NAME">
 			<Text>Australia</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_NAME">
 			<Text>Land Down Under</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_LAND_DOWN_UNDER_DESCRIPTION">
 			<Text>+3 [ICON_Housing] Housing in coastal cities. Pastures trigger a Culture Bomb. Yields from Campuses, Commercial Hubs, Holy Sites and Theater Squares are +1 in tiles with Charming Appeal, +3 in Breathtaking. </Text>
-		</Row>
-		<Row Tag="LOC_UNIT_DIGGER_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_DIGGER_NAME">
 			<Text>Digger</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_DIGGER_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_DIGGER_DESCRIPTION">
 			<Text>Australian unique Modern era unit that replaces Infantry. +10 [ICON_Strength] Combat Strength when fighting on Coastal tiles. +5 [ICON_Strength] Combat Strength when fighting on Neutral or Foreign Territory.</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_DIGGER_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ABILITY_DIGGER_NAME">
 			<Text>Digger</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_DIGGER_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ABILITY_DIGGER_DESCRIPTION">
 			<Text>+10 [ICON_Strength] Combat Strength when fighting on Coastal tiles. +5 [ICON_Strength] Combat Strength when fighting on Neutral or Foreign Territory.</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_DIGGER_BONUS_ON_COAST_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ABILITY_DIGGER_BONUS_ON_COAST_DESCRIPTION">
 			<Text>+{1_Amount} Combat Strength on Coastal tiles</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_DIGGER_NON_DOMESTIC_BONUS_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ABILITY_DIGGER_NON_DOMESTIC_BONUS_DESCRIPTION">
 			<Text>+{1_Amount} Combat Strength outside of Friendly Territory</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_OUTBACK_STATION_NAME">
 			<Text>Outback Station</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_OUTBACK_STATION_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_OUTBACK_STATION_DESCRIPTION">
 			<Text>Unlocks the Builder ability to construct an Outback Station, unique to Australia.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food and +1 [ICON_PRODUCTION] Production. +1 [ICON_Food] Food for each adjacent Pasture. Additional [ICON_FOOD] Food and [ICON_PRODUCTION] Production as you advance through the Technology and Civic Tree for adjacent Outback Stations and Pastures. Can only be built in Desert, Desert Hills, Grassland, and Plains tiles.</Text>
-		</Row>
+		</Replace>
 
 		<!-- NUBIA -->
-		<Row Tag="LOC_CIVILIZATION_NUBIA_NAME">
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_NUBIA_NAME">
 			<Text>Nubia</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_NAME">
 			<Text>Ta-Seti</Text>
-		</Row>
-		<Row Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_TA_SETI_DESCRIPTION">
 			<Text>+30% [ICON_Production] Production toward Ranged units. All Ranged units gain +50% combat experience. Mines over strategic resources provide +1 [ICON_Production] Production. Mines over bonus and luxury resources provide +2 [ICON_Gold] Gold.</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_PYRAMID_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_PYRAMID_NAME">
 			<Text>Nubian Pyramid</Text>
-		</Row>
-		<Row Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_PYRAMID_DESCRIPTION">
 			<Text>Improvement that unlocks with Masonry and must be built on Desert, Desert Hills or Floodplains. +2 [ICON_Faith] Faith and +2 [ICON_Food] Food. Receives additional yields from adjacent districts. +1 [ICON_Food] Food if adjacent to a city center. For all other districts that award adjacency bonuses: +1 of the appropriate yield if that district is adjacent.</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_NUBIAN_PITATI_NAME">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_NUBIAN_PITATI_NAME">
 			<Text>Pítati Archer</Text>
-		</Row>
-		<Row Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_NUBIAN_PITATI_DESCRIPTION">
 			<Text>Nubian unique Ancient era unit that replaces the Archer. Stronger than the Archer with extra [ICON_Movement] Movement. Upgrades to Crossbowman.</Text>
-		</Row>
-		<Row Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION">
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ABILITY_NUBIA_RANGED_EXPERIENCE_MODIFIER_DESCRIPTION">
 			<Text>+50% Earned experience from combat. (Ta-Seti)</Text>
-		</Row>
+		</Replace>
 
 	</LocalizedText>
 </GameData>
