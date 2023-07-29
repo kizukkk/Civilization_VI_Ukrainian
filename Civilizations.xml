@@ -358,7 +358,7 @@
 			<Text> Каролієн </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_SWEDEN_CAROLEAN_DESCRIPTION">
-			<Text> Унікальний юніт Швеції епохи Відродження, який замінює Пікінери та Мушкетери. Швидший за Пікінери та Мушкетери. +3 [ICON_Strength] Атаки за невикористані очки [ICON_Movement] Дії. </Text>
+			<Text> Унікальний юніт Швеції епохи Відродження, який замінює Пікінери та Мушкетери. Швидший за Пікінери та Мушкетери. +3 [ICON_Strength] Атаки за невикористані очки [ICON_Movement] Дії. [NEWLINE]</Text>
 		</Replace>
 
 		<!-- Germany -->
@@ -545,7 +545,7 @@
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_TLACHTLI_DESCRIPTION">
 			<Text>Унікальна будівля Ацтеків. Дає 2 [ICON_Amenities] Задоволення, +1 [ICON_Culture] Культури, +2 [ICON_Faith] Віри і очків [ICON_GreatGeneral] Великого Стратега.</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_BUILDING_TLACHTLI_EXPANSION1_DESCRIPTION">
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_TLACHTLI_XP1_DESCRIPTION">
 			<Text>Унікальна будівля Ацтеків. Дає 2 [ICON_Amenities] Задоволення, +1 [ICON_Culture] Культури, +2 [ICON_Faith] Віри і очків [ICON_GreatGeneral] Великого Стратега.</Text>
 		</Replace>
 
@@ -572,8 +572,6 @@
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_MBANZA_DESCRIPTION">
 			<Text>Унікальний для Конго район, який можна побудувати лише в Тропічному лісі або в Лісі. Замінює Житловий квартал, але доступний раніше і дешевший у будівництві. Дає +5 [ICON_Housing] Житла, +2 [ICON_Food] Їжі та +4 [ICON_Gold] Золота незалежно від Привабливісті.</Text>
 		</Replace>
-
-		<!-- Потребує перекладу/радагування -->
 
 		<!-- BRAZIL -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_BRAZIL_NAME">
@@ -616,75 +614,92 @@
 
 		<!-- rUSSIA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_RUSSIA_NAME">
-			<Text>Russia</Text>
+			<Text>росія</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_RUSSIA_DESCRIPTION">
+			<Text>російська Імперія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_NAME">
-			<Text>Mother Russia</Text>
+			<Text>росія Мать</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_DESCRIPTION">
-			<Text>Extra territory upon founding cities. +1 [ICON_Faith] Faith and +1 [ICON_Production] Production from Tundra.</Text>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MOTHER_RUSSIA_EXPANSION2_DESCRIPTION">
+			<Text>Надає додаткову територію при заснуванні міста. +1 [ICON_Faith] Віри та +1 [ICON_Production] Виробництва в Тундрі.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_RUSSIAN_COSSACK_NAME">
-			<Text>Cossack</Text>
+			<Text>Казакі</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_RUSSIAN_COSSACK_DESCRIPTION">
-			<Text>Russian unique Industrial era unit that replaces Cavalry. Stronger than Cavalry, and gains +5 [ICON_Strength] Combat Strength when fighting in or adjacent to its home territory. Can move after attacking if [ICON_Movement] Movement points remain.</Text>
+			<Text>Військовий юніт Індустріальної епохи, який замінює Кінноту. Сильніший за Кінноту і отримує +5 [ICON_Strength] Атаки, коли воює на своїй території або поруч з нею. Може рухатися після атаки, якщо залишилися очки [ICON_Movement] Дії.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_LAVRA_NAME">
-			<Text>Lavra</Text>
+			<Text>Лавра</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_LAVRA_DESCRIPTION">
-			<Text>A district unique to Russia for religious activity. Replaces the Holy Site district and cheaper to build.[NEWLINE][NEWLINE]Your city border gReplaces by one tile each time a Great Person is expended in this city. The Lavra provides +1 [ICON_GreatWriter] Great Writer point per turn with a Shrine, +1 [ICON_GreatArtist] Great Artist point per turn with a Temple, and +1 [ICON_GreatMusician] Great Musician point per turn with a Worship building.</Text>
+			<Text>Унікальний район росії релігійного напрямку. Замінює район Священих місць і дешевший у будівництві.[NEWLINE][NEWLINE]Кордони вашого міста збільшується на один тайл щоразу, коли в цьому місті використовується Велика Людина. Лавра дає +1 очко [ICON_GreatWriter] Великого Письменника за хід зі Святинею, +1 очко [ICON_GreatArtist] Великого Художника за хід з Храмом і +1 очко [ICON_GreatMusician] Великого Музиканта за хід з будівлею Поклоніння.</Text>
 		</Replace>
 
 		<!-- SPAIN -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SPAIN_NAME">
-			<Text>Spain</Text>
+			<Text>Іспанія</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SPAIN_DESCRIPTION">
+			<Text>Іспанська Імперія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_NAME">
-			<Text>Treasure Fleet</Text>
+			<Text>Срібний Флот</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_DESCRIPTION">
-			<Text>May form Fleets and Armadas with Mercantilism, instead of Nationalism and Mobilization. [ICON_TradeRoute] Trade Routes receive +3 [ICON_Gold] Gold, +2 [ICON_Faith] Faith, and +1 [ICON_Production] Production. [ICON_TradeRoute] Trade Routes between multiple continents receive triple these numbers. Cities not on your original Capital’s continent receive +25% [ICON_Production] Production towards districts and a builder when founded.</Text>
+			<Text>Може формувати Флотилію і Ескарду за допомогою Меркантилізму замість Націоналізму та Мобілізації. [ICON_TradeRoute] Торгові шляхи отримують +3 [ICON_Gold] Золота, +2 [ICON_Faith] Віри і +1 [ICON_Production] Виробництва. [ICON_TradeRoute] Торгові шляхи між кількома континентами отримують втричі більше. Міста, розташовані не на континенті вашої столиці, отримують +25% [ICON_Production] Виробництва до Районів та Будівель при заснуванні.</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_TREASURE_FLEET_EXPANSION2_DESCRIPTION">
+			<Text>Може формувати Флотилію і Ескарду за допомогою Меркантилізму замість Націоналізму та Мобілізації. [ICON_TradeRoute] Торгові шляхи отримують +3 [ICON_Gold] Золота, +2 [ICON_Faith] Віри і +1 [ICON_Production] Виробництва. [ICON_TradeRoute] Торгові шляхи між кількома континентами отримують втричі більше. Міста, розташовані не на континенті вашої столиці, отримують +25% [ICON_Production] Виробництва до Районів та Будівель при заснуванні.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_SPANISH_CONQUISTADOR_NAME">
-			<Text>Conquistador</Text>
+			<Text>Конкістадори</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_SPANISH_CONQUISTADOR_DESCRIPTION">
-			<Text>Spanish unique Renaissance era unit that replaces the Musketman. +10 [ICON_Strength] Combat Strength when there is a religious unit within one hex. If this unit captures a city or is adjacent to a city when it is captured, the city will automatically adopt the Conquistador player's Religion as the dominant Religion.</Text>
+			<Text>Іспанський унікальний юніт епохи Відродження, який замінює Мушкетерів. +10 [ICON_Strength] Атаки, коли в межах одного тайла є Релігійний юніт. Якщо цей юніт захоплює місто або знаходиться поруч з містом, коли його захоплюють, місто автоматично приймає релігію Конкістадора гравця як домінуючу релігію.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MISSION_NAME">
-			<Text>Mission</Text>
+			<Text>Місіонерський Дім</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct a Mission, unique to Spain.[NEWLINE][NEWLINE]+2 [ICON_Faith] Faith. Additional +2 [ICON_SCIENCE] Science once Cultural Heritage is discovered. +2 [ICON_Faith] Faith, +1 [ICON_PRODUCTION] Production, and +1 [ICON_FOod] Food if on a different continent than your [ICON_Capital] Capital. +1 [ICON_Science] Science for every adjacent Campus and Holy Site district.</Text>
+			<Text>Розблоковує можливість Батракам будувати унікальний для Іспанії Місіонерський Дім.[NEWLINE][NEWLINE]+2 [ICON_Faith] Віри. Додатково +2 [ICON_SCIENCE] Науки після відкриття Культурної спадщини. +2 [ICON_Faith] Віри, +1 [ICON_PRODUCTION] Виробництва і +1 [ICON_FOOD] Їжа, якщо ви знаходитесь на іншому континенті, ніж ваша [ICON_Capital] Столиця. +1 [ICON_Science] Науки за кожний поруч Кампус та район Священих місць.[NEWLINE]</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MISSION_EXPANSION2_DESCRIPTION">
+			<Text>Розблоковує можливість Батракам будувати унікальний для Іспанії Місіонерський Дім.[NEWLINE][NEWLINE]+2 [ICON_Faith] Віри. Додатково +2 [ICON_SCIENCE] Науки після відкриття Культурної спадщини. +2 [ICON_Faith] Віри, +1 [ICON_PRODUCTION] Виробництва і +1 [ICON_FOOD] Їжа, якщо ви знаходитесь на іншому континенті, ніж ваша [ICON_Capital] Столиця. +1 [ICON_Science] Науки за кожний поруч Кампус та район Священих місць.[NEWLINE]</Text>
 		</Replace>
 
 		<!-- CHINA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_CHINA_NAME">
-			<Text>China</Text>
+			<Text>Китай</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_CHINA_DESCRIPTION">
+			<Text>Китайська Імперія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_NAME">
-			<Text>Dynastic Cycle</Text>
+			<Text>Династія Цінь</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_DESCRIPTION">
-			<Text>[ICON_TechBoosted] Eurekas and [ICON_CivicBoosted] Inspirations provide 60% of civics and technologies instead of 50%. When completing a wonder receive a random [ICON_TechBoosted] Eureka and [ICON_CivicBoosted] Inspiration from the era of the wonder, if available.</Text>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION2_DESCRIPTION">
+			<Text>Прискорювач [ICON_TechBoosted] Еврика та [ICON_CivicBoosted] Натхнення дають 60% бонус Громадським та Науковим та технологіям замість 50%. При завершенні Дива ви отримуєте випадкові прискорювачи [ICON_TechBoosted] Еврика та [ICON_CivicBoosted] Натхнення з епохи цього дива, якщо вони доступні.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_NAME">
-			<Text>Crouching Tiger</Text>
+			<Text>Тигр, що Таїться</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_DESCRIPTION">
-			<Text>Chinese unique Medieval era unit. Ranged unit with a [ICON_Range] Range of 1 and high combat strength.</Text>
+			<Text>Унікальний китайський юніт епохи Середньовіччя. Далекобійний юніт з [ICON_Range] Дальністтю 1 і високою силою Атаки.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_GREAT_WALL_NAME">
-			<Text>Great Wall</Text>
+			<Text>Велика Стіна</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_GREAT_WALL_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct the Great Wall, unique to China.[NEWLINE][NEWLINE]Provides an increase to [ICON_Strength] Defense. Bonus to [ICON_Gold] Gold if adjacent to other segments. Additional [ICON_Culture] Culture and [ICON_Tourism] Tourism as you advance through the Technology Tree for adjacent segments. Must be built in a line along the borders of your empire.</Text>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_GREAT_WALL_EXPANSION2_DESCRIPTION">
+			<Text>Розблоковує унікальну для Китаю здатність Батракам будувати Велику китайську стіну.[NEWLINE][NEWLINE]Збільшує [ICON_Strength] Захист. Бонус до [ICON_Gold] Золота, якщо знаходиться поруч з іншими частинами. Додаткова [ICON_Culture] Культура та [ICON_Tourism] Туризм, коли ви просуваєтеся по Науковому дереві для сусідніх частин. Повинна бути побудована в лінію вздовж кордонів вашої імперії.</Text>
 		</Replace>
+
+		<!-- Потребує перекладу/радагування -->
 
 		<!-- ARABIA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_ARABIA_NAME">
