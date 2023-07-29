@@ -999,7 +999,7 @@
 			<Text> Запросити цього друга до гри. </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PRESENCE_ONLINE">
-			<Text> [COLOR:ButtonCS]В мережі[ENDCOLOR]] </Text>
+			<Text> [COLOR:ButtonCS]В мережі[ENDCOLOR] </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_PRESENCE_IN_SHELL">
 			<Text> [COLOR:ConnectionStatus_Connected]Головному меню[ENDCOLOR] </Text>
