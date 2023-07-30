@@ -699,85 +699,94 @@
 			<Text>Розблоковує унікальну для Китаю здатність Батракам будувати Велику китайську стіну.[NEWLINE][NEWLINE]Збільшує [ICON_Strength] Захист. Бонус до [ICON_Gold] Золота, якщо знаходиться поруч з іншими частинами. Додаткова [ICON_Culture] Культура та [ICON_Tourism] Туризм, коли ви просуваєтеся по Науковому дереві для сусідніх частин. Повинна бути побудована в лінію вздовж кордонів вашої імперії.</Text>
 		</Replace>
 
-		<!-- Потребує перекладу/радагування -->
-
 		<!-- ARABIA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_ARABIA_NAME">
-			<Text>Arabia</Text>
+			<Text>Арабія</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_ARABIA_DESCRIPTION">
+			<Text>Арабська Імперія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_NAME">
-			<Text>The Last Prophet</Text>
+			<Text>Останній Пророк</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_LAST_PROPHET_DESCRIPTION">
-			<Text>Automatically receive the final [ICON_GreatProphet] Great Prophet when the next-to-last one is claimed (if you have not earned a [ICON_GreatProphet] Great Prophet already). +1 [ICON_Science] Science for each foreign city following Arabia's Religion.</Text>
+			<Text>Автоматично отримає останнього [ICON_GreatProphet] Великого Пророка, коли буде затребуваний передостанній (якщо ви ще не отримали [ICON_GreatProphet] Великого Пророка).[NEWLINE] +1 [ICON_Science] Науки за кожне іноземне місто яке є послідовником релігії Арабії.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_ARABIAN_MAMLUK_NAME">
-			<Text>Mamluk</Text>
+			<Text>Мамлюки</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_ARABIAN_MAMLUK_DESCRIPTION">
-			<Text>Arabian unique Medieval era unit that replaces the Knight. Heals at the end of every turn, even after moving or attacking.</Text>
+			<Text>Арабський унікальний юніт епохи Середньовіччя, що замінює Лицарів. Зцілюється в кінці кожного ходу, навіть після переміщення або атаки.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_MADRASA_NAME">
-			<Text>Madrasa</Text>
+			<Text>Медресе</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_MADRASA_DESCRIPTION">
-			<Text>A building unique to Arabia. Bonus [ICON_Faith] Faith equal to the adjacency bonus of the Campus district.</Text>
+			<Text>Унікальна будівля Арабії. Бонусна [ICON_Faith] Віра дорівнює бонусу від сусідства з Кампусом.</Text>
 		</Replace>
 
 		<!-- AMERICA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_AMERICA_NAME">
-			<Text>America</Text>
+			<Text>Америка</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_AMERICA_DESCRIPTION">
+			<Text>Американська Імперія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_NAME">
-			<Text>Founding Fathers</Text>
+			<Text>Батьки Засновники</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_FOUNDING_FATHERS_EXPANSION2_DESCRIPTION">
-			<Text>All Diplomatic policy slots in the current government are converted to Wildcard slots. +1 [ICON_FAVOR] Diplomatic Favor per turn for every Wildcard slot in their government.</Text>
+			<Text>Усі слоти Дипломатичної політики в поточному уряді перетворюються на Універсальні слоти. +1 [ICON_FAVOR] Дипломатичної прихильність за хід за кожен Універсальний слот в уряді.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_AMERICAN_P51_NAME">
-			<Text>P-51 Mustang</Text>
+			<Text>P-51 Мустанг</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
-			<Text>American unique Atomic era air unit that replaces the Fighter. Gains +5 [ICON_Strength] Combat Strength against fighter aircraft, has +2 flight range, and gains +50% experience.</Text>
+			<Text>Унікальний юніт авіації Америки Атомної ери, що замінює Винищувач. Отримує +5 [ICON_Strength] Атаки проти винищувачів, має +2 Дальність польоту та +50% Досвіду.</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_AMERICAN_P51_DESCRIPTION">
-			<Text>American unique Atomic era air unit that replaces the Fighter. Gains +5 [ICON_Strength] Combat Strength against fighter aircraft, has +2 flight range, and gains +50% experience.</Text>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_NAME">
+			<Text>Rough Rider</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_DESCRIPTION">
-			<Text>American unique Industrial era unit when Teddy Roosevelt is their leader. [ICON_Culture] Culture is earned from kills on their [ICON_Capital] Capital's continent. +10 [ICON_Strength] Combat Strength when fighting on Hills. Lower maintenance cost.</Text>
+		<Replace Language="uk_UA" Tag="LOC_UNIT_AMERICAN_ROUGH_RIDER_EXPANSION2_DESCRIPTION">
+			<Text>Унікальний юніт Америки Індустріальної епохи, при лідерстві Тедді Рузвельта. [ICON_Culture] Культура отримується за вбивства на континетні [ICON_Capital] Столиці. +10 [ICON_Strength] Атаки, коли ви воюєте на Пагорбах. Нижчі витрати на утримання.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_FILM_STUDIO_NAME">
-			<Text>Film Studio</Text>
+			<Text>Кіностудія</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_BUILDING_FILM_STUDIO_DESCRIPTION">
-			<Text>A building unique to America. +100% [ICON_Tourism] Tourism pressure from this city towards other civilizations in the Modern era.</Text>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_FILM_STUDIO_EXPANSION2_DESCRIPTION">
+			<Text>Унікальна будівля Америки. +100% [ICON_Tourism] Туристичного впливу міста на інші цивілізації в епоху Нового Часу.</Text>
 		</Replace>
 
 		<!-- SCYTHIA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SCYTHIA_NAME">
-			<Text>Scythia</Text>
+			<Text>Скіфія</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SCYTHIA_DESCRIPTION">
+			<Text>Скіфська Імперія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_NAME">
-			<Text>People of the Steppe</Text>
+			<Text>Народ Степу</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_EXTRA_LIGHT_CAVALRY_DESCRIPTION">
-			<Text>Receive a second light cavalry unit or Saka Horse Archer each time you train a light cavalry unit or Saka Horse Archer.</Text>
+			<Text>Отримуйте другого юніта легкої кавалерії або Кінного Арчера Сака щоразу, коли тренуєте юніта легкої кавалерії або Кінного Арчера Сака.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_NAME">
-			<Text>Saka Horse Archer</Text>
+			<Text>Кінний Арчер Сака</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_SCYTHIAN_HORSE_ARCHER_DESCRIPTION">
-			<Text>Scythian unique Classical era unit. Ranged unit with 4 [ICON_Movement] Movement with a [ICON_Range] Range of 1.</Text>
+			<Text>Унікальний юніт Скіфії Античності. Має 4 [ICON_Movement] дії з [ICON_Range] Дальністтю в 1.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_KURGAN_NAME">
-			<Text>Kurgan</Text>
+			<Text>Курган</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct a Kurgan, unique to Scythia.[NEWLINE][NEWLINE]+1 [ICON_Faith] Faith and +3 [ICON_Gold] Gold. +1 [ICON_Faith] Faith for each adjacent Pasture (becomes +2 after researching Stirrups). Provides [ICON_TOURISM] Tourism from [ICON_FAITH] Faith after researching Flight. Cannot be built on Hills.</Text>
+			<Text>Розблоковує можливість Батракам будувати унікальний для Скіфії Курган.[NEWLINE][NEWLINE]+1 [ICON_Faith] Віри і +3 [ICON_Gold] Золота. +1 [ICON_Faith] Віри за кожне Пасовище поряд (стає +2 після дослідження Стремена). Забезпечує [ICON_TOURISM] Туризм за [ICON_FAITH] Віру після дослідження Льотних випробувань. Не може бути побудований на Пагорбах.</Text>
 		</Replace>
+
+		<!-- Потребує перекладу/радагування -->
 
 		<!-- ROME -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_ROME_NAME">
