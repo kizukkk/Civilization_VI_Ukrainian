@@ -683,7 +683,7 @@
 			<Text>Династія Цінь</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_DYNASTIC_CYCLE_EXPANSION2_DESCRIPTION">
-			<Text>Прискорювач [ICON_TechBoosted] Еврика та [ICON_CivicBoosted] Натхнення дають 60% бонус Громадським та Науковим та технологіям замість 50%. При завершенні Дива ви отримуєте випадкові прискорювачи [ICON_TechBoosted] Еврика та [ICON_CivicBoosted] Натхнення з епохи цього дива, якщо вони доступні.</Text>
+			<Text>Прискорювач [ICON_TechBoosted] Еврика та [ICON_CivicBoosted] Натхнення дають 60% бонус Громадським та Технологічному розвитку замість 50%. При завершенні Дива ви отримуєте випадкові прискорювачи [ICON_TechBoosted] Еврика та [ICON_CivicBoosted] Натхнення з епохи цього дива, якщо вони доступні.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_CHINESE_CROUCHING_TIGER_NAME">
@@ -786,52 +786,61 @@
 			<Text>Розблоковує можливість Батракам будувати унікальний для Скіфії Курган.[NEWLINE][NEWLINE]+1 [ICON_Faith] Віри і +3 [ICON_Gold] Золота. +1 [ICON_Faith] Віри за кожне Пасовище поряд (стає +2 після дослідження Стремена). Забезпечує [ICON_TOURISM] Туризм за [ICON_FAITH] Віру після дослідження Льотних випробувань. Не може бути побудований на Пагорбах.</Text>
 		</Replace>
 
-		<!-- Потребує перекладу/радагування -->
-
 		<!-- ROME -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_ROME_NAME">
-			<Text>Rome</Text>
+			<Text>Рим</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_ROME_DESCRIPTION">
+			<Text>Римська Імперія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_NAME">
-			<Text>All Roads Lead to Rome</Text>
+			<Text>Всі Дороги Ведуть до Риму</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_ALL_ROADS_TO_ROME_DESCRIPTION">
-			<Text>All cities you found or conquer start with a Trading Post. If in [ICON_TradeRoute] Trade Route range of your [ICON_Capital] Capital, they also start with a road to it. Your [ICON_TradeRoute] Trade Routes earn +1 [ICON_Gold] Gold for passing through Trading Posts in your own cities.</Text>
+			<Text>Всі міста, які ви виявили або завоювали, отримуються Факторію. Якщо в радіусі [ICON_TradeRoute] Торгового шляху є ваша [ICON_Capital] Столиця, то вони також починаються з дороги до неї. Ваші [ICON_TradeRoute] Торгові шляхи заробляють +1 [ICON_Gold] Золото за проходження через Факторії у ваших містах.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_ROMAN_LEGION_NAME">
-			<Text>Legion</Text>
+			<Text>Легіон</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_ROMAN_LEGION_DESCRIPTION">
-			<Text>Roman unique Classical era melee unit that replaces the Swordsman. Can build a Roman Fort.</Text>
+			<Text>Унікальний юніт Риму ближнього бою Античної епохи, який замінює Мечників. Може побудувати Римський Форт.</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_DISTRICT_BATH_DESCRIPTION">
-			<Text>A district unique to Rome for city gReplaceth. Replaces the Aqueduct district and cheaper to build.[NEWLINE][NEWLINE]It provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. Must be built adjacent to the City Center. In either case, the Bath provides an additional bonus of +2 [ICON_Housing] Housing and +1 [ICON_Amenities] Amenity. Must be built adjacent to the City Center.</Text>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_BATH_NAME">
+			<Text>Лазня</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_DISTRICT_BATH_EXPANSION2_ALT_DESCRIPTION">
+			<Text>Унікальний район Риму для розширення міста. Замінює район Акведук і дешевший у будівництві.[NEWLINE][NEWLINE]Забезпечує місто джерелом прісної води з прилеглої Річки, Озера, Оазису або Гори. Міста, які ще не мають джерел прісної води, отримують до 6 [ICON_Housing] Житла. Міста, які вже мають джерело прісної води, отримують +2 [ICON_Housing] Житла. Повинна бути побудована поруч з центром міста. У будь-якому випадку, Лазня дає додатковий бонус +2 [ICON_Housing] Житла і +1 [ICON_Amenities] Задоволення. Повинна бути побудована поруч з центром міста.</Text>
 		</Replace>
 
 		<!-- NETHERLANDS -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_NETHERLANDS_NAME">
-			<Text>Netherlands</Text>
+			<Text>Нідерланди</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_NETHERLANDS_DESCRIPTION">
+			<Text>Нідерландська Імперія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_NAME">
-			<Text>Grote Rivieren</Text>
+			<Text>Ґроте Рівірен</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_DESCRIPTION">
-			<Text>Major adjacency bonus for Campuses, Theater Squares, and Industrial Zones if next to a river. Culture Bomb adjacent tiles when completing a Harbor.</Text>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GROTE_RIVIEREN_EXPANSION2_DESCRIPTION">
+			<Text>Великий бонус за сусідство з Кампусами, Театральними площами та промисловими зонами, якщо вони знаходяться поруч з річкою. Культурна бомба на сусідніх тайлах при завершенні гавані.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_POLDER_NAME">
-			<Text>Polder</Text>
+			<Text>Польдер</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_POLDER_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct a Polder, unique to Netherlands.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food, +1 [ICON_Production] Production, and +0.5 [ICON_Housing] Housing. +1 [ICON_FOOD] Food if adjacent to a Polder improvement. Additional [ICON_PRODUCTION] Production, [ICON_GOLD] Gold, and [ICON_FOOD] Food as you advance through the Civics and Technology Tree. Must be placed on a Coast or Lake tile adjacent to 3 or more passable land tiles. Increases [ICON_Movement] Movement Cost of tile to 3.</Text>
+			<Text>Розблоковує можливість Батракам будувати унікальний Польдер Нідерландів.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Їжі, +1 [ICON_Production] Виробництва і +0.5 [ICON_Housing] Житла. +1 [ICON_FOOD] Їжі, якщо вона знаходиться поруч з іншим Польдером. Додаткове [ICON_PRODUCTION] Виробництва, [ICON_GOLD] Золота та [ICON_FOOD] Їжі, коли ви просуваєтесь по Громадському та Технологічному дереві. Повинен бути розміщений на тайлі Узбережжя або Озера поруч з 3 або більше прохідними тайлами суші. Збільшує вартісю [ICON_Movement] Дії тайлом до 3.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_NAME">
-			<Text>De Zeven Provinciën</Text>
+			<Text>Де Зевен Провінцієн</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_DESCRIPTION">
-			<Text>Netherlands unique Renaissance Era unit that replaces the Frigate. +7 [ICON_Strength] Combat Strength when attacking defensible districts.</Text>
+			<Text>Унікальний юніт Нідерландів епохи Відродження, що замінює Фрегат. +7 [ICON_Strength] Атаки при нападі на захистні райони.</Text>
 		</Replace>
+
+		<!-- Потребує перекладу/радагування -->
 
 		<!-- GEORGIA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_GEORGIA_NAME">
