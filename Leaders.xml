@@ -461,7 +461,7 @@
 			<Text>Ваші [ICON_TradeRoute] Торгові шляхи до власних міст дають +2 Прихильності за хід для власного міста. [ICON_TradeRoute] Торгові шляхи до інших міст або з інших міст дають вам +2 [ICON_Culture] Культури.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_WILHELMINA">
-			<Text>Queen Wilhelmina, you will defend the Netherlands to the last. Turn coastland to farmland with Dutch ingenuity. Your citizens will farm with great efficiency, knowing that they are under the protection of your mighty warships. Above all, trade with everyone you meet. A good deal can turn a foe into a friend—and if not, the money will fund your opposition.</Text>
+			<Text>Королево Вільгельміно, ви будете захищати Нідерланди до останнього. З голландською винахідливістю перетворіть Узбережжя на сільськогосподарські угіддя. Ваші громадяни будуть працювати з великою ефективністю, знаючи, що вони під захистом ваших могутніх військових кораблів. Перш за все, торгуйте з усіма, кого зустрінете. Вдала угода може перетворити ворога на друга, а якщо ні, то гроші підуть на фінансування вашого супротиву.</Text>
 		</Replace>
 
 		<!-- Тамар -->
