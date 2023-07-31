@@ -837,70 +837,70 @@
 			<Text>Де Зевен Провінцієн</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_DESCRIPTION">
-			<Text>Унікальний юніт Нідерландів епохи Відродження, що замінює Фрегат. +7 [ICON_Strength] Атаки при нападі на захистні райони.</Text>
+			<Text>Унікальний юніт Нідерландів епохи Відродження, що замінює Фрегат. +7 [ICON_Strength] Атаки при нападі на Оборонні райони.</Text>
 		</Replace>
-
-		<!-- Потребує перекладу/радагування -->
 
 		<!-- GEORGIA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_GEORGIA_NAME">
-			<Text>Georgia</Text>
+			<Text>Грузія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_GEORGIA_ADJECTIVE">
-			<Text>Georgian</Text>
+			<Text>Грузинська</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_GEORGIA_DESCRIPTION">
-			<Text>Georgian Empire</Text>
+			<Text>Грузинська Імперія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_NAME">
-			<Text>Strength in Unity</Text>
+			<Text>Сила в Єднанні</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_GOLDEN_AGE_QUESTS_DESCRIPTION">
-			<Text>When making Dedications at the beginning of a Golden Age or Heroic Age, receive the Normal Age bonus towards improving Era Score in addition to the other bonus. +50% [ICON_Production] Production towards defensive buildings.</Text>
+			<Text>При виборі Великої Місії на початку Золотої або Героїчної епохи, ви отримуєте бонус Звичайної епохи для збільшення Очків Епохи на додаток до інших бонусів. +50% [ICON_Production] Виробництва на Оборонні споруди.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_TSIKHE_NAME">
-			<Text>Tsikhe</Text>
+			<Text>Окрос Ціхе</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_BUILDING_TSIKHE_DESCRIPTION">
-			<Text>A building unique to Georgia. Lower [ICON_Production] Production cost than Renaissance Walls. Raises the strength of your outer defenses to the highest possible level. Provides +3 [ICON_TOURISM] Tourism after advancing to the Conservation Civic. Provides +3 [ICON_Faith] Faith.</Text>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_TSIKHE_DESCRIPTION_XP2">
+			<Text>Унікальна будівля Грузії. Нижча вартість [ICON_Production] Виробництва, ніж у Стін Ренесансу. Підвищує міцність вашої зовнішньої оборони до найвищого можливого рівня. Дає +3 [ICON_TOURISM] Туризму після досліджені Охорони природи. Дає +3 [ICON_Faith] Віри.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_NAME">
-			<Text>Khevsur</Text>
+			<Text>Хевсури</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_GEORGIAN_KHEVSURETI_DESCRIPTION">
-			<Text>Georgian unique Medieval Era unit that replaces the Man-At-Arms. +7 [ICON_Strength] Combat Strength bonus when fighting in hill terrain. No [ICON_Movement] Movement penalty in hill terrain.</Text>
+			<Text>Унікальний юніт Грузії епохи Середньовіччя, який замінює Важких латників. +7 [ICON_Strength] Атаки при боях на Пагорбах. Немає шрафу [ICON_Movement] Дії за пересування на Пагорбах.</Text>
 		</Replace>
 
 		<!-- ZULU -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_ZULU_NAME">
-			<Text>Zulu</Text>
+			<Text>Зулу</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_ZULU_ADJECTIVE">
-			<Text>Zulu</Text>
+			<Text>Зулу</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_ZULU_DESCRIPTION">
-			<Text>Zulu Empire</Text>
+			<Text>Імперія Зулу</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_NAME">
-			<Text>Isibongo</Text>
+			<Text>Ізібонґо</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_ZULU_ISIBONGO_DESCRIPTION">
-			<Text>Cities with a garrisoned unit get +3 Loyalty per turn, or +5 if it is a Corps or Army. Conquering a city with a unit will upgrade it into a Corps or Army, if the proper Civics are unlocked.</Text>
+			<Text>Міста з юнітами гарнізона отримують +3 Прихильності за хід, або +5, якщо це Корпус або Армія. Завоювання міста юнітом підвищує його статус до Корпусу або Армії, якщо розблоковано відповідні Громадські технології.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_IKANDA_NAME">
-			<Text>Ikanda</Text>
+			<Text>Ікандо</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_IKANDA_DESCRIPTION">
-			<Text>A district unique to Zulu which replaces the Encampment. Provides +1 [ICON_Housing] Housing. Once the Civic or Technology prerequisite is met, Corps and Armies can be built outright. Buildings in the Ikanda receive +2 [ICON_GOLD] Gold and +1 [ICON_SCIENCE] Science. Faster Corps and Army creation.</Text>
+			<Text>Унікальний район Зулу, який замінює Військовий табір. Дає +1 [ICON_Housing] Житла. Після того, як будуть дослідженні відповідні Громадські та Наукові технології, Корпуси та Армії можуть тренеруватись відразу. Будівлі в Ікандо отримують +2 [ICON_GOLD] Золота і +1 [ICON_SCIENCE] Науки. Прискорює створення Корпусів і Армій.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_ZULU_IMPI_NAME">
-			<Text>Impi</Text>
+			<Text>Імпі</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_ZULU_IMPI_DESCRIPTION">
-			<Text>Zulu unique Medieval Era unit that replaces the Pikeman. Increased Flanking bonus, low cost and low maintenance. Earns XP faster.</Text>
+			<Text>Унікальна будівля епохи Середньовіччя, який замінює Пікінерів. Збільшений фланговий бонус, низька вартість і низькі витрати на утримування. Швидше заробляє Досвід.</Text>
 		</Replace>
+
+		<!-- Потребує перекладу/радагування -->
 
 		<!-- KOREA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_KOREA_NAME">
