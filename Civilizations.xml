@@ -696,7 +696,7 @@
 			<Text>Велика Стіна</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_GREAT_WALL_EXPANSION2_DESCRIPTION">
-			<Text>Розблоковує унікальну для Китаю здатність Батракам будувати Велику китайську стіну.[NEWLINE][NEWLINE]Збільшує [ICON_Strength] Захист. Бонус до [ICON_Gold] Золота, якщо знаходиться поруч з іншими частинами. Додаткова [ICON_Culture] Культура та [ICON_Tourism] Туризм, коли ви просуваєтеся по Науковому дереві для сусідніх частин. Повинна бути побудована в лінію вздовж кордонів вашої імперії.</Text>
+			<Text>Розблоковує унікальну для Китаю здатність Батракам будувати Велику китайську стіну.[NEWLINE][NEWLINE]Збільшує [ICON_Strength] Захист. Бонус до [ICON_Gold] Золота, якщо знаходиться поруч з іншими частинами. Додаткова [ICON_Culture] Культура та [ICON_Tourism] Туризм, коли ви просуваєтеся по Технологічному дереві для сусідніх частин. Повинна бути побудована в лінію вздовж кордонів вашої імперії.</Text>
 		</Replace>
 
 		<!-- ARABIA -->
@@ -831,7 +831,7 @@
 			<Text>Польдер</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_POLDER_DESCRIPTION">
-			<Text>Розблоковує можливість Батракам будувати унікальний Польдер Нідерландів.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Їжі, +1 [ICON_Production] Виробництва і +0.5 [ICON_Housing] Житла. +1 [ICON_FOOD] Їжі, якщо вона знаходиться поруч з іншим Польдером. Додаткове [ICON_PRODUCTION] Виробництва, [ICON_GOLD] Золота та [ICON_FOOD] Їжі, коли ви просуваєтесь по Громадському та Технологічному дереві. Повинен бути розміщений на тайлі Узбережжя або Озера поруч з 3 або більше прохідними тайлами суші. Збільшує вартісю [ICON_Movement] Дії тайлом до 3.</Text>
+			<Text>Розблоковує можливість Батракам будувати унікальний Польдер Нідерландів.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Їжі, +1 [ICON_Production] Виробництва і +0.5 [ICON_Housing] Житла. +1 [ICON_FOOD] Їжі, якщо вона знаходиться поруч з іншим Польдером. Додаткове [ICON_PRODUCTION] Виробництва, [ICON_GOLD] Золота та [ICON_FOOD] Їжі, коли ви просуваєтесь по Громадському та Технологічному деревах. Повинен бути розміщений на тайлі Узбережжя або Озера поруч з 3 або більше прохідними тайлами суші. Збільшує вартісю [ICON_Movement] Дії тайлом до 3.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_NAME">
 			<Text>Де Зевен Провінцієн</Text>
@@ -891,7 +891,7 @@
 			<Text>Ікандо</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_IKANDA_DESCRIPTION">
-			<Text>Унікальний район Зулу, який замінює Військовий табір. Дає +1 [ICON_Housing] Житла. Після того, як будуть дослідженні відповідні Громадські та Наукові технології, Корпуси та Армії можуть тренеруватись відразу. Будівлі в Ікандо отримують +2 [ICON_GOLD] Золота і +1 [ICON_SCIENCE] Науки. Прискорює створення Корпусів і Армій.</Text>
+			<Text>Унікальний район Зулу, який замінює Військовий табір. Дає +1 [ICON_Housing] Житла. Після того, як будуть дослідженні відповідні Громадські та Технологічні фокуси, Корпуси та Армії можуть тренеруватись відразу. Будівлі в Ікандо отримують +2 [ICON_GOLD] Золота і +1 [ICON_SCIENCE] Науки. Прискорює створення Корпусів і Армій.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_ZULU_IMPI_NAME">
 			<Text>Імпі</Text>
@@ -900,70 +900,70 @@
 			<Text>Унікальна будівля епохи Середньовіччя, який замінює Пікінерів. Збільшений фланговий бонус, низька вартість і низькі витрати на утримування. Швидше заробляє Досвід.</Text>
 		</Replace>
 
-		<!-- Потребує перекладу/радагування -->
-
 		<!-- KOREA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_KOREA_NAME">
-			<Text>Korea</Text>
+			<Text>Корея</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_KOREA_ADJECTIVE">
-			<Text>Korean</Text>
+			<Text>Корейська</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_KOREA_DESCRIPTION">
-			<Text>Korean Empire</Text>
+			<Text>Корейська Імперія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_NAME">
-			<Text>Three Kingdoms</Text>
+			<Text>Три Королівства</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_THREE_KINGDOMS_DESCRIPTION">
-			<Text>Mines receive +1 [ICON_SCIENCE] Science for every adjacent Seowon district. Farms receive +1 [ICON_FOOD] Food for every adjacent Seowon district.</Text>
+			<Text>Рудники отримують +1 [ICON_SCIENCE] Науки за кожен прилеглий район Савон. Ферми отримують +1 [ICON_FOOD] Їжі за кожен сусідній район Савон.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_SEOWON_NAME">
-			<Text>Seowon</Text>
+			<Text>Савон</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_SEOWON_DESCRIPTION">
-			<Text>A district unique to Korea for scientific endeavors. Replaces the Campus district. +4 [ICON_SCIENCE] Science. -1 [ICON_Science] Science for every adjacent district tile. Must be built on Hills.</Text>
+			<Text>Унікальний район Кореї наукової діяльності. Замінює район Кампусу. +4 [ICON_SCIENCE] Науки. -1 [ICON_Science] Науки за кожен сусідній тайл району. Повинен бути побудований на Пагорбах.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_DISTRICT_SEOWON_DESCRIPTION_ADJACENCY">
-			<Text>Adjacency: -1 [ICON_SCIENCE] Science for each adjacent District.</Text>
+			<Text>Прилеглість: -1 [ICON_SCIENCE] Науки за кожний Район поруч.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_KOREAN_HWACHA_NAME">
-			<Text>Hwacha</Text>
+			<Text>Хвача</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_KOREAN_HWACHA_DESCRIPTION">
-			<Text>Korean unique Renaissance Era unit that replaces the Field Cannon. High [ICON_Ranged] Ranged Attack Strength. Cannot move and attack in the same turn.</Text>
+			<Text>Унікальний юніт Кореї епохи Відродження, який замінює Польову гармату. Більша [ICON_Ranged] Дальність атаки. Не може пересуватися і атакувати в той самий хід.</Text>
 		</Replace>
 
 		<!-- SCOTLAND -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SCOTLAND_NAME">
-			<Text>Scotland</Text>
+			<Text>Шотландія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SCOTLAND_ADJECTIVE">
-			<Text>Scottish</Text>
+			<Text>Шотландська</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_SCOTLAND_DESCRIPTION">
-			<Text>Scottish Empire</Text>
+			<Text>Шотландська Імперія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_NAME">
-			<Text>Scottish Enlightenment</Text>
+			<Text>Шотландське Просвітництво</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_SCOTTISH_ENLIGHTENMENT_DESCRIPTION">
-			<Text>Happy cities receive an additional +5% [ICON_SCIENCE] Science and +5% [ICON_PRODUCTION] Production. Happy cities generate +1 [ICON_GreatScientist] Great Scientist point per Campus and +1 [ICON_GreatEngineer] Great Engineer point per Industrial Zone. Ecstatic cities double all these amounts.</Text>
+			<Text>Щасливі міста отримують додаткові +5% [ICON_SCIENCE] Науки та +5% [ICON_PRODUCTION] Виробництва. Щасливі міста отримують +1 очок [ICON_GreatScientist] Великого Вченого за Кампус і +1 очко [ICON_GreatEngineer] Великого Інженера за Індустрільний район. Вишукані міста подвоюють ці показники.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_GOLF_COURSE_NAME">
-			<Text>Golf Course</Text>
+			<Text>Поле для Гольфу</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_GOLF_COURSE_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct a Golf Course, unique to Scotland.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Amenity and +2 [ICON_GOLD] Gold. +1 [ICON_CULTURE] Culture if adjacent to a City Center district and +1 [ICON_CULTURE] Culture if adjacent to an Entertainment Complex district. Additional [ICON_TOURISM] Tourism and [ICON_HOUSING] Housing as you advance through the Civics and Technology Tree. Cannot be placed on Desert or Desert Hills. One per city. Tiles with Golf Courses cannot be swapped. +1 Appeal.</Text>
+		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_GOLF_COURSE_XP2_DESCRIPTION">
+			<Text>Розблоковує можливість Батракам будувати унікальний для Шотландії Поле для Гольфу.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Задоволення та +2 [ICON_GOLD] Золота. +1 [ICON_CULTURE] Культура, якщо прилягає до району Центру міста, і +1 [ICON_CULTURE] Культури, якщо прилягає до району Розважального комплексу. Додатковий [ICON_TOURISM] Туризм і [ICON_HOUSING] Житло, коли ви просуваєтесь по Громадському та Технологічному деревах. Не можуть бути розміщене в Пустелі або на Пустельних Пагорбах. Не більше одного на місто. Тайли з Полями для Гольфу не можна міняти місцями. +1 Привабливість.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_NAME">
-			<Text>Highlander</Text>
+			<Text>Гайлендс</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_DESCRIPTION">
-			<Text>Scottish unique Industrial Era unit that replaces the Ranger. Strong reconnaissance unit. +5 [ICON_Strength] Combat Strength bonus when fighting in Hill and Forest terrain.</Text>
+			<Text>Унікальний Юніт Шотландії Індустріальної епохи, що замніяє Рейнджера. Сильніший за Рейнджерів. +5 [ICON_Strength] Атаки під час бою на Пагорбах і в Лісі.[NEWLINE]</Text>
 		</Replace>
+		
+		<!-- Потребує перекладу/радагування -->
 
 		<!-- CREE -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_CREE_NAME">
