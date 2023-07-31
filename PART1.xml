@@ -1446,10 +1446,10 @@
 			<Text> [COLOR_RED]Мінімум {1_min} місто-держав повинен бути обрано для продовження. Виберіть {2_Remaining} чи більше.[ENDCOLOR] </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_EXCLUDE_NATURAL_WONDER_NAME">
-			<Text> Чудеса світу </Text>
+			<Text> Світові Дива </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_EXCLUDE_NATURAL_WONDER_DESC">
-			<Text> Виберіть, які чудеса світу можуть з’явитися на карті. </Text>
+			<Text> Виберіть, які Світові Дива можуть з’явитися на карті. </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TURNTIMER_NONE">
 			<Text> Немає таймера ходу </Text>
