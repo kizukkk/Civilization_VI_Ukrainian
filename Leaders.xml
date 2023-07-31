@@ -475,7 +475,7 @@
 			<Text>Бойові перемоги дають [ICON_FAITH] Віру, що дорівнює 50% від Атаки переможеного підрозділу (на стандартній швидкості). Кожен [ICON_ENVOY] Посланець, якого ви відправляєте до міста-держави, яка підвладна вашій релігії, вважається за двох [ICON_ENVOY] Посланців. </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_TAMAR">
-			<Text>Fierce Tamar, only a fool could misjudge Georgia's true measure. Hound your enemies with loyal clansmen who strike from the hills. Encourage your foes to dash their best against your cities' enduring walls. The armies of your protectorates will run them down as they flee. If you suffer no fools, great queen, Georgia will not suffer.</Text>
+			<Text>Відчайдушна Тамар, тільки дурень не помітить справжньої міці Грузії. Переслідуйте своїх ворогів разом вірними сокланівцями, атакуючи з Пагорбів. Змушуйте ворогів сліпо йти на стіни ваших міст. Якщо ви не терпітимете дурнів, велика царице, Грузія не страждатиме.</Text>
 		</Replace>
 
 		<!-- Шака -->
@@ -489,7 +489,7 @@
 			<Text>Може формувати Корпуса (Найманство) та Армії (Націоналізм) раніше. Додаткові +5 [ICON_STRENGTH] Атаки Корпусів і Армії. </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_LOADING_INFO_LEADER_SHAKA">
-			<Text>Clever Shaka, king of the Zulu, your soldiers shall win you an empire. The Impi warriors at your command outflank and outfight all who oppose them. The unyielding Zulu armies will prove your strength lies in numbers. You need not war with every neighbor—but let them think you might.</Text>
+			<Text>Мудрий Шака, королю Зулус, ваші воїни здобудуть вам власу Імперію. Воїни Імпі під вашим командуванням наносять нищівні удари з флангу. Непохитня армії Зулу доведуть, що ваша сила - в кількості. Вам не потрібно воювати з усіма навколо - але нехай всі думать зворотнє.</Text>
 		</Replace>
 
 		<!-- Сондок -->
