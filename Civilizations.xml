@@ -21,7 +21,7 @@
 			<Text> Східчаста криниця </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_STEPWELL_EXPANSION2_DESCRIPTION">
-			<Text> Розблоковує можливість Батракам будувати унікальну для Індії Східчасту криницю.[NEWLINE][NEWLINE]+1 [ICON_Food] Їжі та +1 [ICON_Housing] Житла. +1 [ICON_Faith] Віри, якщо прилягає до району Священого місця. +1 [ICON_Food] Їжі, якщо прилягає до Ферми. Додаткове [ICON_Housing] Жило, [ICON_Faith] Віра та [ICON_Food] Їжа, коли ви просуваєтесь по Технологічному, Громадському деревах. Запобігає втраті [ICON_Food] Їжі під час Посухи. Не може бути побудовано на Пагорбах або поруч з іншою криницею. </Text>
+			<Text> Розблоковує здібність Батраків будувати унікальну для Індії Східчасту криницю.[NEWLINE][NEWLINE]+1 [ICON_Food] Їжі та +1 [ICON_Housing] Житла. +1 [ICON_Faith] Віри, якщо прилягає до району Священого місця. +1 [ICON_Food] Їжі, якщо прилягає до Ферми. Додаткове [ICON_Housing] Жило, [ICON_Faith] Віра та [ICON_Food] Їжа, коли ви просуваєтесь по Технологічному, Громадському деревах. Запобігає втраті [ICON_Food] Їжі під час Посухи. Не може бути побудовано на Пагорбах або поруч з іншою криницею. </Text>
 		</Replace>
 
 		<!-- Egypt -->
@@ -44,7 +44,7 @@
 			<Text> Сфінкс </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_SPHINX_EXPANSION2_DESCRIPTION">
-			<Text> Розблоковує можливість Батракам будувати унікального для Єгипту Сфінкса.[NEWLINE][NEWLINE]+1 [ICON_Faith] Віри та +1 [ICON_Culture] Культури. +2 Привабливість. +2 [ICON_Faith] Віри, якщо поруч диво. +1 [ICON_CULTURE] Культури, якщо збудовано на Заплаві. Додаткова [ICON_CULTURE] Культура, якщо відкрито Природознавство. Дає [ICON_TOURISM] Туризм після дослідження Льотних випробвувань. Не може бути побудований поруч з іншим Сфінксом. Не може бути побудований на Снігу або Снігових пагорбах. [NEWLINE] </Text>
+			<Text> Розблоковує здібність Батраків будувати унікального для Єгипту Сфінкса.[NEWLINE][NEWLINE]+1 [ICON_Faith] Віри та +1 [ICON_Culture] Культури. +2 Привабливість. +2 [ICON_Faith] Віри, якщо поруч диво. +1 [ICON_CULTURE] Культури, якщо збудовано на Заплаві. Додаткова [ICON_CULTURE] Культура, якщо відкрито Природознавство. Дає [ICON_TOURISM] Туризм після дослідження Льотних випробвувань. Не може бути побудований поруч з іншим Сфінксом. Не може бути побудований на Снігу або Снігових пагорбах. [NEWLINE] </Text>
 		</Replace>
 
 		<!-- Canada -->
@@ -125,7 +125,7 @@
 			<Text> Шато </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_CHATEAU_EXPANSION2_DESCRIPTION">
-			<Text> Розблоковує можливість Батракам будувати унікальний для Франції замок.[NEWLINE][NEWLINE]+2 [ICON_Culture] Культури та +1 [ICON_Gold] Золота. +1 Привабливість. +1 [ICON_Culture] Культури за кожне сусіднє диво (стає +2 після дослідження Льотних випробувань). +2 [ICON_Gold] Золота, якщо побудований на Берегу річки. Забезпечує [ICON_TOURISM] Туризм з [ICON_CULTURE] Культури після дослідження Льотних випробувань. Має бути розміщений поруч з Бонусним або Розкішним ресурсом. Не може бути побудований поруч з іншим Замком.[NEWLINE] </Text>
+			<Text> Розблоковує здібність Батраків будувати унікальний для Франції замок.[NEWLINE][NEWLINE]+2 [ICON_Culture] Культури та +1 [ICON_Gold] Золота. +1 Привабливість. +1 [ICON_Culture] Культури за кожне сусіднє диво (стає +2 після дослідження Льотних випробувань). +2 [ICON_Gold] Золота, якщо побудований на Берегу річки. Забезпечує [ICON_TOURISM] Туризм з [ICON_CULTURE] Культури після дослідження Льотних випробувань. Має бути розміщений поруч з Бонусним або Розкішним ресурсом. Не може бути побудований поруч з іншим Замком.[NEWLINE] </Text>
 		</Replace>
 
 		<!-- OTTOMAN -->
@@ -183,7 +183,7 @@
 			<Text> Фермерська тераса </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_TERRACE_FARM_DESCRIPTION">
-			<Text> Розблоковує можливість Батракам будувати унікальну Фермерську терасу Інків.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Їжі. Дає +1 [ICON_Housing] Житла. +1 [ICON_FOOD] Їжі за кожен тайл Гір поруч. Отримуйте +2 [ICON_PRODUCTION] Виробництва за кожний Акведук поруч. Також +1 [ICON_PRODUCTION] Виробництвао якщо поруч є доступ до Прісної води, а не до району Акведук.[NEWLINE]Додаткова [ICON_FOOD] Їжа, коли ви просуваєтесь по Громадському та Технологічному деревах при наявності поруч інших Фермерських терас.[NEWLINE]Можна розмістити на Трав'янистих, Рівнинних та Пустельних пагорбах. </Text>
+			<Text> Розблоковує здібність Батраків будувати унікальну Фермерську терасу Інків.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Їжі. Дає +1 [ICON_Housing] Житла. +1 [ICON_FOOD] Їжі за кожен тайл Гір поруч. Отримуйте +2 [ICON_PRODUCTION] Виробництва за кожний Акведук поруч. Також +1 [ICON_PRODUCTION] Виробництвао якщо поруч є доступ до Прісної води, а не до району Акведук.[NEWLINE]Додаткова [ICON_FOOD] Їжа, коли ви просуваєтесь по Громадському та Технологічному деревах при наявності поруч інших Фермерських терас.[NEWLINE]Можна розмістити на Трав'янистих, Рівнинних та Пустельних пагорбах. </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_INCA_WARAKAQ_NAME">
 			<Text> Хвуарака </Text>
@@ -195,7 +195,7 @@
 			<Text> Капак-найн </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MOUNTAIN_ROAD_DESCRIPTION">
-			<Text> Розблоковує можливість Батракам будувати унікальне, для Пачакуті, покращення Капак-найн. [NEWLINE][NEWLINE]Надає зручний прохід між Гір, дозволяючи юнітам заходити з одного боку та виходити з іншого за 2 очки [ICON_Movement] Дії. [ICON_TradeRoute] Торгові шляхи, що проходять через цей прохід, примножують [ICON_Gold] Золото, яке вони отримують від районів у місці призначення. Може бути побудований лише біля Гір. Не може бути розграбованим або зруйнованим. [NEWLINE] </Text>
+			<Text> Розблоковує здібність Батраків будувати унікальне, для Пачакуті, покращення Капак-найн. [NEWLINE][NEWLINE]Надає зручний прохід між Гір, дозволяючи юнітам заходити з одного боку та виходити з іншого за 2 очки [ICON_Movement] Дії. [ICON_TradeRoute] Торгові шляхи, що проходять через цей прохід, примножують [ICON_Gold] Золото, яке вони отримують від районів у місці призначення. Може бути побудований лише біля Гір. Не може бути розграбованим або зруйнованим. [NEWLINE] </Text>
 		</Replace>
 
 		<!-- HUNGARY -->
@@ -346,7 +346,7 @@
 			<Text> Музей під відкритим небом </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_OPEN_AIR_MUSEUM_DESCRIPTION">
-			<Text> Розблоковує можливість Батракам будувати унікальний для Швеції Музей під відкритим небом.[NEWLINE][NEWLINE]Дає +2 Прихильність за хід у цьому місті. +2 [ICON_Culture] Культури і +2 [ICON_Tourism] Туризму за кожен вид місцевості (Сніг, Тундра, Пустеля, Рівнина або Пасовище), в якому засновано принаймні одне шведське місто. По одному на кожне місто. Тайли з Музеями під відкритим небом не можна міняти місцями. </Text>
+			<Text> Розблоковує здібність Батраків будувати унікальний для Швеції Музей під відкритим небом.[NEWLINE][NEWLINE]Дає +2 Прихильність за хід у цьому місті. +2 [ICON_Culture] Культури і +2 [ICON_Tourism] Туризму за кожен вид місцевості (Сніг, Тундра, Пустеля, Рівнина або Пасовище), в якому засновано принаймні одне шведське місто. По одному на кожне місто. Тайли з Музеями під відкритим небом не можна міняти місцями. </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_QUEENS_BIBLIOTHEQUE_NAME">
 			<Text> Королевська Бібліотека </Text>
@@ -434,7 +434,7 @@
 			<Text>Зикурат</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_ZIGGURAT_DESCRIPTION">
-			<Text>Розблоковує можливість Батракам будувати унікальний для Шумер Зикурат.[NEWLINE][NEWLINE]+2 [ICON_Science] Науки. +1 [ICON_Culture] Культури, якщо поруч з річкою. Не можна будувати на пагорбах.</Text>
+			<Text>Розблоковує здібність Батраків будувати унікальний для Шумер Зикурат.[NEWLINE][NEWLINE]+2 [ICON_Science] Науки. +1 [ICON_Culture] Культури, якщо поруч з річкою. Не можна будувати на пагорбах.</Text>
 		</Replace>
 
 		<!-- GREECE -->
@@ -666,10 +666,10 @@
 			<Text>Місіонерський Дім</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MISSION_DESCRIPTION">
-			<Text>Розблоковує можливість Батракам будувати унікальний для Іспанії Місіонерський Дім.[NEWLINE][NEWLINE]+2 [ICON_Faith] Віри. Додатково +2 [ICON_SCIENCE] Науки після відкриття Культурної спадщини. +2 [ICON_Faith] Віри, +1 [ICON_PRODUCTION] Виробництва і +1 [ICON_FOOD] Їжа, якщо ви знаходитесь на іншому континенті, ніж ваша [ICON_Capital] Столиця. +1 [ICON_Science] Науки за кожний поруч Кампус та район Священих місць.[NEWLINE]</Text>
+			<Text>Розблоковує здібність Батраків будувати унікальний для Іспанії Місіонерський Дім.[NEWLINE][NEWLINE]+2 [ICON_Faith] Віри. Додатково +2 [ICON_SCIENCE] Науки після відкриття Культурної спадщини. +2 [ICON_Faith] Віри, +1 [ICON_PRODUCTION] Виробництва і +1 [ICON_FOOD] Їжа, якщо ви знаходитесь на іншому континенті, ніж ваша [ICON_Capital] Столиця. +1 [ICON_Science] Науки за кожний поруч Кампус та район Священих місць.[NEWLINE]</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MISSION_EXPANSION2_DESCRIPTION">
-			<Text>Розблоковує можливість Батракам будувати унікальний для Іспанії Місіонерський Дім.[NEWLINE][NEWLINE]+2 [ICON_Faith] Віри. Додатково +2 [ICON_SCIENCE] Науки після відкриття Культурної спадщини. +2 [ICON_Faith] Віри, +1 [ICON_PRODUCTION] Виробництва і +1 [ICON_FOOD] Їжа, якщо ви знаходитесь на іншому континенті, ніж ваша [ICON_Capital] Столиця. +1 [ICON_Science] Науки за кожний поруч Кампус та район Священих місць.[NEWLINE]</Text>
+			<Text>Розблоковує здібність Батраків будувати унікальний для Іспанії Місіонерський Дім.[NEWLINE][NEWLINE]+2 [ICON_Faith] Віри. Додатково +2 [ICON_SCIENCE] Науки після відкриття Культурної спадщини. +2 [ICON_Faith] Віри, +1 [ICON_PRODUCTION] Виробництва і +1 [ICON_FOOD] Їжа, якщо ви знаходитесь на іншому континенті, ніж ваша [ICON_Capital] Столиця. +1 [ICON_Science] Науки за кожний поруч Кампус та район Священих місць.[NEWLINE]</Text>
 		</Replace>
 
 		<!-- CHINA -->
@@ -783,7 +783,7 @@
 			<Text>Курган</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_KURGAN_DESCRIPTION">
-			<Text>Розблоковує можливість Батракам будувати унікальний для Скіфії Курган.[NEWLINE][NEWLINE]+1 [ICON_Faith] Віри і +3 [ICON_Gold] Золота. +1 [ICON_Faith] Віри за кожне Пасовище поряд (стає +2 після дослідження Стремена). Забезпечує [ICON_TOURISM] Туризм за [ICON_FAITH] Віру після дослідження Льотних випробувань. Не може бути побудований на Пагорбах.</Text>
+			<Text>Розблоковує здібність Батраків будувати унікальний для Скіфії Курган.[NEWLINE][NEWLINE]+1 [ICON_Faith] Віри і +3 [ICON_Gold] Золота. +1 [ICON_Faith] Віри за кожне Пасовище поряд (стає +2 після дослідження Стремена). Забезпечує [ICON_TOURISM] Туризм за [ICON_FAITH] Віру після дослідження Льотних випробувань. Не може бути побудований на Пагорбах.</Text>
 		</Replace>
 
 		<!-- ROME -->
@@ -831,7 +831,7 @@
 			<Text>Польдер</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_POLDER_DESCRIPTION">
-			<Text>Розблоковує можливість Батракам будувати унікальний Польдер Нідерландів.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Їжі, +1 [ICON_Production] Виробництва і +0.5 [ICON_Housing] Житла. +1 [ICON_FOOD] Їжі, якщо вона знаходиться поруч з іншим Польдером. Додаткове [ICON_PRODUCTION] Виробництва, [ICON_GOLD] Золота та [ICON_FOOD] Їжі, коли ви просуваєтесь по Громадському та Технологічному деревах. Повинен бути розміщений на тайлі Узбережжя або Озера поруч з 3 або більше прохідними тайлами суші. Збільшує вартісю [ICON_Movement] Дії тайлом до 3.</Text>
+			<Text>Розблоковує здібність Батраків будувати унікальний Польдер Нідерландів.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Їжі, +1 [ICON_Production] Виробництва і +0.5 [ICON_Housing] Житла. +1 [ICON_FOOD] Їжі, якщо вона знаходиться поруч з іншим Польдером. Додаткове [ICON_PRODUCTION] Виробництва, [ICON_GOLD] Золота та [ICON_FOOD] Їжі, коли ви просуваєтесь по Громадському та Технологічному деревах. Повинен бути розміщений на тайлі Узбережжя або Озера поруч з 3 або більше прохідними тайлами суші. Збільшує вартісю [ICON_Movement] Дії тайлом до 3.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_DE_ZEVEN_PROVINCIEN_NAME">
 			<Text>Де Зевен Провінцієн</Text>
@@ -954,7 +954,7 @@
 			<Text>Поле для Гольфу</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_GOLF_COURSE_XP2_DESCRIPTION">
-			<Text>Розблоковує можливість Батракам будувати унікальний для Шотландії Поле для Гольфу.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Задоволення та +2 [ICON_GOLD] Золота. +1 [ICON_CULTURE] Культура, якщо прилягає до району Центру міста, і +1 [ICON_CULTURE] Культури, якщо прилягає до району Розважального комплексу. Додатковий [ICON_TOURISM] Туризм і [ICON_HOUSING] Житло, коли ви просуваєтесь по Громадському та Технологічному деревах. Не можуть бути розміщене в Пустелі або на Пустельних Пагорбах. Не більше одного на місто. Тайли з Полями для Гольфу не можна міняти місцями. +1 Привабливість.</Text>
+			<Text>Розблоковує здібність Батраків будувати унікальний для Шотландії Поле для Гольфу.[NEWLINE][NEWLINE]+1 [ICON_AMENITIES] Задоволення та +2 [ICON_GOLD] Золота. +1 [ICON_CULTURE] Культура, якщо прилягає до району Центру міста, і +1 [ICON_CULTURE] Культури, якщо прилягає до району Розважального комплексу. Додатковий [ICON_TOURISM] Туризм і [ICON_HOUSING] Житло, коли ви просуваєтесь по Громадському та Технологічному деревах. Не можуть бути розміщене в Пустелі або на Пустельних Пагорбах. Не більше одного на місто. Тайли з Полями для Гольфу не можна міняти місцями. +1 Привабливість.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_NAME">
 			<Text>Гайлендс</Text>
@@ -962,74 +962,68 @@
 		<Replace Language="uk_UA" Tag="LOC_UNIT_SCOTTISH_HIGHLANDER_DESCRIPTION">
 			<Text>Унікальний Юніт Шотландії Індустріальної епохи, що замніяє Рейнджера. Сильніший за Рейнджерів. +5 [ICON_Strength] Атаки під час бою на Пагорбах і в Лісі.[NEWLINE]</Text>
 		</Replace>
-		
-		<!-- Потребує перекладу/радагування -->
 
 		<!-- CREE -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_CREE_NAME">
-			<Text>Cree</Text>
+			<Text>Крі</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_CREE_ADJECTIVE">
-			<Text>Cree</Text>
+			<Text>Крі</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_CREE_DESCRIPTION">
-			<Text>Cree Empire</Text>
+			<Text>Імперія Крі</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_NAME">
-			<Text>Nîhithaw</Text>
+			<Text>Ніґіса</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_CREE_TRADE_GAIN_TILES_DESCRIPTION">
-			<Text>+1 [ICON_TradeRoute] Trade Route capacity and a free Trader with the Pottery technology. Unclaimed tiles within 3 tiles of a Cree city come under Cree control when a Trader first moves into them.</Text>
+			<Text>+1 [ICON_TradeRoute] Торгового шляху і Вільний торговець за технологію Гончарствj. Вільні тайли на відстані 3-х тайлів від міста Крі переходять під їх контроль, коли Торговець спочатку направляється до них.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MEKEWAP_NAME">
-			<Text>Mekewap</Text>
+			<Text>Мекувап</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_MEKEWAP_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct a Mekewap, unique to Cree.[NEWLINE][NEWLINE]Provides +1 [ICON_PRODUCTION] Production and +1 [ICON_Housing] Housing. +1 [ICON_GOLD] Gold if adjacent to a Luxury resource. For every 2 adjacent Bonus Resources +1 [ICON_FOOD] Food. Additional [ICON_PRODUCTION] Production, [ICON_GOLD] Gold, [ICON_FOOD] Food, and [ICON_HOUSING] Housing as you advance through the Civics and Technology Tree. Must be placed adjacent to a Bonus or Luxury resource. Cannot be built adjacent to another Mekewap.</Text>
+			<Text>Розблоковує здібність Батраків будувати унікальний Макувап для племені Крі.[NEWLINE][NEWLINE]+1 [ICON_PRODUCTION] Виробництва та +1 [ICON_Housing] Житла. +1 [ICON_GOLD] Золота, якщо знаходиться поруч з Розкішним ресурсом. За кожні 2 сусідні Бонусні ресурси +1 [ICON_FOOD] Їжі. Додаткове [ICON_PRODUCTION] Виробництво, [ICON_GOLD] Золото, [ICON_FOOD] Їжа та [ICON_HOUSING] Житло, коли ви коли ви просуваєтесь по Громадському та Технологічному деревах. Має бути розміщений поруч з Бонусним або Розкішним ресурсом. Не може бути побудований поруч з іншим Мекувапом.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_CREE_OKIHTCITAW_NAME">
-			<Text>Okihtcitaw</Text>
+			<Text>Окічітта</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_CREE_OKIHTCITAW_DESCRIPTION">
-			<Text>Cree unique Ancient era unit that replaces the Scout. Strong reconnaissance unit. Starts with 1 free promotion.</Text>
+			<Text>Унікальний юніт Стародавньої епохи, що замінює Розвідника. Сильніший за Розвідника. Отримує одразу одне безкоштовне Підвищення.[NEWLINE]</Text>
 		</Replace>
 
 		<!-- MAPUCHE -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAPUCHE_NAME">
-			<Text>Mapuche</Text>
+			<Text>Мапуче</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAPUCHE_ADJECTIVE">
-			<Text>Mapuchen</Text>
+			<Text>Мапуче</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MAPUCHE_DESCRIPTION">
-			<Text>Mapuche Empire</Text>
+			<Text>Імперія Мапуче</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_NAME">
-			<Text>Toqui</Text>
+			<Text>Токі</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MAPUCHE_TOQUI_DESCRIPTION">
-			<Text>Cities with an Established [ICON_Governor] Governor provide +5% [ICON_CULTURE] Culture, +5% [ICON_Production] Production, and +10% experience in combat towards all units trained in this city. These numbers are tripled in cities not founded by the Mapuche. All cities within 9 tiles of a city with your [ICON_Governor] Governor gain +4 Loyalty per turn towards your civilization.</Text>
+			<Text>Міста зі Призначеним [ICON_Governor] Губернатором дають +5% [ICON_CULTURE] Культури, +5% [ICON_Production] Виробництва та +10% досвіду в бою для всіх юнітів, що тренуються в цьому місті. Ці показники потроюються в містах, заснованих не Мапуче. Усі міста в межах 9 тайлів від міста з вашим [ICON_Governor] Губернатором отримують +4 Прихильністі за хід до вашої цивілізації.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_TOQUI_COMBAT_BONUS_VS_GOLDEN_AGE_CIV_DESCRIPTION">
-			<Text>+{1_Amount} versus civilizations in a Golden Age or against a Free City</Text>
-		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_TRAIT_LEADER_LAUTARO_ABILITY_DESCRIPTION">
-			<Text>If a Mapuche Unit defeats an enemy unit within the borders of the enemy city, that city loses 5 Loyalty.</Text>
-		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_CHEMAMULL_NAME">
-			<Text>Chemamull</Text>
+			<Text>Чемамул</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_CHEMAMULL_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct a Chemamull, unique to Mapuche.[NEWLINE][NEWLINE]+1 [Icon_Production] Production. Provides [ICON_CULTURE] Culture equal to 75% of the tile's Appeal. Additional [ICON_TOURISM] Tourism after researching Flight. Minimum Appeal of Breathtaking.</Text>
+			<Text>Розблоковує здібність Батраків будувати унікальний для Мапуче Чемамул.[NEWLINE][NEWLINE]+1 [Icon_Production] Виробництва. Дає [ICON_CULTURE] Культури, що дорівнює 75% від Привабливісті тайла. Додатковий [ICON_TOURISM] Туризм після дослідження Льотних Випробувань. Має мінімальну Захоплюючу Привабливість.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_NAME">
-			<Text>Malón Raider</Text>
+			<Text>Рейдер Малоні</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_MAPUCHE_MALON_RAIDER_DESCRIPTION">
-			<Text>Mapuche unique Renaissance Era unit. +5 [ICON_Strength] Combat Strength bonus if within 4 hexes of friendly territory. Pillaging costs 1 [ICON_Movement] Movement.</Text>
+			<Text>Унікальний юніт епохи Відродження. +5 [ICON_Strength] Атаки, якщо знаходиться в межах 4-х тайлів від союної території. Мародерство вартує 1 [ICON_Movement] Дії.[NEWLINE]</Text>
 		</Replace>
+
+		<!-- Потребує перекладу/радагування -->
 
 		<!-- PERSIA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME">
