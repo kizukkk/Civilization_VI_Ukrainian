@@ -1026,57 +1026,60 @@
 		<!-- Потребує перекладу/радагування -->
 
 		<!-- PERSIA -->
-		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_NUBIA_SCENARIO_PERSIA_NAME">
-			<Text>Persia</Text>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_PERSIA_NAME">
+			<Text>Персія</Text>
 		</Replace>
-		<Replace Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME" Language="fr_FR">
-			<Text>Satrapies</Text>
+		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_PERSIA_DESCRIPTION">
+			<Text>Перська Імперія</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_NAME">
+			<Text>Сатрап</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_SATRAPIES_DESCRIPTION">
-			<Text>+1 [ICON_TradeRoute] Trade Route capacity with Political Philosophy civic. Receive +2 [ICON_Gold] Gold and +1 [ICON_Culture] Culture for routes between your own cities. Roads built in your territory are one level more advanced than usual.</Text>
+			<Text>+1 до [ICON_TradeRoute] Торгових шляхів за дослідження Громадської технології Політична філософія. Отримайте +2 [ICON_Gold] Золота і +1 [ICON_Culture] Культури за шляхи між власними містами. Дороги, побудовані на вашій території, на один рівень кращі за звичайні.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_UNIT_PERSIAN_IMMORTAL_NAME">
-			<Text>Immortal</Text>
+			<Text>Безсмертні</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_PERSIAN_IMMORTAL_DESCRIPTION">
-			<Text>Persian unique melee unit that replaces the Swordsman. Melee class unit with a ranged attack, [ICON_Range] Range 2. Strong defense strength.</Text>
+			<Text>Унікальний юніт ближнього бою Персії, який замінює Мечників. Юніт класу ближнього бою з дальньою атакою, [ICON_Range] Дальність 2. Потужніший захист.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_PAIRIDAEZA_NAME">
-			<Text>Pairidaeza</Text>
+			<Text>Парадіс</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_IMPROVEMENT_PAIRIDAEZA_DESCRIPTION">
-			<Text>Unlocks the Builder ability to construct a Pairidaeza, unique to Persia.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] Culture and +2 [ICON_GOLD] Gold. +1 Appeal. +1 [ICON_CULTURE] Culture for each adjacent Holy Site and Theater Square. +1 [ICON_GOLD] Gold for each adjacent Commercial Hub and City Center. Additional [ICON_Culture] Culture and [ICON_Tourism] Tourism as you advance through the Technology and Civics Tree. Cannot be built on Snow, Tundra, Snow Hills, or Tundra Hills or adjacent to another Pairidaeza.</Text>
+			<Text>Розблоковує здібність Батраків будувати унікальний Парадіс.[NEWLINE][NEWLINE]+1 [ICON_CULTURE] Культури та +2 [ICON_GOLD] Золота. +1 Привабливісті. +1 [ICON_CULTURE] Культури за кожне Священе місце і Театральну площу поруч. +1 [ICON_GOLD] Золото за кожний прилеглий Центр Комерції і Центр міста. Додаткова [ICON_Culture] Культура та [ICON_Tourism] Туризм, коли ви просуваєтесь по Громадському та Технологічному деревах. Не може бути побудоване на Снігу, Тундрі, Снігових Пагорбах, Тундрових Пагорбах або поруч з іншим Парадісом.[NEWLINE]</Text>
 		</Replace>
 
 		<!-- MONGOLIA -->
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MONGOLIA_NAME">
-			<Text>Mongolia</Text>
+			<Text>Монголія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MONGOLIA_ADJECTIVE">
-			<Text>Mongolian</Text>
+			<Text>Монгольська</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_CIVILIZATION_MONGOLIA_DESCRIPTION">
-			<Text>Mongolian Empire</Text>
+			<Text>Монгольська Імперія</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_NAME">
-			<Text>Örtöö</Text>
+			<Text>Ям</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_TRAIT_CIVILIZATION_MONGOLIAN_ORTOO_DESCRIPTION">
-			<Text>Starting a [ICON_TradeRoute] Trade Route immediately creates a [ICON_TradingPost] Trading Post in the destination city. Receive an extra level of [ICON_VisLimited] Diplomatic Visibility for possessing a [ICON_TradingPost] Trading Post in any city of a civilization. All Mongolian units double the usual [ICON_Strength] Combat Bonus for having a higher level of [ICON_VisLimited] Diplomatic Visibility than their opponent.</Text>
+			<Text>Використання [ICON_TradeRoute] Торгового шляху моментально створює [ICON_TradingPost] Факторію у місті призначення. Отримайте додатковий рівень [ICON_VisLimited] Дипломатичного Взору за наявність [ICON_TradingPost] Факторії в будь-якому місті цивілізації. Всі юніти Монголії мають подвоєний бонус [ICON_Strength] Атаки за підвищення рівня [ICON_VisLimited] Дипломатичного Взору, ніж у його противника.</Text>
 		</Replace>
 		<!-- Units/Build/Distirc & Descriptions -->
 		<Replace Language="uk_UA" Tag="LOC_BUILDING_ORDU_NAME">
-			<Text>Ordu</Text>
+			<Text>Орду</Text>
 		</Replace>
-		<Replace Language="uk_UA" Tag="LOC_BUILDING_ORDU_DESCRIPTION">
-			<Text>A building unique to Mongolia. Grants an ability that gives +1 [ICON_MOVEMENT] Movement to Heavy and Light Cavalry trained in this city. +25% combat experience for all cavalry and siege class units trained in this city. May not be built in an Encampment district that already has a Barracks.</Text>
+		<Replace Language="uk_UA" Tag="LOC_BUILDING_ORDU_EXPANSION2_DESCRIPTION">
+			<Text>Унікальна будівля Монголії. Надає здібність, черезу яку всі юніти Легкої кавалерії, що тренується в цьому місті отримують +1 [ICON_MOVEMENT] Дії. +25% бойового досвіду для всіх юнітів Кавалерії та Облоги, що тренуються в цьому місті. Не може бути побудований в районі Військового табору, де вже є Казарми.</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_MONGOLIAN_KESHIG_NAME">
-			<Text>Keshig</Text>
+			<Text>Кешік</Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_UNIT_MONGOLIAN_KESHIG_DESCRIPTION">
-			<Text>Mongolian unique Medieval Era Ranged Cavalry unit. Can escort moving civilian and support units at their higher [ICON_Movement] Movement speed.</Text>
+			<Text>Унікальний юніт Далекобільної кавалерії Монголії епохи Середньовіччя. Може супроводжувати цивільних та юнітів підтримки, що мають більше очок [ICON_Movement] Дії.</Text>
 		</Replace>
 
 		<!-- INDONESIA -->
