@@ -29,6 +29,15 @@
 		<Replace Language="uk_UA" Tag="LOC_SELECTION_EVERYTHING">
 			<Text> Всі </Text>
 		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_ADVISOR_BUTTON_CONTINUE">
+			<Text>Продовжити</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_CONTINUE">
+			<Text>Продовжити</Text>
+		</Replace>
+		<Replace Language="uk_UA" Tag="LOC_RESEARCH_COMPLETE_TECH_BUTTON">
+			<Text>Продовжити</Text>
+		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SELECTION_CUSTOM">
 			<Text> Custom ({1_Count}) </Text>
 		</Replace>
@@ -1227,10 +1236,10 @@
 			<Text> Не придбано вами </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_PARAMETER_ERROR">
-			<Text> Одина або декілька опцій невірні. </Text>
+			<Text> Одна або декілька опцій некоректні. </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR">
-			<Text> Одина або декілька опцій гравця невірні. </Text>
+			<Text> Одна або декілька опцій гравця невірні. </Text>
 		</Replace>
 		<Replace Language="uk_UA" Tag="LOC_SETUP_PLAYER_PARAMETER_ERROR_POPUP">
 			<Text> Зазвичай це спричинено вибором дублікатів лідерів або цивілізацій, коли параметри гри встановлюються, щоб не дозволяти дублікатів. </Text>
